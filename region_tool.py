@@ -1,19 +1,23 @@
+import argparse
 from ocr_video import *
 
-regionFile = "regions.json"
+regions = [
+	"name",
+	"slot",
+	"mainstat_name",
+	"mainstat_value",
+	"level",
+	"sub1",
+	"sub2",
+	"sub3",
+	"sub4",
+]
 
-def makeRegions():
+def makeRegions(regionFile):
 	(success, frame_img) = video.read()
-
-	regions = ["name", "slot", "mainstat_name", "mainstat_value", "level", "sub1", "sub2", "sub3", "sub4"]
 
 	output = {}
 
-	r = cv.selectROI("full", frame_img, showCrosshair = True, fromCenter = False)
-	output["full"] = [int(r[1]), int(r[1]+r[3]), int(r[0]), int(r[0]+r[2])]
-
-
-	arti_img = frame_img[output["full"][0]:output["full"][1], output["full"][2]:output["full"][3]]
 	for region in regions:
 		r = cv.selectROI(region, arti_img, showCrosshair = True, fromCenter = False)
 		output[region] = [int(r[1]), int(r[1]+r[3]), int(r[0]), int(r[0]+r[2])]
@@ -24,7 +28,7 @@ def makeRegions():
 	f.write(outStr)
 	f.close()
 
-def drawRegions():
+def drawRegions(regionFile):
 	# load regions from json
 	f = open(regionFile)
 	regions = json.load(f)
@@ -40,4 +44,19 @@ def drawRegions():
 	cv.imshow("regions", frame_cropped)
 	cv.waitKey()
 
-drawRegions()
+def main():
+	parser = argparse.ArgumentParser(
+		prog = 'Artifact Region Tool',
+		description = 'Set or draw artifact regions.')
+	parser.add_argument('filename')     # positional argument
+	group = parser.add_mutually_exclusive_group()
+	group.add_argument('-d', '--draw', action = "store_true", help = "Draw regions") # option that takes a value
+	group.add_argument('-s', '--set', action = "store_true", help = "Set regions")  # on/off flag
+	#parser.add_argument('-i', '--image', help = "Image to use", default = )
+	args = parser.parse_args()
+
+	if args.draw: drawRegions(args.filename)
+	if args.set: makeRegions(args.filename)
+
+
+if __name__ == "__main__": main()
