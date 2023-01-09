@@ -56,12 +56,30 @@ def parseSubstatOCR(ocrSubstat, artifactLevel = 0):
 	value = float(valueStr.rstrip("%"))
 	return (key, value, rolls)
 
-## needs to return how many rolls it takes to get the sum
-def canSum(targetSum, numbers, maxNumbers):
+## returns number of rolls to make a sum
+def canSum(targetSum, numbers, depth = 0):
 	#print("checking",round(targetSum, 1),"vs",numbers,"at depth",maxNumbers)
 	if round(targetSum, 1) == 0: return True
 	elif targetSum < 0 or maxNumbers == 0: return False
 	else: return any(map(lambda x: canSum(targetSum - x * 100, numbers, maxNumbers - 1), numbers))
+
+# todo: supply a roundFunc instead of args to pass to round()
+# values ending in 5 might be rounded differently in python than in game
+def allValues(numbers, maxDepth = 1, places = 0, multi = 1):
+    exacts = [{0}] * (maxDepth + 1)
+    for i in range(1, maxDepth + 1):
+       exacts[i] = {x + y for x in exacts[i-1] for y in numbers}
+    rounded = map(lambda row: {round(x * multi, places) for x in row}, exacts)
+    return rounded
+
+def mapFunc(key):
+    if key.endswith("_"):
+        multi = 100
+        places = 1
+    else:
+        multi = 1
+        places = 0
+    return set().union(*list(allValues(ARTIFACT_STATS[0]["substats"][key], 6, places, multi)))
 
 print(parseSubstatOCR("ATK+4.1%", 5))
 print(parseSubstatOCR("ATK+S5.1%", 5))
