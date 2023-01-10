@@ -1,8 +1,8 @@
 import cv2 as cv
 import pytesseract
 import numpy as np
-import json
 import validate_ocr
+from util import *
 
 ## todo:
 ## cv pyramids
@@ -30,17 +30,15 @@ def moveWindows():
 	for name in positions:
 		cv.moveWindow(name,*positions[name])
 
-## TODO: move this to util
-def loadJsonFile(filename):
-	f = open(filename)
-	obj = json.load(f)
-	f.close()
-	return obj
+
 
 def getVideoShape(video):
 	width = int(video.get(cv.CAP_PROP_FRAME_WIDTH))
 	height = int(video.get(cv.CAP_PROP_FRAME_HEIGHT))
 	return height, width, 3
+
+def checkFrameDiff():
+	return None
 
 ## frame skipping logic goes in here
 ## look at substat area only
@@ -53,7 +51,7 @@ def parseVideo(video, regions):
 	results = map(lambda f: parseFrame(f, regions), iterateVideo(video, regions))
 	for r in results:
 		print(r)
-		validate_ocr.validateResult(r)
+		valid = validate_ocr.validateResult(r)
 
 def sliceRegion(vidFrame, region):
 	return vidFrame[*[slice(*x) for x in region]]
@@ -70,13 +68,16 @@ def processImage(img):
 
 def parseFrame(vidFrame, regions):
 	regionImages = map(lambda r: sliceRegion(vidFrame, r), regions.values())
-	results = map(parseImg, regionImages, regions.keys())
-	return dict(results)
+	frameResult = map(parseImg, regionImages, regions.keys())
+	return dict(frameResult)
 
-def parseImg(img, key):
+def parseImg(img, regionKey):
 	imgProcessed = processImage(img)
-	textRaw = pytesseract.image_to_string(imgProcessed) # todo - configs?
-	return key, textRaw
+	tessConfigs = {
+		"name": "--psm 6",
+	}
+	textRaw = pytesseract.image_to_string(imgProcessed, config = tessConfigs.get(regionKey, "--psm 7"))
+	return regionKey, textRaw
 
 def main():
 	videoPath = "./stream.mkv"

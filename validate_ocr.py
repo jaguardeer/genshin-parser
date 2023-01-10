@@ -1,12 +1,5 @@
-import json
+from util import *
 import re
-
-## TODO: move this to util
-def loadJsonFile(filename):
-	file = open(filename)
-	result = json.load(file)
-	file.close()
-	return result
 
 MAINSTAT_KEY_STRINGS = {
 	"HP": "",
