@@ -1,33 +1,22 @@
-import time
-import numpy as np
-import cv2 as cv
+from util import *
+
+# values ending in 5 might be rounded differently in python than in game
+def genUniqueSums(numbers, maxDepth, roundFunc):
+	sums = [{0}] * (maxDepth + 1)
+	for i in range(1, maxDepth + 1):
+		sums[i] = {x + y for x in sums[i-1] for y in numbers}
+	roundSums = map(lambda row: {roundFunc(x) for x in row}, sums)
+	return roundSums
+
+def mapFunc(key):
+	return set().union(*list(genUniqueSums(substats[key], 6, getRoundFunc(key))))
+
+def getRoundFunc(statKey):
+	return (lambda x: round(x * 100, 1)) if statKey.endswith("_") else (lambda x: round(x))
 
 
-def defaultAlloc():
-	video = cv.VideoCapture("./stream.mkv")
-	while True:
-		success, frame = video.read()
-		if not success: break
-		x = 2 + 2
+substats = loadJsonFile("./artifact-stats.json")[0]["substats"]
 
-def getVideoShape(video):
-	width = int(video.get(cv.CAP_PROP_FRAME_WIDTH))
-	height = int(video.get(cv.CAP_PROP_FRAME_HEIGHT))
-	return height, width, 3
+numberSets = set().union(*map(lambda k: set.union(*genUniqueSums(substats[k], 6, getRoundFunc(k))), substats.keys()))
 
-def preAlloc():
-	video = cv.VideoCapture("./stream2.mkv")
-	frameBuffer = np.empty(getVideoShape(video), np.uint8)
-	while video.read(frameBuffer)[0]:
-		x = 2 + 2
-
-
-start = time.time()
-defaultAlloc()
-end = time.time()
-print(f"default allocation: {end - start}")
-
-start = time.time()
-preAlloc()
-end = time.time()
-print(f"pre allocation: {end - start}")
+allPossibleNumbers = set().union()
