@@ -21,4 +21,5 @@ def rect2slices(rect):
 def crop(img, rect):
 	return img[*rect2slices(rect)]
 
-def binarizeSubstat
+def binarizeSubstat():
+	return
