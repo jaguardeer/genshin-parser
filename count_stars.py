@@ -3,7 +3,6 @@ import numpy as np
 import time
 from util import *
 
-## todo: match on binarized version
 sourceImg = cv.imread('artifact-page.png')
 grayImg = cv.cvtColor(sourceImg, cv.COLOR_BGR2GRAY)
 template = cv.imread('test-template.png', 0)
@@ -12,11 +11,12 @@ template = cv.imread('test-template.png', 0)
 ## select ROI
 roi = cv.selectROI(sourceImg)
 cropImg = crop(grayImg, roi)
-show(cropImg)
+_, binImg = cv.threshold(cropImg, 128 ,255, cv.THRESH_BINARY_INV)
+show(binImg)
 
 h, w, *channels = template.shape
 ## todo: learn what different matching methods do
-matchImg = cv.matchTemplate(cropImg, template, cv.TM_CCOEFF_NORMED)
+matchImg = cv.matchTemplate(binImg, template, cv.TM_CCOEFF_NORMED)
 
 """
 ## multiple matching
@@ -29,12 +29,10 @@ for pt in zip(*loc[::-1]):
 ## best fit matching
 minVal, maxVal, minLoc, maxLoc = cv.minMaxLoc(matchImg)
 
-pt = maxLoc
-print(maxVal)
-cv.rectangle(cropImg, pt, (pt[0] + w, pt[1] + h), (255,0,0), 2)
-
+pt = (maxLoc[0] + roi[0], maxLoc[1] + roi[1])
+cv.rectangle(sourceImg, pt, (pt[0] + w, pt[1] + h), (255,0,0), 2)
 
 ## show, write results
-show(cropImg)
+show(sourceImg)
 cv.imwrite('res.png', cropImg)
 # print(len(list(zip(*loc[::-1]))))

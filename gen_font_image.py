@@ -45,4 +45,4 @@ cv.rectangle(img, boundBox, (0, 0, 255))
 ## display and write file
 imgName = "test-template"
 cv.imshow(imgName, img);cv.waitKey();cv.destroyAllWindows()
-cv.imwrite(f"{imgName}.png", img)
+cv.imwrite(f"{imgName}.png", binImg)
