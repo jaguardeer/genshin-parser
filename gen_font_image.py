@@ -29,15 +29,14 @@ draw.text((0, 0), text, font = font, fill = fgColor_BGR)
 img = np.array(img_pil)
 
 ## (WIP) resize to fit game text
-#scale = 19.5/25
-#img = cv.resize(img, None)
+scale = 19.5/25
+img = cv.resize(img, None, fx = scale, fy = scale)
 
 ## gen binarized image
 grayImg = cv.cvtColor(img, cv.COLOR_RGB2GRAY)
 _, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
 show(grayImg)
 show(binImg)
-cv.imshow("test", binImg);cv.waitKey();cv.destroyAllWindows()
 
 ## find bounding box
 boundBox = cv.boundingRect(binImg)
