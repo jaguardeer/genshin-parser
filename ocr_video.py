@@ -5,14 +5,12 @@ import validate_ocr
 from util import *
 
 ## todo:
-## cv pyramids
-## use tesseract dll?
+## cv pyramids?
 ## log stuff:
+## -- log images
 ## -- errors
 ## -- corrections
 ## -- dupes
-## add more/better corrections (stat names)
-## if I still save images to disk, use my own wrapper for tesseract
 
 ## for debug
 def moveWindows():
@@ -98,7 +96,7 @@ def parseImg(img, regionKey):
 	results.sort(key = lambda x: x["score"])
 	best = results[0]
 	secondBest = results[1]
-	#print(best, secondBest)
+	#print(best, secondBDEF+27.0%.pngest)
 	if best["score"] > 10:
 		print(best, secondBest)
 		global warnCount
