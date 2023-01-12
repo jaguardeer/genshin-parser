@@ -19,23 +19,41 @@ substats = loadJsonFile("./artifact-stats.json")[0]["substats"]
 
 numberSets = set().union(*map(lambda k: set.union(*genUniqueSums(substats[k], 6, getRoundFunc(k))), substats.keys()))
 
+SUBSTAT_KEY_STRINGS = {
+	"hp": ("HP", ""),
+	"hp_": ("HP", "%"),
+	"atk": ("ATK", ""),
+	"atk_": ("ATK", "%"),
+	"def": ("DEF", ""),
+	"def_": ("DEF", "%"),
+	"critRate_": ("CRIT Rate", "%"),
+	"critDMG_": ("CRIT DMG", "%"),
+	"enerRech_": ("Energy Recharge", "%"),
+	"eleMas": ("Elemental Mastery", ""),
+}
+
+
 from gen_font_image import *
 
-for i in range(20, 32):
-	## text config
-	gray = (92, 77, 71)
-	cream = (215, 228, 233)
-	fontPath = "./zh-cn.ttf"
-	font = ImageFont.truetype(fontPath, i)
+## text config
+# 24 seems to be a good value
+fontSize = 24
+fontPath = "./zh-cn.ttf"
+font = ImageFont.truetype(fontPath, fontSize)
+gray = (92, 77, 71)
+cream = (215, 228, 233)
 
-	k = "atk_"
-	x = list(genUniqueSums(substats[k], 1, getRoundFunc(k)))
-	values = {*x[1], 4.7, 3.3}
-	prefix = "ATK+"
-	suffix = "%"
+for item in SUBSTAT_KEY_STRINGS.items():
+	key = item[0]
+	depth = 6
+	values = set().union(*list(genUniqueSums(substats[key], depth, getRoundFunc(key)))[1:])
+	prefix = item[1][0]
+	suffix = item[1][1]
 
+	print(prefix, suffix)
+	print(values)
 
 	for v in values:
-		string = f"{prefix}{v}{suffix}"
+		string = f"{prefix}+{v}{suffix}"
 		img = createTemplate(string, font, gray, cream)
-		cv.imwrite(f"templates/{string}-{i}.png", img)
+		cv.imwrite(f"templates/{string}.png", img)
