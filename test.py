@@ -19,4 +19,22 @@ substats = loadJsonFile("./artifact-stats.json")[0]["substats"]
 
 numberSets = set().union(*map(lambda k: set.union(*genUniqueSums(substats[k], 6, getRoundFunc(k))), substats.keys()))
 
-allPossibleNumbers = set().union()
+from gen_font_image import *
+
+## text config
+gray = (92, 77, 71)
+cream = (215, 228, 233)
+fontPath = "./zh-cn.ttf"
+font = ImageFont.truetype(fontPath, 32)
+
+k = "enerRech_"
+x = list(genUniqueSums(substats[k], 1, getRoundFunc(k)))
+values = {*x[1], 4.7}
+prefix = "Energy Recharge+"
+suffix = "%"
+
+
+for v in values:
+	string = f"{prefix}{v}{suffix}"
+	img = createTemplate(string, font, gray, cream)
+	cv.imwrite(f"templates/{string}.png", img)

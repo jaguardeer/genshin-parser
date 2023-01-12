@@ -2,6 +2,7 @@ import cv2 as cv
 import numpy as np
 import time
 from util import *
+import os
 
 def getMatchCoeff(img, template):
 	## resize to match template size
@@ -11,12 +12,12 @@ def getMatchCoeff(img, template):
 	matchImg = cv.matchTemplate(resized, template, cv.TM_CCOEFF_NORMED)
 	## best fit matching
 	minVal, maxVal, minLoc, maxLoc = cv.minMaxLoc(matchImg)
-	print(f"match coeff is {round(maxVal, 3)}")
 	return maxVal, maxLoc
 
 def main():
 	sourceImg = cv.imread('artifact-page.png')
-	template = cv.imread('test-template.png', 0)
+	templateDir = "./templates"
+	templateFiles = os.listdir(templateDir)
 
 	## select ROI
 	roi = cv.selectROI(sourceImg)
@@ -28,16 +29,21 @@ def main():
 	binRect = cv.boundingRect(binImg)
 	binImg = crop(binImg, binRect)
 
-	## run template matching
-	maxVal, maxLoc = getMatchCoeff(binImg, template)
+	start = time.time()
+	for file in templateFiles:
+		template = cv.imread(f"{templateDir}/{file}", 0)
 
-	## draw rect around matched point
-	pt = (maxLoc[0] + roi[0], maxLoc[1] + roi[1])
-	w, h = binRect[2] - binRect[0], binRect[3] - binRect[1]
-	cv.rectangle(sourceImg, pt, (pt[0] + w, pt[1] + h), (255,0,0), 2)
+		## run template matching
+		maxVal, maxLoc = getMatchCoeff(binImg, template)
+		print(f"match coeff is {round(maxVal, 3)} for {file} at {maxLoc}")
 
-	## show, write results
-	show(sourceImg)
-	cv.imwrite('res.png', cropImg)
+		## draw rect around matched point
+		pt = (maxLoc[0] + roi[0], maxLoc[1] + roi[1])
+		w, h = binRect[2] - binRect[0], binRect[3] - binRect[1]
+		cv.rectangle(sourceImg, pt, (pt[0] + w, pt[1] + h), (255,0,0), 2)
+
+		## show, write results
+		#show(sourceImg)
+	print(f"took {time.time() - start} seconds")
 
 if __name__ == "__main__": main()
