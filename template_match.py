@@ -7,9 +7,13 @@ import os
 def getMatchCoeff(img, template):
 	## resize to match template size
 	h, w, *channels = template.shape
-	resized = cv.resize(img, (w, h))
+	resized = cv.resize(img, (w, h), interpolation = cv.INTER_NEAREST)
 	# take sum of diff
-	diff = np.sum(np.abs(template - resized))
+	diffImg = np.abs(template - resized)
+	erodeKernel = np.ones((2, 2), np.uint8)
+	diffImg = cv.erode(diffImg, erodeKernel)
+	diff = np.sum(diffImg)
+	#show(diffImg)
 	return diff
 
 def main():
@@ -39,7 +43,7 @@ def main():
 	print(f"ran {len(results)} checks in {round(time.time()-start, 3)*1000}ms")
 	results.sort(key = lambda x: x["score"])
 	from pprint import pprint
-	pprint(results)
+	pprint(results[0:20])
 	return results
 
 if __name__ == "__main__": main()

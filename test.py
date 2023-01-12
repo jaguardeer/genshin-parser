@@ -21,17 +21,17 @@ numberSets = set().union(*map(lambda k: set.union(*genUniqueSums(substats[k], 6,
 
 from gen_font_image import *
 
-for i in range(4, 32):
+for i in range(20, 32):
 	## text config
 	gray = (92, 77, 71)
 	cream = (215, 228, 233)
 	fontPath = "./zh-cn.ttf"
 	font = ImageFont.truetype(fontPath, i)
 
-	k = "enerRech_"
+	k = "atk_"
 	x = list(genUniqueSums(substats[k], 1, getRoundFunc(k)))
-	values = {*x[1], 4.7}
-	prefix = "Energy Recharge+"
+	values = {*x[1], 4.7, 3.3}
+	prefix = "ATK+"
 	suffix = "%"
 
 
