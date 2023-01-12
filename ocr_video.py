@@ -42,10 +42,17 @@ def checkFrameDiff():
 
 ## frame skipping logic goes in here
 ## look at substat area only
+from template_match import getMatchCoeff
 def iterateVideo(video, regions):
+	prevFrame = np.ones(getVideoShape(video), np.uint8)
 	frameBuffer = np.empty(getVideoShape(video), np.uint8)
 	while video.read(frameBuffer)[0]:
-		yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY)
+		diff = np.sum(cv.erode(np.abs(frameBuffer - prevFrame), np.ones((2, 2), np.uint8)))
+		#print(diff)
+		if diff > 22_000_000: yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY)
+		temp = prevFrame
+		prevFrame = frameBuffer
+		frameBuffer = temp
 
 def parseVideo(video, regions):
 	results = map(lambda f: parseFrame(f, regions), iterateVideo(video, regions))
@@ -73,6 +80,7 @@ def processImage(img):
 from template_match import *
 templateDir = "./templates"
 templateFiles = os.listdir(templateDir)
+warnCount = 0
 
 def parseImg(img, regionKey):
 	binImg = processImage(img)
@@ -83,6 +91,13 @@ def parseImg(img, regionKey):
 		return diff
 	results = list(map(lambda x: {"fn": x, "score": calcDiff(x)}, templateFiles))
 	results.sort(key = lambda x: x["score"])
+	best = results[0]
+	secondBest = results[1]
+	#print(best, secondBest)
+	if best["score"] > 10:
+		#print(best, secondBest)
+		global warnCount
+		warnCount += 1
 	textRaw = results[0]["fn"].rstrip(".png")
 	return regionKey, textRaw
 
@@ -94,6 +109,8 @@ def main():
 	regions = loadJsonFile(regionsPath)
 
 	parseVideo(video, regions)
+	global warnCount
+	print(warnCount)
 
 ## Only run main if not in -i and not imported
 import sys
