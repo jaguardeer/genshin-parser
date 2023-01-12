@@ -41,6 +41,7 @@ show(binImg)
 ## find bounding box
 boundBox = cv.boundingRect(binImg)
 cv.rectangle(img, boundBox, (0, 0, 255))
+binImg = crop(binImg, cv.boundingRect(binImg))
 
 ## display and write file
 imgName = "test-template"
