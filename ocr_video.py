@@ -56,27 +56,34 @@ def parseVideo(video, regions):
 def sliceRegion(vidFrame, region):
 	return vidFrame[*[slice(*x) for x in region]]
 
-## process image for OCR. standard erode/dilate/binarize/scale
-def processImage(img):
-	erodeKernel = np.ones((2, 2), np.uint8)
-	dilateKernel = np.ones((2, 2), np.uint8)
-	imgResult = cv.erode(img, erodeKernel)
-	imgResult = cv.dilate(imgResult, dilateKernel)
-	_, imgResult = cv.threshold(imgResult, 128 ,255, cv.THRESH_BINARY | cv.THRESH_OTSU)
-	imgResult = cv.resize(imgResult, None, fx=8, fy=8, interpolation=cv.INTER_CUBIC)
-	return imgResult
-
 def parseFrame(vidFrame, regions):
 	regionImages = map(lambda r: sliceRegion(vidFrame, r), regions.values())
 	frameResult = map(parseImg, regionImages, regions.keys())
 	return dict(frameResult)
 
+## process image for template matching
+def processImage(img):
+	## binarize and crop to bounding box
+	_, binImg = cv.threshold(img, 128 ,255, cv.THRESH_BINARY_INV)
+	binRect = cv.boundingRect(binImg)
+	binImg = crop(binImg, binRect)
+	return binImg
+
+## new parsing using simple image matching
+from template_match import *
+templateDir = "./templates"
+templateFiles = os.listdir(templateDir)
+
 def parseImg(img, regionKey):
-	imgProcessed = processImage(img)
-	tessConfigs = {
-		"name": "--psm 6",
-	}
-	textRaw = pytesseract.image_to_string(imgProcessed, config = tessConfigs.get(regionKey, "--psm 7"))
+	binImg = processImage(img)
+	def calcDiff(file):
+		template = cv.imread(f"{templateDir}/{file}", 0)
+		diff = getMatchCoeff(binImg, template)
+		#print(f"diff is {round(diff, 3)} for {file}")
+		return diff
+	results = list(map(lambda x: {"fn": x, "score": calcDiff(x)}, templateFiles))
+	results.sort(key = lambda x: x["score"])
+	textRaw = results[0]["fn"].rstrip(".png")
 	return regionKey, textRaw
 
 def main():
