@@ -30,8 +30,6 @@ def moveWindows():
 	for name in positions:
 		cv.moveWindow(name,*positions[name])
 
-
-
 def getVideoShape(video):
 	width = int(video.get(cv.CAP_PROP_FRAME_WIDTH))
 	height = int(video.get(cv.CAP_PROP_FRAME_HEIGHT))
@@ -46,16 +44,16 @@ from template_match import getMatchCoeff
 def iterateVideo(video, regions):
 	prevFrame = np.ones((159, 308, 3), np.uint8)
 	frameBuffer = np.empty(getVideoShape(video), np.uint8)
-	i = 0
+	frameCount = 0
 	while video.read(frameBuffer)[0]:
-		i += 1
+		frameCount += 1
 		substatRegion = frameBuffer[473:632, 1357:1665]
 		diff = np.sum(cv.erode(np.abs(substatRegion - prevFrame), np.ones((2, 2), np.uint8)))
 		#print(f"{i}: {diff}")
 		if diff > 1_500_000:
 			#print(f"frame {i}")
-			cv.imwrite(f"./frames2/{str(i)}.png", frameBuffer)
-			yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY)
+			cv.imwrite(f"./frames2/{str(frameCount)}.png", frameBuffer)
+			yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY), frameCount
 		np.copyto(prevFrame, substatRegion)
 
 def parseVideo(video, regions):
@@ -66,10 +64,13 @@ def parseVideo(video, regions):
 def sliceRegion(vidFrame, region):
 	return vidFrame[*[slice(*x) for x in region]]
 
-def parseFrame(vidFrame, regions):
+def parseFrame(frameInfo, regions):
+	vidFrame, frameNum = frameInfo
 	regionImages = map(lambda r: sliceRegion(vidFrame, r), regions.values())
 	frameResult = map(parseImg, regionImages, regions.keys())
-	return dict(frameResult)
+	finalResult = dict(frameResult)
+	finalResult["frameNumber"] = frameNum
+	return finalResult
 
 ## process image for template matching
 def processImage(img):
@@ -115,7 +116,7 @@ def main():
 
 	results = parseVideo(video, regions)
 	outFile = open("artifacts.json", "w")
-	json.dump(results, outFile, skipkeys = True)
+	json.dump(results, outFile, indent = 2, skipkeys = True)
 	outFile.close()
 	global warnCount
 	print(warnCount)
