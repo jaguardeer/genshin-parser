@@ -84,17 +84,17 @@ def processImage(img):
 from template_match import *
 templateDir = "./templates"
 templateFiles = os.listdir(templateDir)
+templateImages = [(file, cv.imread(f"{templateDir}/{file}", 0)) for file in templateFiles]
 warnCount = 0
 
 def parseImg(img, regionKey):
 	binImg = processImage(img)
 	if(binImg.shape[0] * binImg.shape[1] < 100): return regionKey, ("", -1)
-	def calcDiff(file):
-		template = cv.imread(f"{templateDir}/{file}", 0)
-		diff = getMatchCoeff(binImg, template)
+	def calcDiff(templateImg):
+		diff = getMatchCoeff(binImg, templateImg)
 		#print(f"diff is {round(diff, 3)} for {file}")
 		return diff
-	results = list(map(lambda x: {"fn": x, "score": calcDiff(x)}, templateFiles))
+	results = list(map(lambda x: {"fn": x[0], "score": calcDiff(x[1])}, templateImages))
 	results.sort(key = lambda x: x["score"])
 	best = results[0]
 	secondBest = results[1]

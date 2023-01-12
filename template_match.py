@@ -22,6 +22,7 @@ def main():
 	sourceImg = cv.imread(sourceFn)
 	templateDir = "./templates"
 	templateFiles = os.listdir(templateDir)
+	templateFiles = ["DEF+27.0%.png"]
 
 	## select ROI
 	roi = cv.selectROI(sourceImg)
@@ -34,7 +35,7 @@ def main():
 	_, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
 	binRect = cv.boundingRect(binImg)
 	binImg = crop(binImg, binRect)
-	#show(binImg)
+	show(binImg)
 
 	start = time.time()
 	def calcDiff(file):
