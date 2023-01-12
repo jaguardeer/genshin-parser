@@ -44,26 +44,24 @@ def checkFrameDiff():
 ## look at substat area only
 from template_match import getMatchCoeff
 def iterateVideo(video, regions):
-	prevFrame = np.ones(getVideoShape(video), np.uint8)
+	prevFrame = np.ones((159, 308, 3), np.uint8)
 	frameBuffer = np.empty(getVideoShape(video), np.uint8)
 	i = 0
 	while video.read(frameBuffer)[0]:
 		i += 1
-		diff = np.sum(cv.erode(np.abs(frameBuffer - prevFrame), np.ones((2, 2), np.uint8)))
-		#print(diff)
-		if diff > 22_000_000:
-			print(f"frame {i}")
+		substatRegion = frameBuffer[473:632, 1357:1665]
+		diff = np.sum(cv.erode(np.abs(substatRegion - prevFrame), np.ones((2, 2), np.uint8)))
+		#print(f"{i}: {diff}")
+		if diff > 1_500_000:
+			#print(f"frame {i}")
 			cv.imwrite(f"./frames2/{str(i)}.png", frameBuffer)
 			yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY)
-		temp = prevFrame
-		prevFrame = frameBuffer
-		frameBuffer = temp
+		np.copyto(prevFrame, substatRegion)
 
 def parseVideo(video, regions):
-	results = map(lambda f: parseFrame(f, regions), iterateVideo(video, regions))
-	for r in results:
-		#print(r)
-		valid = validate_ocr.validateResult(r)
+	results = list(map(lambda f: parseFrame(f, regions), iterateVideo(video, regions)))
+	return results
+	#valid = validate_ocr.validateResult(r)
 
 def sliceRegion(vidFrame, region):
 	return vidFrame[*[slice(*x) for x in region]]
@@ -89,6 +87,7 @@ warnCount = 0
 
 def parseImg(img, regionKey):
 	binImg = processImage(img)
+	if(binImg.shape[0] * binImg.shape[1] < 100): return regionKey, ("", -1)
 	def calcDiff(file):
 		template = cv.imread(f"{templateDir}/{file}", 0)
 		diff = getMatchCoeff(binImg, template)
@@ -104,18 +103,23 @@ def parseImg(img, regionKey):
 		global warnCount
 		warnCount += 1
 	textRaw = results[0]["fn"].rstrip(".png")
-	return regionKey, textRaw
+	return regionKey, (textRaw, int(best["score"]))
 
 def main():
+	start = time.time()
 	videoPath = "./stream.mkv"
 	regionsPath = "./regions.json"
 
 	video = cv.VideoCapture(videoPath)
 	regions = loadJsonFile(regionsPath)
 
-	parseVideo(video, regions)
+	results = parseVideo(video, regions)
+	outFile = open("artifacts.json", "w")
+	json.dump(results, outFile, skipkeys = True)
+	outFile.close()
 	global warnCount
 	print(warnCount)
+	print(f"took {time.time() - start} seconds")
 
 ## Only run main if not in -i and not imported
 import sys
