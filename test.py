@@ -54,6 +54,6 @@ for item in SUBSTAT_KEY_STRINGS.items():
 	print(values)
 
 	for v in values:
-		string = f"{prefix}+{v}{suffix}"
+		string = f"{prefix}+{v:,}{suffix}"
 		img = createTemplate(string, font, gray, cream)
 		cv.imwrite(f"templates/{string}.png", img)
