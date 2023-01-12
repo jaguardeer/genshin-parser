@@ -16,20 +16,25 @@ def getMatchCoeff(img, template):
 	#show(diffImg)
 	return diff
 
+import sys
 def main():
-	sourceImg = cv.imread('artifact-page2.png')
+	sourceFn = sys.argv[1] if len(sys.argv) > 1 else "artifact-page4.png"
+	sourceImg = cv.imread(sourceFn)
 	templateDir = "./templates"
 	templateFiles = os.listdir(templateDir)
 
 	## select ROI
 	roi = cv.selectROI(sourceImg)
+	print(rect2slices(roi))
 	cropImg = crop(sourceImg, roi)
+	#show(cropImg)
 
 	## binarize and crop to bounding box
 	grayImg = cv.cvtColor(cropImg, cv.COLOR_BGR2GRAY)
 	_, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
 	binRect = cv.boundingRect(binImg)
 	binImg = crop(binImg, binRect)
+	#show(binImg)
 
 	start = time.time()
 	def calcDiff(file):

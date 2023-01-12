@@ -46,10 +46,15 @@ from template_match import getMatchCoeff
 def iterateVideo(video, regions):
 	prevFrame = np.ones(getVideoShape(video), np.uint8)
 	frameBuffer = np.empty(getVideoShape(video), np.uint8)
+	i = 0
 	while video.read(frameBuffer)[0]:
+		i += 1
 		diff = np.sum(cv.erode(np.abs(frameBuffer - prevFrame), np.ones((2, 2), np.uint8)))
 		#print(diff)
-		if diff > 22_000_000: yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY)
+		if diff > 22_000_000:
+			print(f"frame {i}")
+			cv.imwrite(f"./frames2/{str(i)}.png", frameBuffer)
+			yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY)
 		temp = prevFrame
 		prevFrame = frameBuffer
 		frameBuffer = temp
@@ -57,7 +62,7 @@ def iterateVideo(video, regions):
 def parseVideo(video, regions):
 	results = map(lambda f: parseFrame(f, regions), iterateVideo(video, regions))
 	for r in results:
-		print(r)
+		#print(r)
 		valid = validate_ocr.validateResult(r)
 
 def sliceRegion(vidFrame, region):
@@ -95,7 +100,7 @@ def parseImg(img, regionKey):
 	secondBest = results[1]
 	#print(best, secondBest)
 	if best["score"] > 10:
-		#print(best, secondBest)
+		print(best, secondBest)
 		global warnCount
 		warnCount += 1
 	textRaw = results[0]["fn"].rstrip(".png")
