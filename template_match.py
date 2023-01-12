@@ -28,6 +28,7 @@ for pt in zip(*loc[::-1]):
 
 ## best fit matching
 minVal, maxVal, minLoc, maxLoc = cv.minMaxLoc(matchImg)
+print(maxVal)
 
 pt = (maxLoc[0] + roi[0], maxLoc[1] + roi[1])
 cv.rectangle(sourceImg, pt, (pt[0] + w, pt[1] + h), (255,0,0), 2)
@@ -35,4 +36,7 @@ cv.rectangle(sourceImg, pt, (pt[0] + w, pt[1] + h), (255,0,0), 2)
 ## show, write results
 show(sourceImg)
 cv.imwrite('res.png', cropImg)
-# print(len(list(zip(*loc[::-1]))))
+
+
+## binarize, make bounding box, scale to template size. can use:
+#cv.resize(img, targetSize)
