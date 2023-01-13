@@ -5,7 +5,8 @@ import validate_ocr
 from util import *
 
 ## todo:
-## other fields
+## other fields (mainStatKey, level, slot, set)
+## set might be easier by item name?
 ## cv pyramids?
 ## log stuff:
 ## -- log images
