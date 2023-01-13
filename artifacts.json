@@ -1,0 +1,11630 @@
+[
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub3": [
+      "HP+1,016",
+      1
+    ],
+    "sub4": [
+      "CRIT DMG+14.0%",
+      15045
+    ],
+    "frameNumber": 1
+  },
+  {
+    "sub1": [
+      "HP+478",
+      0
+    ],
+    "sub2": [
+      "CRIT DMG+22.5%",
+      2042
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "ATK+9.9%",
+      7651
+    ],
+    "frameNumber": 59
+  },
+  {
+    "sub1": [
+      "Energy Recharge+16.8%",
+      2
+    ],
+    "sub2": [
+      "CRIT Rate+7.8%",
+      0
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+21.0%",
+      15555
+    ],
+    "frameNumber": 80
+  },
+  {
+    "sub1": [
+      "CRIT DMG+14.0%",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "DEF+27.0%",
+      11222
+    ],
+    "frameNumber": 103
+  },
+  {
+    "sub1": [
+      "CRIT DMG+14.0%",
+      4
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "DEF+27.0%",
+      13007
+    ],
+    "frameNumber": 121
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      257
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2295
+    ],
+    "sub3": [
+      "Elemental Mastery+61",
+      0
+    ],
+    "sub4": [
+      "ATK+14.0%",
+      8670
+    ],
+    "frameNumber": 127
+  },
+  {
+    "sub1": [
+      "CRIT Rate+6.6%",
+      4
+    ],
+    "sub2": [
+      "CRIT DMG+28.0%",
+      0
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "DEF+5.1%",
+      8418
+    ],
+    "frameNumber": 153
+  },
+  {
+    "sub1": [
+      "ATK+27",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+10.4%",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "CRIT Rate+9.7%",
+      13260
+    ],
+    "frameNumber": 175
+  },
+  {
+    "sub1": [
+      "ATK+29",
+      257
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2308
+    ],
+    "sub3": [
+      "Elemental Mastery+61",
+      0
+    ],
+    "sub4": [
+      "HP+508",
+      6886
+    ],
+    "frameNumber": 202
+  },
+  {
+    "sub1": [
+      "HP+299",
+      2
+    ],
+    "sub2": [
+      "ATK+13.4%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+7.0%",
+      0
+    ],
+    "sub4": [
+      "DEF+53",
+      8672
+    ],
+    "frameNumber": 228
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "ATK+13.4%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+7.0%",
+      0
+    ],
+    "sub4": [
+      "DEF+53",
+      10202
+    ],
+    "frameNumber": 241
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      1
+    ],
+    "sub2": [
+      "DEF+58",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+7.0%",
+      0
+    ],
+    "sub4": [
+      "ATK+9.3%",
+      7650
+    ],
+    "frameNumber": 249
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+10.9%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "ATK+68",
+      7906
+    ],
+    "frameNumber": 278
+  },
+  {
+    "sub1": [
+      "DEF+53",
+      0
+    ],
+    "sub2": [
+      "CRIT DMG+10.9%",
+      1787
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+9.7%",
+      11985
+    ],
+    "frameNumber": 303
+  },
+  {
+    "sub1": [
+      "ATK+10.5%",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+37",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+5.8%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+22.5%",
+      16830
+    ],
+    "frameNumber": 332
+  },
+  {
+    "sub1": [
+      "CRIT DMG+22.5%",
+      3
+    ],
+    "sub2": [
+      "HP+14.0%",
+      0
+    ],
+    "sub3": [
+      "HP+538",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.9%",
+      10455
+    ],
+    "frameNumber": 354
+  },
+  {
+    "sub1": [
+      "CRIT DMG+22.5%",
+      1
+    ],
+    "sub2": [
+      "HP+14.0%",
+      0
+    ],
+    "sub3": [
+      "HP+538",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.9%",
+      11475
+    ],
+    "frameNumber": 361
+  },
+  {
+    "sub1": [
+      "ATK+8.7%",
+      5
+    ],
+    "sub2": [
+      "CRIT DMG+24.1%",
+      2043
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "DEF+7.3%",
+      9436
+    ],
+    "frameNumber": 384
+  },
+  {
+    "sub1": [
+      "ATK+9.3%",
+      9946
+    ],
+    "sub2": [
+      "HP+12.8%",
+      1
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "ATK+66",
+      8672
+    ],
+    "frameNumber": 412
+  },
+  {
+    "sub1": [
+      "CRIT Rate+7.4%",
+      2
+    ],
+    "sub2": [
+      "HP+14.0%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "CRIT DMG+13.2%",
+      14535
+    ],
+    "frameNumber": 437
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "HP+418",
+      1
+    ],
+    "sub3": [
+      "CRIT DMG+19.4%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+11.7%",
+      9198
+    ],
+    "frameNumber": 458
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "ATK+29",
+      766
+    ],
+    "sub3": [
+      "CRIT DMG+17.1%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+18.1%",
+      5865
+    ],
+    "frameNumber": 479
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "ATK+29",
+      510
+    ],
+    "sub3": [
+      "CRIT DMG+17.1%",
+      1533
+    ],
+    "sub4": [
+      "Energy Recharge+18.1%",
+      5882
+    ],
+    "frameNumber": 481
+  },
+  {
+    "sub1": [
+      "ATK+33",
+      0
+    ],
+    "sub2": [
+      "DEF+32",
+      0
+    ],
+    "sub3": [
+      "ATK+10.5%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+16.8%",
+      5882
+    ],
+    "frameNumber": 499
+  },
+  {
+    "sub1": [
+      "CRIT DMG+14.8%",
+      3
+    ],
+    "sub2": [
+      "CRIT Rate+7.4%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+56",
+      0
+    ],
+    "sub4": [
+      "DEF+19",
+      6377
+    ],
+    "frameNumber": 522
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+91",
+      7398
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "ATK+8.2%",
+      8670
+    ],
+    "frameNumber": 547
+  },
+  {
+    "sub1": [
+      "HP+10.5%",
+      1
+    ],
+    "sub2": [
+      "ATK+10.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+11.7%",
+      1
+    ],
+    "sub4": [
+      "CRIT Rate+3.9%",
+      9945
+    ],
+    "frameNumber": 570
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+63",
+      2
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+9.7%",
+      1
+    ],
+    "sub4": [
+      "CRIT DMG+7.0%",
+      15300
+    ],
+    "frameNumber": 596
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+63",
+      2
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+9.7%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+7.0%",
+      16830
+    ],
+    "frameNumber": 601
+  },
+  {
+    "sub1": [
+      "ATK+13.4%",
+      3
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+44",
+      4
+    ],
+    "sub4": [
+      "Energy Recharge+5.8%",
+      7667
+    ],
+    "frameNumber": 619
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+40",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+14.9%",
+      1
+    ],
+    "sub4": [
+      "DEF+39",
+      5865
+    ],
+    "frameNumber": 639
+  },
+  {
+    "sub1": [
+      "CRIT DMG+21.8%",
+      3
+    ],
+    "sub2": [
+      "ATK+10.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+21",
+      6376
+    ],
+    "frameNumber": 662
+  },
+  {
+    "sub1": [
+      "DEF+13.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2296
+    ],
+    "sub3": [
+      "CRIT Rate+6.6%",
+      0
+    ],
+    "sub4": [
+      "ATK+35",
+      8670
+    ],
+    "frameNumber": 693
+  },
+  {
+    "sub1": [
+      "CRIT Rate+11.7%",
+      4
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "HP+11.7%",
+      7397
+    ],
+    "frameNumber": 721
+  },
+  {
+    "sub1": [
+      "Energy Recharge+9.7%",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+35",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+13.2%",
+      13260
+    ],
+    "frameNumber": 745
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      3
+    ],
+    "sub2": [
+      "HP+807",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+40",
+      0
+    ],
+    "sub4": [
+      "HP+4.7%",
+      7907
+    ],
+    "frameNumber": 771
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+9.7%",
+      2295
+    ],
+    "sub3": [
+      "HP+4.1%",
+      1
+    ],
+    "sub4": [
+      "DEF+39",
+      6121
+    ],
+    "frameNumber": 793
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+9.7%",
+      2040
+    ],
+    "sub3": [
+      "HP+4.1%",
+      0
+    ],
+    "sub4": [
+      "DEF+39",
+      7396
+    ],
+    "frameNumber": 841
+  },
+  {
+    "sub1": [
+      "ATK+8.7%",
+      5
+    ],
+    "sub2": [
+      "CRIT DMG+11.7%",
+      2042
+    ],
+    "sub3": [
+      "HP+807",
+      0
+    ],
+    "sub4": [
+      "DEF+16",
+      7397
+    ],
+    "frameNumber": 884
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+54",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+5.8%",
+      9180
+    ],
+    "frameNumber": 907
+  },
+  {
+    "sub1": [
+      "HP+16.3%",
+      3
+    ],
+    "sub2": [
+      "ATK+9.9%",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "HP+239",
+      4590
+    ],
+    "frameNumber": 935
+  },
+  {
+    "sub1": [
+      "HP+16.3%",
+      3
+    ],
+    "sub2": [
+      "ATK+9.9%",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      1531
+    ],
+    "sub4": [
+      "HP+239",
+      5356
+    ],
+    "frameNumber": 961
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+19",
+      7142
+    ],
+    "sub2": [
+      "Energy Recharge+14.2%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "HP+5.2%",
+      9700
+    ],
+    "frameNumber": 967
+  },
+  {
+    "sub1": [
+      "ATK+9.9%",
+      5
+    ],
+    "sub2": [
+      "HP+448",
+      0
+    ],
+    "sub3": [
+      "ATK+16",
+      0
+    ],
+    "sub4": [
+      "DEF+23",
+      7923
+    ],
+    "frameNumber": 993
+  },
+  {
+    "sub1": [
+      "HP+209",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+11.7%",
+      0
+    ],
+    "sub3": [
+      "DEF+37",
+      0
+    ],
+    "sub4": [
+      "ATK+4.1%",
+      7395
+    ],
+    "frameNumber": 1015
+  },
+  {
+    "sub1": [
+      "DEF+10.2%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+37",
+      9182
+    ],
+    "frameNumber": 1039
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "DEF+35",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+9.1%",
+      1
+    ],
+    "sub4": [
+      "HP+299",
+      5102
+    ],
+    "frameNumber": 1061
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      3
+    ],
+    "sub2": [
+      "DEF+35",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+9.1%",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      4592
+    ],
+    "frameNumber": 1081
+  },
+  {
+    "sub1": [
+      "Energy Recharge+11.0%",
+      1
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+42",
+      6392
+    ],
+    "frameNumber": 1085
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      4
+    ],
+    "sub2": [
+      "ATK+35",
+      255
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+23",
+      5627
+    ],
+    "frameNumber": 1110
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+5.4%",
+      0
+    ],
+    "sub4": [
+      "HP+5.8%",
+      7398
+    ],
+    "frameNumber": 1135
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2297
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "DEF+32",
+      8671
+    ],
+    "frameNumber": 1160
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      4
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+14.6%",
+      0
+    ],
+    "sub4": [
+      "DEF+39",
+      7906
+    ],
+    "frameNumber": 1187
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      5
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+14.6%",
+      0
+    ],
+    "sub4": [
+      "DEF+39",
+      7396
+    ],
+    "frameNumber": 1201
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      3
+    ],
+    "sub2": [
+      "DEF+53",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+5.2%",
+      8926
+    ],
+    "frameNumber": 1215
+  },
+  {
+    "sub1": [
+      "ATK+33",
+      0
+    ],
+    "sub2": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub3": [
+      "HP+9.9%",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.1%",
+      9435
+    ],
+    "frameNumber": 1245
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+44",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+21.8%",
+      13515
+    ],
+    "frameNumber": 1274
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      1
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub4": [
+      "HP+448",
+      6376
+    ],
+    "frameNumber": 1300
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      3
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub4": [
+      "HP+448",
+      6376
+    ],
+    "frameNumber": 1321
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "DEF+12.4%",
+      9691
+    ],
+    "frameNumber": 1323
+  },
+  {
+    "sub1": [
+      "CRIT Rate+7.4%",
+      4
+    ],
+    "sub2": [
+      "CRIT DMG+6.2%",
+      2552
+    ],
+    "sub3": [
+      "DEF+19",
+      4
+    ],
+    "sub4": [
+      "Energy Recharge+12.3%",
+      6903
+    ],
+    "frameNumber": 1346
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      4
+    ],
+    "sub2": [
+      "DEF+53",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+21",
+      6631
+    ],
+    "frameNumber": 1375
+  },
+  {
+    "sub1": [
+      "CRIT Rate+7.0%",
+      4
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+10.4%",
+      7141
+    ],
+    "frameNumber": 1405
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+6.6%",
+      10455
+    ],
+    "frameNumber": 1431
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+6.6%",
+      10455
+    ],
+    "frameNumber": 1441
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "ATK+37",
+      1
+    ],
+    "sub4": [
+      "DEF+21",
+      8163
+    ],
+    "frameNumber": 1455
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "HP+4.7%",
+      8163
+    ],
+    "frameNumber": 1478
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      2
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "DEF+23",
+      8926
+    ],
+    "frameNumber": 1505
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "ATK+14",
+      1
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "Energy Recharge+4.5%",
+      9453
+    ],
+    "frameNumber": 1538
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "HP+209",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+4.5%",
+      8177
+    ],
+    "frameNumber": 1561
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2550
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub4": [
+      "DEF+19",
+      6887
+    ],
+    "frameNumber": 1567
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "HP+269",
+      0
+    ],
+    "sub3": [
+      "ATK+16",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      6885
+    ],
+    "frameNumber": 1590
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "Elemental Mastery+21",
+      5355
+    ],
+    "frameNumber": 1617
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2042
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "DEF+5.1%",
+      8417
+    ],
+    "frameNumber": 1647
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "ATK+4.7%",
+      11221
+    ],
+    "frameNumber": 1672
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      2
+    ],
+    "sub4": [
+      "ATK+4.7%",
+      11221
+    ],
+    "frameNumber": 1681
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "Elemental Mastery+21",
+      4846
+    ],
+    "frameNumber": 1697
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub3": [
+      "CRIT DMG+6.2%",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      4081
+    ],
+    "frameNumber": 1723
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2564
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "HP+4.7%",
+      6376
+    ],
+    "frameNumber": 1750
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      2
+    ],
+    "sub2": [
+      "ATK+19",
+      765
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "DEF+7.3%",
+      11986
+    ],
+    "frameNumber": 1777
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      3
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "DEF+7.3%",
+      11476
+    ],
+    "frameNumber": 1801
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "DEF+23",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "HP+4.1%",
+      6121
+    ],
+    "frameNumber": 1804
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1787
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "ATK+19",
+      6885
+    ],
+    "frameNumber": 1836
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      1785
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "HP+568",
+      7143
+    ],
+    "frameNumber": 1864
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "DEF+6.6%",
+      7396
+    ],
+    "frameNumber": 1888
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+11.0%",
+      6885
+    ],
+    "frameNumber": 1914
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+11.0%",
+      6392
+    ],
+    "frameNumber": 1921
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+18",
+      257
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 1999
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+6.2%",
+      2041
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "DEF+23",
+      7906
+    ],
+    "frameNumber": 2041
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2065
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      4
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      2040
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2105
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2152
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "HP+5.2%",
+      2564
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2161
+  },
+  {
+    "sub1": [
+      "Energy Recharge+6.5%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2177
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      3
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2200
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      2295
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+11.0%",
+      5882
+    ],
+    "frameNumber": 2226
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2257
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "HP+5.2%",
+      2562
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2281
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2283
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+23",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2306
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "HP+4.7%",
+      8163
+    ],
+    "frameNumber": 2333
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      257
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2563
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2363
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2393
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2401
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+16",
+      4591
+    ],
+    "frameNumber": 2419
+  },
+  {
+    "sub1": [
+      "HP+209",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      1532
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2447
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      1532
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2471
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      3
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2496
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2521
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2523
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub3": [
+      "DEF+21",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2549
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2577
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2042
+    ],
+    "sub3": [
+      "DEF+19",
+      1
+    ],
+    "sub4": [
+      "ATK+18",
+      7396
+    ],
+    "frameNumber": 2603
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2629
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2641
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2655
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "DEF+16",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2681
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "DEF+6.6%",
+      8671
+    ],
+    "frameNumber": 2706
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2734
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2761
+  },
+  {
+    "sub1": [
+      "HP+269",
+      6122
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2763
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2042
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+19",
+      4845
+    ],
+    "frameNumber": 2800
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2828
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2865
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2881
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "ATK+18",
+      257
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 2905
+  },
+  {
+    "sub1": [
+      "HP+5.2%",
+      2561
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3004
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2297
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+4.5%",
+      7922
+    ],
+    "frameNumber": 3028
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3055
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3083
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.5%",
+      13005
+    ],
+    "frameNumber": 3110
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.5%",
+      12240
+    ],
+    "frameNumber": 3121
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3138
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3165
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      4085
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "ATK+5.8%",
+      10711
+    ],
+    "frameNumber": 3191
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2552
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3215
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3241
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "HP+5.2%",
+      2561
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3271
+  },
+  {
+    "sub1": [
+      "HP+5.2%",
+      2562
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3300
+  },
+  {
+    "sub1": [
+      "HP+209",
+      3
+    ],
+    "sub2": [
+      "ATK+18",
+      1
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+2.7%",
+      13515
+    ],
+    "frameNumber": 3325
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      512
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3354
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "DEF+16",
+      257
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3361
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      4
+    ],
+    "sub2": [
+      "HP+269",
+      1
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3379
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "HP+299",
+      1
+    ],
+    "sub3": [
+      "ATK+16",
+      1
+    ],
+    "sub4": [
+      "HP+5.8%",
+      7908
+    ],
+    "frameNumber": 3405
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3430
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3455
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3481
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub3": [
+      "CRIT DMG+6.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3508
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3536
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2040
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3561
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "HP+4.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3587
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      3
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "HP+4.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3601
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3612
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "HP+269",
+      0
+    ],
+    "sub3": [
+      "HP+4.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3648
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3673
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3699
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3721
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "DEF+5.1%",
+      8928
+    ],
+    "frameNumber": 3725
+  },
+  {
+    "sub1": [
+      "HP+269",
+      6377
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3752
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "ATK+18",
+      767
+    ],
+    "sub3": [
+      "HP+299",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3775
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2562
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3800
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      257
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3822
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      1531
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3841
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3955
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      5
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3961
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 3978
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "ATK+19",
+      765
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4002
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4026
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      5103
+    ],
+    "frameNumber": 4052
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4087
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      256
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4076
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4087
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4081
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      1
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4101
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4126
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4150
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "HP+269",
+      1
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4188
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "HP+269",
+      1
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4201
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4217
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4242
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4269
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+6.2%",
+      2042
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4295
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4320
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4321
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      256
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4345
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4086
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4369
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4394
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2042
+    ],
+    "sub3": [
+      "ATK+18",
+      3
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4420
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2041
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4441
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "ATK+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4450
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1788
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4477
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      3
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3570
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4503
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2043
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4526
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      3
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4556
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      3
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4561
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4592
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "HP+269",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4614
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2042
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4651
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4678
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4681
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      4
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "HP+209",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4704
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+7.8%",
+      16830
+    ],
+    "frameNumber": 4730
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "HP+269",
+      1
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4757
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4783
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      5
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4801
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      5
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4887
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "HP+4.7%",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "ATK+14",
+      1
+    ],
+    "frameNumber": 4913
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      1
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "ATK+14",
+      6886
+    ],
+    "frameNumber": 4921
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "DEF+19",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4940
+  },
+  {
+    "sub1": [
+      "ATK+5.2%",
+      2816
+    ],
+    "sub2": [
+      "ATK+19",
+      765
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4967
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      4
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      256
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 4995
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      1
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5024
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5041
+  },
+  {
+    "sub1": [
+      "HP+269",
+      6377
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5050
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5077
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      5
+    ],
+    "sub2": [
+      "HP+5.2%",
+      2306
+    ],
+    "sub3": [
+      "DEF+21",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5103
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5126
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      3
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      1785
+    ],
+    "sub3": [
+      "ATK+16",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5152
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      3
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      2040
+    ],
+    "sub3": [
+      "ATK+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5161
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      5
+    ],
+    "sub2": [
+      "ATK+14",
+      257
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5183
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5211
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5239
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5266
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      3
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5281
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "HP+5.8%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5293
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      1
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2562
+    ],
+    "sub3": [
+      "DEF+21",
+      1
+    ],
+    "sub4": [
+      "ATK+18",
+      6886
+    ],
+    "frameNumber": 5319
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      3
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      1
+    ],
+    "sub4": [
+      "HP+5.8%",
+      7397
+    ],
+    "frameNumber": 5344
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      4
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      4337
+    ],
+    "frameNumber": 5371
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5399
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5401
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2040
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5430
+  },
+  {
+    "sub1": [
+      "HP+5.2%",
+      3837
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5457
+  },
+  {
+    "sub1": [
+      "HP+269",
+      6377
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2550
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5486
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2042
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5513
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2041
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5521
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5543
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5569
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "HP+5.2%",
+      2309
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5598
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      4848
+    ],
+    "frameNumber": 5629
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      4847
+    ],
+    "frameNumber": 5641
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2040
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      4847
+    ],
+    "frameNumber": 5658
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      255
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5684
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5710
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      1
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      257
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5735
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5761
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      5
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5847
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5871
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "HP+209",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5881
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+19",
+      7142
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      2040
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5932
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5960
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2309
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 5988
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2818
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6001
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6014
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6041
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "DEF+16",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+16",
+      5100
+    ],
+    "frameNumber": 6066
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+19",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6094
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6121
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6127
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "HP+4.7%",
+      256
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6160
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      4
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6188
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6215
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      1531
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6241
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6242
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6268
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6298
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      5
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6325
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6352
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6361
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "HP+4.7%",
+      0
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6379
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+19",
+      7142
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6406
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6431
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6459
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6481
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "HP+5.2%",
+      9446
+    ],
+    "frameNumber": 6483
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.2%",
+      3
+    ],
+    "sub2": [
+      "HP+209",
+      510
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6523
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      7651
+    ],
+    "sub2": [
+      "HP+239",
+      255
+    ],
+    "sub3": [
+      "DEF+21",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6553
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2297
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6581
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2296
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6601
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "HP+209",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6610
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      257
+    ],
+    "sub2": [
+      "DEF+16",
+      0
+    ],
+    "sub3": [
+      "HP+239",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6635
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub3": [
+      "HP+239",
+      0
+    ],
+    "sub4": [
+      "HP+5.8%",
+      8163
+    ],
+    "frameNumber": 6664
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "DEF+19",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6687
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6720
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6721
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6823
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6841
+  },
+  {
+    "sub1": [
+      "HP+269",
+      6377
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6848
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6876
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6904
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+23",
+      6648
+    ],
+    "frameNumber": 6930
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "Elemental Mastery+23",
+      5865
+    ],
+    "frameNumber": 6931
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+6.2%",
+      13515
+    ],
+    "frameNumber": 6957
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      2
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+6.2%",
+      13260
+    ],
+    "frameNumber": 6961
+  },
+  {
+    "sub1": [
+      "HP+209",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub3": [
+      "HP+4.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 6986
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "HP+299",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7012
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2307
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7037
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "ATK+19",
+      256
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7065
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7081
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7091
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      3
+    ],
+    "sub2": [
+      "HP+5.8%",
+      1
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7122
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7149
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7176
+  },
+  {
+    "sub1": [
+      "HP+239",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7201
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7203
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "HP+269",
+      1
+    ],
+    "sub3": [
+      "HP+4.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7231
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7255
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      7141
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7285
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "ATK+19",
+      6375
+    ],
+    "frameNumber": 7314
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "ATK+19",
+      6885
+    ],
+    "frameNumber": 7321
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      3
+    ],
+    "sub2": [
+      "ATK+16",
+      255
+    ],
+    "sub3": [
+      "HP+209",
+      0
+    ],
+    "sub4": [
+      "HP+5.2%",
+      9956
+    ],
+    "frameNumber": 7342
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      2
+    ],
+    "sub2": [
+      "ATK+14",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "DEF+16",
+      5103
+    ],
+    "frameNumber": 7381
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub3": [
+      "DEF+19",
+      13
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7405
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7437
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      1531
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7441
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7465
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "HP+5.2%",
+      2818
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7491
+  },
+  {
+    "sub1": [
+      "ATK+5.2%",
+      2817
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7517
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7545
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7561
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "ATK+16",
+      255
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7576
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+6.2%",
+      2552
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7606
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7628
+  },
+  {
+    "sub1": [
+      "HP+299",
+      2
+    ],
+    "sub2": [
+      "DEF+23",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "ATK+14",
+      1
+    ],
+    "frameNumber": 7656
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "DEF+23",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "ATK+14",
+      6886
+    ],
+    "frameNumber": 7681
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      3
+    ],
+    "sub2": [
+      "ATK+18",
+      512
+    ],
+    "sub3": [
+      "HP+269",
+      1
+    ],
+    "sub4": [
+      "DEF+21",
+      7652
+    ],
+    "frameNumber": 7685
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+18",
+      512
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7775
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      3
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7801
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7802
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.5%",
+      12240
+    ],
+    "frameNumber": 7829
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "ATK+19",
+      6120
+    ],
+    "frameNumber": 7858
+  },
+  {
+    "sub1": [
+      "HP+209",
+      3
+    ],
+    "sub2": [
+      "ATK+19",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+6.2%",
+      13515
+    ],
+    "frameNumber": 7889
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      3
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7916
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      3
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7921
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      2
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7944
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7968
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 7996
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "DEF+23",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8026
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "DEF+23",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8041
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1787
+    ],
+    "sub3": [
+      "ATK+16",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8056
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8084
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "ATK+14",
+      257
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8114
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+5.8%",
+      8177
+    ],
+    "frameNumber": 8142
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+5.8%",
+      8177
+    ],
+    "frameNumber": 8161
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      258
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8170
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      258
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1787
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8199
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1787
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "DEF+7.3%",
+      11986
+    ],
+    "frameNumber": 8226
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8254
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      3
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8281
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      3
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8307
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8336
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      4
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8365
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8394
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8401
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8422
+  },
+  {
+    "sub1": [
+      "HP+269",
+      6122
+    ],
+    "sub2": [
+      "HP+5.8%",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8451
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8477
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8506
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8521
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      14026
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2297
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8536
+  },
+  {
+    "sub1": [
+      "ATK+5.2%",
+      2817
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8564
+  },
+  {
+    "sub1": [
+      "HP+269",
+      6377
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2563
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8591
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      255
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "HP+209",
+      5356
+    ],
+    "frameNumber": 8617
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "HP+209",
+      5866
+    ],
+    "frameNumber": 8641
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8644
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "HP+4.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8760
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "HP+4.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8761
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8786
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8812
+  },
+  {
+    "sub1": [
+      "Energy Recharge+6.5%",
+      3
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8838
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      3832
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8867
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4087
+    ],
+    "sub2": [
+      "ATK+16",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8881
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8893
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8920
+  },
+  {
+    "sub1": [
+      "ATK+5.2%",
+      3072
+    ],
+    "sub2": [
+      "DEF+16",
+      2
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8962
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 8986
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      1531
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9001
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "CRIT DMG+5.4%",
+      15810
+    ],
+    "frameNumber": 9013
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      1276
+    ],
+    "sub4": [
+      "HP+5.8%",
+      8417
+    ],
+    "frameNumber": 9037
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9063
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2297
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9090
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      2040
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9119
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      2040
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9121
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      3
+    ],
+    "sub2": [
+      "CRIT Rate+3.9%",
+      2040
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9146
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9172
+  },
+  {
+    "sub1": [
+      "HP+239",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      0
+    ],
+    "sub4": [
+      "DEF+23",
+      8926
+    ],
+    "frameNumber": 9197
+  },
+  {
+    "sub1": [
+      "HP+209",
+      1
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9222
+  },
+  {
+    "sub1": [
+      "HP+209",
+      2
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9241
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2042
+    ],
+    "sub3": [
+      "HP+299",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9251
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9283
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      2
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "ATK+4.7%",
+      10711
+    ],
+    "frameNumber": 9312
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2297
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9342
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2296
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9361
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9370
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9399
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "HP+299",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9426
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "DEF+23",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9455
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9481
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2564
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9484
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9510
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9542
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9570
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      2
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9596
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9601
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+6.2%",
+      2297
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9623
+  },
+  {
+    "sub1": [
+      "Energy Recharge+6.5%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2043
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9722
+  },
+  {
+    "sub1": [
+      "HP+209",
+      1
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9748
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "HP+4.1%",
+      1
+    ],
+    "sub4": [
+      "HP+239",
+      5356
+    ],
+    "frameNumber": 9776
+  },
+  {
+    "sub1": [
+      "HP+5.2%",
+      2818
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "DEF+6.6%",
+      8416
+    ],
+    "frameNumber": 9806
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      8415
+    ],
+    "frameNumber": 9834
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.0%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      1531
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      8416
+    ],
+    "frameNumber": 9841
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "HP+209",
+      5100
+    ],
+    "frameNumber": 9863
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9889
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      4
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9917
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9943
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9961
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "HP+209",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 9971
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2817
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10000
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      0
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "CRIT DMG+5.4%",
+      16065
+    ],
+    "frameNumber": 10027
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "CRIT Rate+3.1%",
+      9945
+    ],
+    "frameNumber": 10053
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "ATK+4.1%",
+      7395
+    ],
+    "frameNumber": 10079
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "ATK+4.1%",
+      8415
+    ],
+    "frameNumber": 10081
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "ATK+14",
+      255
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub4": [
+      "HP+269",
+      4593
+    ],
+    "frameNumber": 10109
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6887
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      0
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "Energy Recharge+5.2%",
+      7395
+    ],
+    "frameNumber": 10138
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10162
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10191
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10201
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      1530
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10220
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "ATK+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10275
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10301
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10321
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10328
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6887
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      256
+    ],
+    "sub4": [
+      "Elemental Mastery+19",
+      5101
+    ],
+    "frameNumber": 10355
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "HP+299",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10381
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      7650
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10406
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      3574
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10430
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      4085
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      1531
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10441
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      4
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10458
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10484
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "HP+269",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "ATK+16",
+      6375
+    ],
+    "frameNumber": 10511
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      7141
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      0
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "Energy Recharge+4.5%",
+      8177
+    ],
+    "frameNumber": 10537
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      257
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "Energy Recharge+4.5%",
+      8177
+    ],
+    "frameNumber": 10561
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      1
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "CRIT Rate+3.9%",
+      10710
+    ],
+    "frameNumber": 10563
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      2
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10653
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10677
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10681
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2550
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10702
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10730
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      257
+    ],
+    "sub2": [
+      "HP+299",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10756
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10801
+  },
+  {
+    "sub1": [
+      "HP+5.2%",
+      2562
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2563
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10810
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2552
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "DEF+21",
+      6378
+    ],
+    "frameNumber": 10840
+  },
+  {
+    "sub1": [
+      "HP+5.2%",
+      2560
+    ],
+    "sub2": [
+      "ATK+19",
+      255
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10865
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10891
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      1532
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10918
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      1786
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10921
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      256
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10948
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2297
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 10993
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      1
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "HP+239",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11019
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "HP+239",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11041
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11046
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      511
+    ],
+    "sub3": [
+      "CRIT DMG+6.2%",
+      0
+    ],
+    "sub4": [
+      "HP+209",
+      5356
+    ],
+    "frameNumber": 11075
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4085
+    ],
+    "sub2": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "DEF+16",
+      5357
+    ],
+    "frameNumber": 11100
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      3
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11126
+  },
+  {
+    "sub1": [
+      "HP+5.2%",
+      2562
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11153
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      4085
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11161
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11180
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11207
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11235
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11269
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11281
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11296
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11322
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      6
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      255
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11348
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1788
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "HP+4.1%",
+      5866
+    ],
+    "frameNumber": 11375
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2041
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "HP+4.1%",
+      5866
+    ],
+    "frameNumber": 11401
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub4": [
+      "ATK+19",
+      6375
+    ],
+    "frameNumber": 11406
+  },
+  {
+    "sub1": [
+      "DEF+6.6%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "CRIT DMG+7.8%",
+      17085
+    ],
+    "frameNumber": 11435
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "HP+5.8%",
+      8418
+    ],
+    "frameNumber": 11462
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11489
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      4
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11516
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "ATK+18",
+      2
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11521
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11613
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11639
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "HP+299",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11641
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      0
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11669
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11703
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+19",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub4": [
+      "HP+299",
+      4338
+    ],
+    "frameNumber": 11734
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "HP+299",
+      4592
+    ],
+    "frameNumber": 11761
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "HP+5.2%",
+      10467
+    ],
+    "frameNumber": 11762
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1787
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      9437
+    ],
+    "frameNumber": 11788
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11814
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      5
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2297
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11841
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11867
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11881
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      3
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 11895
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6887
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "DEF+6.6%",
+      8161
+    ],
+    "frameNumber": 11923
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2307
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.1%",
+      9180
+    ],
+    "frameNumber": 11950
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6887
+    ],
+    "sub2": [
+      "HP+5.8%",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "ATK+14",
+      1
+    ],
+    "frameNumber": 11976
+  },
+  {
+    "sub1": [
+      "HP+239",
+      3
+    ],
+    "sub2": [
+      "HP+5.8%",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "ATK+14",
+      6886
+    ],
+    "frameNumber": 12001
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      257
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      0
+    ],
+    "sub4": [
+      "HP+269",
+      5102
+    ],
+    "frameNumber": 12003
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12028
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      4
+    ],
+    "sub2": [
+      "HP+299",
+      1
+    ],
+    "sub3": [
+      "HP+4.1%",
+      1
+    ],
+    "sub4": [
+      "Energy Recharge+5.2%",
+      7650
+    ],
+    "frameNumber": 12054
+  },
+  {
+    "sub1": [
+      "HP+299",
+      6887
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      2042
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "ATK+5.8%",
+      9946
+    ],
+    "frameNumber": 12081
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "HP+209",
+      5356
+    ],
+    "frameNumber": 12108
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "HP+209",
+      5866
+    ],
+    "frameNumber": 12121
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.9%",
+      1785
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12138
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12167
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      257
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2295
+    ],
+    "sub3": [
+      "DEF+19",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12196
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12222
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      1531
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12241
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      256
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12251
+  },
+  {
+    "sub1": [
+      "DEF+19",
+      9692
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      1785
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12278
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      4
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12305
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12335
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12361
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12363
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "HP+269",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+3.9%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12390
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12419
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12445
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12481
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "HP+299",
+      0
+    ],
+    "sub3": [
+      "ATK+19",
+      255
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12559
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12581
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12601
+  },
+  {
+    "sub1": [
+      "ATK+4.7%",
+      4
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2042
+    ],
+    "sub3": [
+      "DEF+21",
+      1
+    ],
+    "sub4": [
+      "ATK+14",
+      1
+    ],
+    "frameNumber": 12609
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+5.4%",
+      1787
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+5.8%",
+      9436
+    ],
+    "frameNumber": 12637
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "DEF+23",
+      255
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "DEF+5.1%",
+      10457
+    ],
+    "frameNumber": 12662
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "CRIT Rate+3.1%",
+      9945
+    ],
+    "frameNumber": 12688
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "HP+5.2%",
+      2817
+    ],
+    "sub4": [
+      "HP+269",
+      4847
+    ],
+    "frameNumber": 12711
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "HP+269",
+      4592
+    ],
+    "frameNumber": 12721
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "DEF+23",
+      8671
+    ],
+    "frameNumber": 12739
+  },
+  {
+    "sub1": [
+      "DEF+16",
+      3
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12765
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12813
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "HP+239",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12839
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub3": [
+      "HP+239",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12841
+  },
+  {
+    "sub1": [
+      "HP+299",
+      6887
+    ],
+    "sub2": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12864
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "ATK+18",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12891
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12916
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12944
+  },
+  {
+    "sub1": [
+      "ATK+14",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12961
+  },
+  {
+    "sub1": [
+      "ATK+4.1%",
+      3
+    ],
+    "sub2": [
+      "HP+209",
+      255
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12967
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 12995
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13019
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.9%",
+      1785
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3063
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13047
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      8160
+    ],
+    "frameNumber": 13072
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      8416
+    ],
+    "frameNumber": 13081
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      0
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      2040
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13099
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13123
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "HP+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13148
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      0
+    ],
+    "sub3": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13175
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13200
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "HP+209",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13201
+  },
+  {
+    "sub1": [
+      "HP+269",
+      1
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "CRIT Rate+3.9%",
+      9945
+    ],
+    "frameNumber": 13226
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13254
+  },
+  {
+    "sub1": [
+      "HP+4.7%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13281
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13308
+  },
+  {
+    "sub1": [
+      "DEF+7.3%",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13321
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "ATK+4.7%",
+      2
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13334
+  },
+  {
+    "sub1": [
+      "HP+299",
+      6887
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13360
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13441
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+6.2%",
+      1787
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13455
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13481
+  },
+  {
+    "sub1": [
+      "Energy Recharge+6.5%",
+      3
+    ],
+    "sub2": [
+      "CRIT DMG+7.8%",
+      2042
+    ],
+    "sub3": [
+      "ATK+5.2%",
+      2820
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13508
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      3
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      1
+    ],
+    "sub4": [
+      "DEF+5.1%",
+      9438
+    ],
+    "frameNumber": 13535
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      257
+    ],
+    "sub3": [
+      "Energy Recharge+5.2%",
+      0
+    ],
+    "sub4": [
+      "DEF+5.1%",
+      10712
+    ],
+    "frameNumber": 13561
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "DEF+6.6%",
+      0
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13563
+  },
+  {
+    "sub1": [
+      "ATK+19",
+      7651
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub3": [
+      "HP+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13591
+  },
+  {
+    "sub1": [
+      "HP+4.1%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+6.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13618
+  },
+  {
+    "sub1": [
+      "HP+239",
+      6886
+    ],
+    "sub2": [
+      "DEF+5.8%",
+      0
+    ],
+    "sub3": [
+      "DEF+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13646
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13669
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "DEF+19",
+      1
+    ],
+    "sub3": [
+      "ATK+4.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13681
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      1
+    ],
+    "sub2": [
+      "Elemental Mastery+23",
+      255
+    ],
+    "sub3": [
+      "CRIT DMG+6.2%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13698
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "HP+299",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13725
+  },
+  {
+    "sub1": [
+      "HP+239",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+5.8%",
+      9453
+    ],
+    "frameNumber": 13752
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      2
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13779
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.5%",
+      3
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+5.4%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13801
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.2%",
+      255
+    ],
+    "sub3": [
+      "HP+5.8%",
+      3060
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13808
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+23",
+      3
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "ATK+16",
+      6630
+    ],
+    "frameNumber": 13834
+  },
+  {
+    "sub1": [
+      "DEF+23",
+      0
+    ],
+    "sub2": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13859
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+16",
+      1
+    ],
+    "sub2": [
+      "HP+5.8%",
+      1
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13887
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      2
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13914
+  },
+  {
+    "sub1": [
+      "CRIT DMG+6.2%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13921
+  },
+  {
+    "sub1": [
+      "DEF+5.8%",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.9%",
+      2040
+    ],
+    "sub3": [
+      "ATK+14",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13941
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.9%",
+      3
+    ],
+    "sub2": [
+      "DEF+16",
+      255
+    ],
+    "sub3": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13971
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "CRIT DMG+7.0%",
+      2297
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 13999
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14028
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14041
+  },
+  {
+    "sub1": [
+      "HP+5.8%",
+      4084
+    ],
+    "sub2": [
+      "Elemental Mastery+21",
+      1
+    ],
+    "sub3": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14059
+  },
+  {
+    "sub1": [
+      "Energy Recharge+4.5%",
+      1
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14084
+  },
+  {
+    "sub1": [
+      "DEF+21",
+      1
+    ],
+    "sub2": [
+      "CRIT Rate+3.1%",
+      1785
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      3062
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14112
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      2
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      7395
+    ],
+    "frameNumber": 14143
+  },
+  {
+    "sub1": [
+      "CRIT Rate+2.7%",
+      3
+    ],
+    "sub2": [
+      "DEF+7.3%",
+      0
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "Energy Recharge+6.5%",
+      8416
+    ],
+    "frameNumber": 14161
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      2
+    ],
+    "sub2": [
+      "CRIT Rate+2.7%",
+      2040
+    ],
+    "sub3": [
+      "HP+4.7%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14173
+  },
+  {
+    "sub1": [
+      "ATK+5.2%",
+      2817
+    ],
+    "sub2": [
+      "DEF+21",
+      256
+    ],
+    "sub3": [
+      "CRIT Rate+3.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14201
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "CRIT DMG+7.0%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14228
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      255
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "HP+209",
+      5356
+    ],
+    "frameNumber": 14256
+  },
+  {
+    "sub1": [
+      "Energy Recharge+5.8%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+21",
+      0
+    ],
+    "sub4": [
+      "HP+209",
+      5866
+    ],
+    "frameNumber": 14281
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      2
+    ],
+    "sub2": [
+      "DEF+16",
+      1
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      0
+    ],
+    "sub4": [
+      "HP+239",
+      5356
+    ],
+    "frameNumber": 14284
+  },
+  {
+    "sub1": [
+      "Energy Recharge+6.5%",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14309
+  },
+  {
+    "sub1": [
+      "Energy Recharge+6.5%",
+      3
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "ATK+5.8%",
+      2
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14401
+  },
+  {
+    "sub1": [
+      "ATK+16",
+      1
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "DEF+19",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14426
+  },
+  {
+    "sub1": [
+      "Energy Recharge+6.5%",
+      3
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "HP+269",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14451
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      3
+    ],
+    "sub2": [
+      "Energy Recharge+4.5%",
+      0
+    ],
+    "sub3": [
+      "DEF+5.1%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14476
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      3
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14505
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "HP+4.1%",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+21",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14521
+  },
+  {
+    "sub1": [
+      "Elemental Mastery+19",
+      7142
+    ],
+    "sub2": [
+      "DEF+21",
+      1
+    ],
+    "sub3": [
+      "HP+299",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14533
+  },
+  {
+    "sub1": [
+      "CRIT DMG+5.4%",
+      3
+    ],
+    "sub2": [
+      "ATK+14",
+      2
+    ],
+    "sub3": [
+      "CRIT Rate+3.5%",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14563
+  },
+  {
+    "sub1": [
+      "CRIT Rate+3.1%",
+      2
+    ],
+    "sub2": [
+      "Elemental Mastery+19",
+      0
+    ],
+    "sub3": [
+      "CRIT DMG+7.8%",
+      1533
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14594
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      3
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2562
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      1532
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14622
+  },
+  {
+    "sub1": [
+      "CRIT DMG+7.8%",
+      2
+    ],
+    "sub2": [
+      "ATK+5.2%",
+      2818
+    ],
+    "sub3": [
+      "CRIT Rate+2.7%",
+      1531
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14641
+  },
+  {
+    "sub1": [
+      "DEF+5.1%",
+      1
+    ],
+    "sub2": [
+      "ATK+19",
+      510
+    ],
+    "sub3": [
+      "DEF+16",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14652
+  },
+  {
+    "sub1": [
+      "ATK+18",
+      3
+    ],
+    "sub2": [
+      "HP+239",
+      0
+    ],
+    "sub3": [
+      "Elemental Mastery+23",
+      0
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14682
+  },
+  {
+    "sub1": [
+      "ATK+5.8%",
+      4086
+    ],
+    "sub2": [
+      "HP+4.7%",
+      1
+    ],
+    "sub3": [
+      "HP+209",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14710
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7142
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "DEF+16",
+      6
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14741
+  },
+  {
+    "sub1": [
+      "HP+299",
+      7397
+    ],
+    "sub2": [
+      "Energy Recharge+5.8%",
+      0
+    ],
+    "sub3": [
+      "DEF+16",
+      1
+    ],
+    "sub4": [
+      "",
+      -1
+    ],
+    "frameNumber": 14761
+  }
+]
