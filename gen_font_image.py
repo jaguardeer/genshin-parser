@@ -16,7 +16,8 @@ def main():
 	bgColor = cream
 	fgColor = gray
 
-	img = createTemplate("Energy Recharge+4.7%", font, fgColor, bgColor)
+	show(drawText("ATK", font, fgColor, bgColor))
+	img = createTemplate("ATK", font, fgColor, bgColor)
 	## display and write file
 	show(img)
 	imgName = "test-template"
@@ -32,6 +33,11 @@ def drawText(text, font, fgColor, bgColor):
 	draw.text((0, 0), text, font = font, fill = fgColor)
 	img = np.array(img_pil)
 	return img
+
+def binarize(img):
+	grayImg = cv.cvtColor(img, cv.COLOR_RGB2GRAY)
+	_, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
+	return binImg
 
 ## returns a template for use in template_match.py
 def createTemplate(text, font, fgColor, bgColor):

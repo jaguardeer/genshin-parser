@@ -16,26 +16,27 @@ def getMatchCoeff(img, template):
 	#show(diffImg)
 	return diff
 
+def binarize(img):
+	## binarize and crop to bounding box
+	grayImg = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
+	_, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
+	binRect = cv.boundingRect(binImg)
+	binImg = crop(binImg, binRect)
+	return binImg
+
 import sys
 def main():
-	sourceFn = sys.argv[1] if len(sys.argv) > 1 else "artifact-page4.png"
+	sourceFn = sys.argv[1] if len(sys.argv) > 1 else "artifact-page.png"
 	sourceImg = cv.imread(sourceFn)
 	templateDir = "./templates"
 	templateFiles = os.listdir(templateDir)
-	templateFiles = ["DEF+27.0%.png"]
 
 	## select ROI
 	roi = cv.selectROI(sourceImg)
 	print(rect2slices(roi))
 	cropImg = crop(sourceImg, roi)
 	#show(cropImg)
-
-	## binarize and crop to bounding box
-	grayImg = cv.cvtColor(cropImg, cv.COLOR_BGR2GRAY)
-	_, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
-	binRect = cv.boundingRect(binImg)
-	binImg = crop(binImg, binRect)
-	show(binImg)
+	binimg = binarize(cropImg)
 
 	start = time.time()
 	def calcDiff(file):
@@ -49,7 +50,7 @@ def main():
 	print(f"ran {len(results)} checks in {round(time.time()-start, 3)*1000}ms")
 	results.sort(key = lambda x: x["score"])
 	from pprint import pprint
-	pprint(results[0:20])
+	pprint(results)
 	return results
 
 if __name__ == "__main__": main()

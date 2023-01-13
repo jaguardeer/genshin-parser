@@ -5,6 +5,7 @@ import validate_ocr
 from util import *
 
 ## todo:
+## other fields
 ## cv pyramids?
 ## log stuff:
 ## -- log images
