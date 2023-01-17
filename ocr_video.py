@@ -86,7 +86,7 @@ templateDir = "./templates"
 templateFiles = os.listdir(templateDir)
 templateImages = [(file, cv.imread(f"{templateDir}/{file}", 0)) for file in templateFiles]
 warnCount = 0
-
+## todo: return confidence = 1 - best / second best
 def parseImg(img, regionKey):
 	binImg = processImage(img)
 	if(binImg.shape[0] * binImg.shape[1] < 100): return regionKey, ("", -1)
