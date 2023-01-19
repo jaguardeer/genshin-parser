@@ -19,6 +19,8 @@ substats = loadJsonFile("./artifact-stats.json")[0]["substats"]
 
 numberSets = set().union(*map(lambda k: set.union(*genUniqueSums(substats[k], 6, getRoundFunc(k))), substats.keys()))
 
+
+## MAJOR TODO: ROUNDING HERE IS DIFFERENT FROM INGAME. SEE 5.2% vs 5.3% FOR ATK% AND HP%
 SUBSTAT_KEY_STRINGS = {
 	"hp": ("HP", ""),
 	"hp_": ("HP", "%"),
@@ -40,8 +42,8 @@ from gen_font_image import *
 fontSize = 24
 fontPath = "./zh-cn.ttf"
 font = ImageFont.truetype(fontPath, fontSize)
-gray = (92, 77, 71)
-cream = (215, 228, 233)
+gray = (76, 76, 76)
+cream = (228, 228, 228)
 
 for item in SUBSTAT_KEY_STRINGS.items():
 	key = item[0]

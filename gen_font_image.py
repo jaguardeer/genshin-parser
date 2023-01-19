@@ -35,7 +35,7 @@ def drawText(text, font, fgColor, bgColor):
 	return img
 
 def binarize(img):
-	grayImg = cv.cvtColor(img, cv.COLOR_RGB2GRAY)
+	grayImg = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 	_, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
 	return binImg
 
@@ -43,13 +43,12 @@ def binarize(img):
 def createTemplate(text, font, fgColor, bgColor):
 	## gen binarized image
 	textImg = drawText(text, font, fgColor, bgColor)
-	grayImg = cv.cvtColor(textImg, cv.COLOR_RGB2GRAY)
-	_, binImg = cv.threshold(grayImg, 128 ,255, cv.THRESH_BINARY_INV)
+	binImg = binarize(textImg)
 
 	## find bounding box
 	boundBox = cv.boundingRect(binImg)
-	binImg = crop(binImg, cv.boundingRect(binImg))
+	finalImg = crop(textImg, boundBox)
 
-	return binImg
+	return finalImg
 
 if __name__ == "__main__": main()
