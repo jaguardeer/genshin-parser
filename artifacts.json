@@ -10,11 +10,11 @@
     ],
     "sub3": [
       "HP+1,016",
-      1
+      0
     ],
     "sub4": [
       "CRIT DMG+14.0%",
-      15045
+      0
     ],
     "frameNumber": 1
   },
@@ -25,7 +25,7 @@
     ],
     "sub2": [
       "CRIT DMG+22.5%",
-      2042
+      0
     ],
     "sub3": [
       "HP+5.8%",
@@ -33,14 +33,14 @@
     ],
     "sub4": [
       "ATK+9.9%",
-      7651
+      0
     ],
     "frameNumber": 59
   },
   {
     "sub1": [
       "Energy Recharge+16.8%",
-      2
+      0
     ],
     "sub2": [
       "CRIT Rate+7.8%",
@@ -52,14 +52,14 @@
     ],
     "sub4": [
       "CRIT DMG+21.0%",
-      15555
+      0
     ],
     "frameNumber": 80
   },
   {
     "sub1": [
       "CRIT DMG+14.0%",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -71,37 +71,18 @@
     ],
     "sub4": [
       "DEF+27.0%",
-      11222
+      0
     ],
     "frameNumber": 103
   },
   {
     "sub1": [
-      "CRIT DMG+14.0%",
-      4
-    ],
-    "sub2": [
-      "Elemental Mastery+19",
-      0
-    ],
-    "sub3": [
-      "CRIT Rate+3.5%",
-      0
-    ],
-    "sub4": [
-      "DEF+27.0%",
-      13007
-    ],
-    "frameNumber": 121
-  },
-  {
-    "sub1": [
       "ATK+19",
-      257
+      0
     ],
     "sub2": [
       "CRIT Rate+2.7%",
-      2295
+      0
     ],
     "sub3": [
       "Elemental Mastery+61",
@@ -109,14 +90,14 @@
     ],
     "sub4": [
       "ATK+14.0%",
-      8670
+      0
     ],
     "frameNumber": 127
   },
   {
     "sub1": [
       "CRIT Rate+6.6%",
-      4
+      0
     ],
     "sub2": [
       "CRIT DMG+28.0%",
@@ -124,18 +105,18 @@
     ],
     "sub3": [
       "HP+4.7%",
-      0
+      3
     ],
     "sub4": [
       "DEF+5.1%",
-      8418
+      0
     ],
     "frameNumber": 153
   },
   {
     "sub1": [
       "ATK+27",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+10.4%",
@@ -143,22 +124,22 @@
     ],
     "sub3": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub4": [
       "CRIT Rate+9.7%",
-      13260
+      0
     ],
     "frameNumber": 175
   },
   {
     "sub1": [
       "ATK+29",
-      257
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2308
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "Elemental Mastery+61",
@@ -166,14 +147,14 @@
     ],
     "sub4": [
       "HP+508",
-      6886
+      0
     ],
     "frameNumber": 202
   },
   {
     "sub1": [
       "HP+299",
-      2
+      0
     ],
     "sub2": [
       "ATK+13.4%",
@@ -185,52 +166,14 @@
     ],
     "sub4": [
       "DEF+53",
-      8672
+      0
     ],
     "frameNumber": 228
   },
   {
     "sub1": [
-      "HP+299",
-      7397
-    ],
-    "sub2": [
-      "ATK+13.4%",
-      0
-    ],
-    "sub3": [
-      "CRIT Rate+7.0%",
-      0
-    ],
-    "sub4": [
-      "DEF+53",
-      10202
-    ],
-    "frameNumber": 241
-  },
-  {
-    "sub1": [
-      "DEF+6.6%",
-      1
-    ],
-    "sub2": [
-      "DEF+58",
-      1
-    ],
-    "sub3": [
-      "CRIT Rate+7.0%",
-      0
-    ],
-    "sub4": [
-      "ATK+9.3%",
-      7650
-    ],
-    "frameNumber": 249
-  },
-  {
-    "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+10.9%",
@@ -242,7 +185,7 @@
     ],
     "sub4": [
       "ATK+68",
-      7906
+      0
     ],
     "frameNumber": 278
   },
@@ -253,7 +196,7 @@
     ],
     "sub2": [
       "CRIT DMG+10.9%",
-      1787
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -261,14 +204,14 @@
     ],
     "sub4": [
       "CRIT Rate+9.7%",
-      11985
+      0
     ],
     "frameNumber": 303
   },
   {
     "sub1": [
       "ATK+10.5%",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+37",
@@ -280,14 +223,14 @@
     ],
     "sub4": [
       "CRIT DMG+22.5%",
-      16830
+      0
     ],
     "frameNumber": 332
   },
   {
     "sub1": [
       "CRIT DMG+22.5%",
-      3
+      0
     ],
     "sub2": [
       "HP+14.0%",
@@ -299,71 +242,52 @@
     ],
     "sub4": [
       "CRIT Rate+3.9%",
-      10455
+      0
     ],
     "frameNumber": 354
   },
   {
     "sub1": [
-      "CRIT DMG+22.5%",
-      1
-    ],
-    "sub2": [
-      "HP+14.0%",
-      0
-    ],
-    "sub3": [
-      "HP+538",
-      0
-    ],
-    "sub4": [
-      "CRIT Rate+3.9%",
-      11475
-    ],
-    "frameNumber": 361
-  },
-  {
-    "sub1": [
       "ATK+8.7%",
-      5
+      0
     ],
     "sub2": [
       "CRIT DMG+24.1%",
-      2043
+      0
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "DEF+7.3%",
-      9436
+      0
     ],
     "frameNumber": 384
   },
   {
     "sub1": [
       "ATK+9.3%",
-      9946
+      0
     ],
     "sub2": [
       "HP+12.8%",
-      1
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
-      "ATK+66",
-      8672
+      "ATK+56",
+      0
     ],
     "frameNumber": 412
   },
   {
     "sub1": [
       "CRIT Rate+7.4%",
-      2
+      0
     ],
     "sub2": [
       "HP+14.0%",
@@ -371,22 +295,22 @@
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "CRIT DMG+13.2%",
-      14535
+      0
     ],
     "frameNumber": 437
   },
   {
     "sub1": [
       "DEF+21",
-      1
+      0
     ],
     "sub2": [
       "HP+418",
-      1
+      0
     ],
     "sub3": [
       "CRIT DMG+19.4%",
@@ -394,71 +318,14 @@
     ],
     "sub4": [
       "Energy Recharge+11.7%",
-      9198
+      0
     ],
     "frameNumber": 458
   },
   {
     "sub1": [
-      "HP+209",
-      2
-    ],
-    "sub2": [
-      "ATK+29",
-      766
-    ],
-    "sub3": [
-      "CRIT DMG+17.1%",
-      0
-    ],
-    "sub4": [
-      "Energy Recharge+18.1%",
-      5865
-    ],
-    "frameNumber": 479
-  },
-  {
-    "sub1": [
-      "HP+209",
-      2
-    ],
-    "sub2": [
-      "ATK+29",
-      510
-    ],
-    "sub3": [
-      "CRIT DMG+17.1%",
-      1533
-    ],
-    "sub4": [
-      "Energy Recharge+18.1%",
-      5882
-    ],
-    "frameNumber": 481
-  },
-  {
-    "sub1": [
-      "ATK+33",
-      0
-    ],
-    "sub2": [
-      "DEF+32",
-      0
-    ],
-    "sub3": [
-      "ATK+10.5%",
-      0
-    ],
-    "sub4": [
-      "Energy Recharge+16.8%",
-      5882
-    ],
-    "frameNumber": 499
-  },
-  {
-    "sub1": [
       "CRIT DMG+14.8%",
-      3
+      0
     ],
     "sub2": [
       "CRIT Rate+7.4%",
@@ -470,14 +337,14 @@
     ],
     "sub4": [
       "DEF+19",
-      6377
+      0
     ],
     "frameNumber": 522
   },
   {
     "sub1": [
       "Elemental Mastery+91",
-      7398
+      3
     ],
     "sub2": [
       "CRIT Rate+3.5%",
@@ -485,18 +352,18 @@
     ],
     "sub3": [
       "ATK+19",
-      255
+      0
     ],
     "sub4": [
       "ATK+8.2%",
-      8670
+      0
     ],
     "frameNumber": 547
   },
   {
     "sub1": [
       "HP+10.5%",
-      1
+      0
     ],
     "sub2": [
       "ATK+10.5%",
@@ -504,18 +371,18 @@
     ],
     "sub3": [
       "DEF+11.7%",
-      1
+      0
     ],
     "sub4": [
       "CRIT Rate+3.9%",
-      9945
+      0
     ],
     "frameNumber": 570
   },
   {
     "sub1": [
       "Elemental Mastery+63",
-      2
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -523,18 +390,18 @@
     ],
     "sub3": [
       "Energy Recharge+9.7%",
-      1
+      0
     ],
     "sub4": [
       "CRIT DMG+7.0%",
-      15300
+      0
     ],
     "frameNumber": 596
   },
   {
     "sub1": [
       "Elemental Mastery+63",
-      2
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -546,14 +413,14 @@
     ],
     "sub4": [
       "CRIT DMG+7.0%",
-      16830
+      0
     ],
     "frameNumber": 601
   },
   {
     "sub1": [
       "ATK+13.4%",
-      3
+      0
     ],
     "sub2": [
       "ATK+16",
@@ -561,18 +428,18 @@
     ],
     "sub3": [
       "Elemental Mastery+44",
-      4
+      0
     ],
     "sub4": [
       "Energy Recharge+5.8%",
-      7667
+      0
     ],
     "frameNumber": 619
   },
   {
     "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "Elemental Mastery+40",
@@ -580,18 +447,18 @@
     ],
     "sub3": [
       "Energy Recharge+14.9%",
-      1
+      0
     ],
     "sub4": [
       "DEF+39",
-      5865
+      0
     ],
     "frameNumber": 639
   },
   {
     "sub1": [
       "CRIT DMG+21.8%",
-      3
+      0
     ],
     "sub2": [
       "ATK+10.5%",
@@ -603,18 +470,18 @@
     ],
     "sub4": [
       "Elemental Mastery+21",
-      6376
+      0
     ],
     "frameNumber": 662
   },
   {
     "sub1": [
       "DEF+13.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2296
+      0
     ],
     "sub3": [
       "CRIT Rate+6.6%",
@@ -622,14 +489,14 @@
     ],
     "sub4": [
       "ATK+35",
-      8670
+      0
     ],
     "frameNumber": 693
   },
   {
     "sub1": [
       "CRIT Rate+11.7%",
-      4
+      0
     ],
     "sub2": [
       "HP+209",
@@ -641,14 +508,14 @@
     ],
     "sub4": [
       "HP+11.7%",
-      7397
+      0
     ],
     "frameNumber": 721
   },
   {
     "sub1": [
       "Energy Recharge+9.7%",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+35",
@@ -660,14 +527,14 @@
     ],
     "sub4": [
       "CRIT DMG+13.2%",
-      13260
+      0
     ],
     "frameNumber": 745
   },
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      3
+      0
     ],
     "sub2": [
       "HP+807",
@@ -679,37 +546,18 @@
     ],
     "sub4": [
       "HP+4.7%",
-      7907
+      0
     ],
     "frameNumber": 771
   },
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "CRIT Rate+9.7%",
-      2295
-    ],
-    "sub3": [
-      "HP+4.1%",
-      1
-    ],
-    "sub4": [
-      "DEF+39",
-      6121
-    ],
-    "frameNumber": 793
-  },
-  {
-    "sub1": [
-      "Energy Recharge+5.8%",
-      1
-    ],
-    "sub2": [
-      "CRIT Rate+9.7%",
-      2040
+      0
     ],
     "sub3": [
       "HP+4.1%",
@@ -717,18 +565,18 @@
     ],
     "sub4": [
       "DEF+39",
-      7396
+      0
     ],
-    "frameNumber": 841
+    "frameNumber": 793
   },
   {
     "sub1": [
       "ATK+8.7%",
-      5
+      0
     ],
     "sub2": [
       "CRIT DMG+11.7%",
-      2042
+      0
     ],
     "sub3": [
       "HP+807",
@@ -736,14 +584,14 @@
     ],
     "sub4": [
       "DEF+16",
-      7397
+      0
     ],
     "frameNumber": 884
   },
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "ATK+4.1%",
@@ -755,7 +603,7 @@
     ],
     "sub4": [
       "Energy Recharge+5.8%",
-      9180
+      0
     ],
     "frameNumber": 907
   },
@@ -766,7 +614,7 @@
     ],
     "sub2": [
       "ATK+9.9%",
-      1
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
@@ -774,33 +622,14 @@
     ],
     "sub4": [
       "HP+239",
-      4590
+      0
     ],
     "frameNumber": 935
   },
   {
     "sub1": [
-      "HP+16.3%",
-      3
-    ],
-    "sub2": [
-      "ATK+9.9%",
-      2
-    ],
-    "sub3": [
-      "CRIT Rate+2.7%",
-      1531
-    ],
-    "sub4": [
-      "HP+239",
-      5356
-    ],
-    "frameNumber": 961
-  },
-  {
-    "sub1": [
       "Elemental Mastery+19",
-      7142
+      3
     ],
     "sub2": [
       "Energy Recharge+14.2%",
@@ -808,18 +637,18 @@
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
-      "HP+5.2%",
-      9700
+      "HP+5.3%",
+      0
     ],
     "frameNumber": 967
   },
   {
     "sub1": [
       "ATK+9.9%",
-      5
+      0
     ],
     "sub2": [
       "HP+448",
@@ -831,14 +660,14 @@
     ],
     "sub4": [
       "DEF+23",
-      7923
+      0
     ],
     "frameNumber": 993
   },
   {
     "sub1": [
       "HP+209",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+11.7%",
@@ -850,18 +679,18 @@
     ],
     "sub4": [
       "ATK+4.1%",
-      7395
+      0
     ],
     "frameNumber": 1015
   },
   {
     "sub1": [
       "DEF+10.2%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "CRIT Rate+3.5%",
@@ -869,37 +698,18 @@
     ],
     "sub4": [
       "Elemental Mastery+37",
-      9182
+      0
     ],
     "frameNumber": 1039
   },
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      2
+      0
     ],
     "sub2": [
       "DEF+35",
-      1
-    ],
-    "sub3": [
-      "Energy Recharge+9.1%",
-      1
-    ],
-    "sub4": [
-      "HP+299",
-      5102
-    ],
-    "frameNumber": 1061
-  },
-  {
-    "sub1": [
-      "CRIT Rate+3.9%",
-      3
-    ],
-    "sub2": [
-      "DEF+35",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+9.1%",
@@ -907,18 +717,18 @@
     ],
     "sub4": [
       "HP+299",
-      4592
+      0
     ],
-    "frameNumber": 1081
+    "frameNumber": 1061
   },
   {
     "sub1": [
       "Energy Recharge+11.0%",
-      1
+      0
     ],
     "sub2": [
       "DEF+19",
-      1
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
@@ -926,18 +736,18 @@
     ],
     "sub4": [
       "Elemental Mastery+42",
-      6392
+      5
     ],
     "frameNumber": 1085
   },
   {
     "sub1": [
       "HP+4.7%",
-      4
+      3
     ],
     "sub2": [
       "ATK+35",
-      255
+      0
     ],
     "sub3": [
       "DEF+5.1%",
@@ -945,14 +755,14 @@
     ],
     "sub4": [
       "Elemental Mastery+23",
-      5627
+      5
     ],
     "frameNumber": 1110
   },
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "HP+239",
@@ -964,18 +774,18 @@
     ],
     "sub4": [
       "HP+5.8%",
-      7398
+      0
     ],
     "frameNumber": 1135
   },
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.8%",
-      2297
+      0
     ],
     "sub3": [
       "Energy Recharge+6.5%",
@@ -983,14 +793,14 @@
     ],
     "sub4": [
       "DEF+32",
-      8671
+      0
     ],
     "frameNumber": 1160
   },
   {
     "sub1": [
       "ATK+4.7%",
-      4
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -1002,28 +812,9 @@
     ],
     "sub4": [
       "DEF+39",
-      7906
+      0
     ],
     "frameNumber": 1187
-  },
-  {
-    "sub1": [
-      "ATK+4.7%",
-      5
-    ],
-    "sub2": [
-      "HP+4.1%",
-      0
-    ],
-    "sub3": [
-      "DEF+14.6%",
-      0
-    ],
-    "sub4": [
-      "DEF+39",
-      7396
-    ],
-    "frameNumber": 1201
   },
   {
     "sub1": [
@@ -1032,7 +823,7 @@
     ],
     "sub2": [
       "DEF+53",
-      1
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
@@ -1040,7 +831,7 @@
     ],
     "sub4": [
       "Energy Recharge+5.2%",
-      8926
+      0
     ],
     "frameNumber": 1215
   },
@@ -1055,18 +846,18 @@
     ],
     "sub3": [
       "HP+9.9%",
-      0
+      3
     ],
     "sub4": [
       "CRIT Rate+3.1%",
-      9435
+      0
     ],
     "frameNumber": 1245
   },
   {
     "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+44",
@@ -1078,14 +869,14 @@
     ],
     "sub4": [
       "CRIT DMG+21.8%",
-      13515
+      0
     ],
     "frameNumber": 1274
   },
   {
     "sub1": [
       "CRIT DMG+6.2%",
-      1
+      0
     ],
     "sub2": [
       "DEF+5.8%",
@@ -1093,75 +884,56 @@
     ],
     "sub3": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub4": [
       "HP+448",
-      6376
+      0
     ],
     "frameNumber": 1300
   },
   {
     "sub1": [
-      "CRIT DMG+6.2%",
-      3
-    ],
-    "sub2": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub3": [
-      "ATK+4.1%",
-      0
-    ],
-    "sub4": [
-      "HP+448",
-      6376
-    ],
-    "frameNumber": 1321
-  },
-  {
-    "sub1": [
       "CRIT Rate+2.7%",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "DEF+12.4%",
-      9691
+      0
     ],
     "frameNumber": 1323
   },
   {
     "sub1": [
       "CRIT Rate+7.4%",
-      4
+      0
     ],
     "sub2": [
       "CRIT DMG+6.2%",
-      2552
+      0
     ],
     "sub3": [
       "DEF+19",
-      4
+      0
     ],
     "sub4": [
       "Energy Recharge+12.3%",
-      6903
+      0
     ],
     "frameNumber": 1346
   },
   {
     "sub1": [
       "CRIT Rate+3.5%",
-      4
+      0
     ],
     "sub2": [
       "DEF+53",
@@ -1173,37 +945,37 @@
     ],
     "sub4": [
       "Elemental Mastery+21",
-      6631
+      0
     ],
     "frameNumber": 1375
   },
   {
     "sub1": [
       "CRIT Rate+7.0%",
-      4
+      0
     ],
     "sub2": [
       "ATK+18",
-      2
+      0
     ],
     "sub3": [
       "HP+4.7%",
-      0
+      3
     ],
     "sub4": [
       "Energy Recharge+10.4%",
-      7141
+      0
     ],
     "frameNumber": 1405
   },
   {
     "sub1": [
       "HP+209",
-      2
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "DEF+23",
@@ -1211,33 +983,14 @@
     ],
     "sub4": [
       "CRIT Rate+6.6%",
-      10455
+      0
     ],
     "frameNumber": 1431
   },
   {
     "sub1": [
-      "HP+209",
-      2
-    ],
-    "sub2": [
-      "ATK+19",
-      510
-    ],
-    "sub3": [
-      "DEF+23",
-      0
-    ],
-    "sub4": [
-      "CRIT Rate+6.6%",
-      10455
-    ],
-    "frameNumber": 1441
-  },
-  {
-    "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "DEF+7.3%",
@@ -1245,22 +998,22 @@
     ],
     "sub3": [
       "ATK+37",
-      1
+      0
     ],
     "sub4": [
       "DEF+21",
-      8163
+      0
     ],
     "frameNumber": 1455
   },
   {
     "sub1": [
       "Energy Recharge+5.2%",
-      3
+      0
     ],
     "sub2": [
       "DEF+16",
-      1
+      0
     ],
     "sub3": [
       "CRIT Rate+3.5%",
@@ -1268,14 +1021,14 @@
     ],
     "sub4": [
       "HP+4.7%",
-      8163
+      0
     ],
     "frameNumber": 1478
   },
   {
     "sub1": [
       "HP+5.8%",
-      2
+      3
     ],
     "sub2": [
       "ATK+16",
@@ -1287,37 +1040,18 @@
     ],
     "sub4": [
       "DEF+23",
-      8926
+      0
     ],
     "frameNumber": 1505
   },
   {
     "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "ATK+14",
-      1
-    ],
-    "sub3": [
-      "HP+209",
-      1
-    ],
-    "sub4": [
-      "Energy Recharge+4.5%",
-      9453
-    ],
-    "frameNumber": 1538
-  },
-  {
-    "sub1": [
-      "CRIT DMG+7.8%",
-      2
-    ],
-    "sub2": [
-      "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "HP+209",
@@ -1325,18 +1059,18 @@
     ],
     "sub4": [
       "Energy Recharge+4.5%",
-      8177
+      0
     ],
-    "frameNumber": 1561
+    "frameNumber": 1538
   },
   {
     "sub1": [
       "HP+299",
-      7397
+      0
     ],
     "sub2": [
       "CRIT Rate+2.7%",
-      2550
+      0
     ],
     "sub3": [
       "ATK+4.1%",
@@ -1344,14 +1078,14 @@
     ],
     "sub4": [
       "DEF+19",
-      6887
+      0
     ],
     "frameNumber": 1567
   },
   {
     "sub1": [
       "ATK+4.1%",
-      3
+      0
     ],
     "sub2": [
       "HP+269",
@@ -1363,7 +1097,7 @@
     ],
     "sub4": [
       "Energy Recharge+6.5%",
-      6885
+      0
     ],
     "frameNumber": 1590
   },
@@ -1378,37 +1112,37 @@
     ],
     "sub3": [
       "ATK+19",
-      255
+      0
     ],
     "sub4": [
       "Elemental Mastery+21",
-      5355
+      0
     ],
     "frameNumber": 1617
   },
   {
     "sub1": [
       "Elemental Mastery+16",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2042
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "DEF+5.1%",
-      8417
+      0
     ],
     "frameNumber": 1647
   },
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "HP+5.8%",
@@ -1420,56 +1154,37 @@
     ],
     "sub4": [
       "ATK+4.7%",
-      11221
+      0
     ],
     "frameNumber": 1672
   },
   {
     "sub1": [
-      "Energy Recharge+5.8%",
-      1
-    ],
-    "sub2": [
-      "HP+5.8%",
-      1
-    ],
-    "sub3": [
-      "Elemental Mastery+16",
-      2
-    ],
-    "sub4": [
-      "ATK+4.7%",
-      11221
-    ],
-    "frameNumber": 1681
-  },
-  {
-    "sub1": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+23",
-      255
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "Elemental Mastery+21",
-      4846
+      0
     ],
     "frameNumber": 1697
   },
   {
     "sub1": [
       "DEF+23",
-      1
+      0
     ],
     "sub2": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "CRIT DMG+6.2%",
@@ -1477,18 +1192,18 @@
     ],
     "sub4": [
       "HP+299",
-      4081
+      0
     ],
     "frameNumber": 1723
   },
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2564
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -1496,18 +1211,18 @@
     ],
     "sub4": [
       "HP+4.7%",
-      6376
+      0
     ],
     "frameNumber": 1750
   },
   {
     "sub1": [
       "CRIT DMG+6.2%",
-      2
+      0
     ],
     "sub2": [
       "ATK+19",
-      765
+      0
     ],
     "sub3": [
       "DEF+23",
@@ -1515,33 +1230,14 @@
     ],
     "sub4": [
       "DEF+7.3%",
-      11986
+      0
     ],
     "frameNumber": 1777
   },
   {
     "sub1": [
-      "CRIT DMG+6.2%",
-      3
-    ],
-    "sub2": [
-      "ATK+19",
-      510
-    ],
-    "sub3": [
-      "DEF+23",
-      0
-    ],
-    "sub4": [
-      "DEF+7.3%",
-      11476
-    ],
-    "frameNumber": 1801
-  },
-  {
-    "sub1": [
       "Energy Recharge+5.2%",
-      3
+      0
     ],
     "sub2": [
       "DEF+23",
@@ -1553,37 +1249,37 @@
     ],
     "sub4": [
       "HP+4.1%",
-      6121
+      0
     ],
     "frameNumber": 1804
   },
   {
     "sub1": [
       "Energy Recharge+5.2%",
-      3
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1787
+      0
     ],
     "sub3": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "ATK+19",
-      6885
+      0
     ],
     "frameNumber": 1836
   },
   {
     "sub1": [
       "HP+4.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      1785
+      0
     ],
     "sub3": [
       "DEF+19",
@@ -1591,14 +1287,14 @@
     ],
     "sub4": [
       "HP+568",
-      7143
+      0
     ],
     "frameNumber": 1864
   },
   {
     "sub1": [
       "DEF+21",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
@@ -1606,18 +1302,18 @@
     ],
     "sub3": [
       "HP+5.8%",
-      0
+      3
     ],
     "sub4": [
       "DEF+6.6%",
-      7396
+      0
     ],
     "frameNumber": 1888
   },
   {
     "sub1": [
       "CRIT Rate+3.5%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -1625,18 +1321,18 @@
     ],
     "sub3": [
       "HP+5.8%",
-      0
+      3
     ],
     "sub4": [
       "Energy Recharge+11.0%",
-      6885
+      0
     ],
     "frameNumber": 1914
   },
   {
     "sub1": [
       "CRIT Rate+3.5%",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -1648,18 +1344,18 @@
     ],
     "sub4": [
       "Energy Recharge+11.0%",
-      6392
+      0
     ],
     "frameNumber": 1921
   },
   {
     "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "ATK+18",
-      257
+      0
     ],
     "sub3": [
       "Elemental Mastery+23",
@@ -1674,11 +1370,11 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "CRIT DMG+6.2%",
-      2041
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -1686,14 +1382,14 @@
     ],
     "sub4": [
       "DEF+23",
-      7906
+      0
     ],
     "frameNumber": 2041
   },
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -1711,31 +1407,12 @@
   },
   {
     "sub1": [
-      "ATK+4.7%",
-      4
-    ],
-    "sub2": [
-      "CRIT Rate+3.1%",
-      2040
-    ],
-    "sub3": [
-      "DEF+6.6%",
+      "DEF+23",
       0
     ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 2105
-  },
-  {
-    "sub1": [
-      "DEF+23",
-      1
-    ],
     "sub2": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "CRIT DMG+7.0%",
@@ -1749,35 +1426,16 @@
   },
   {
     "sub1": [
-      "DEF+23",
+      "Energy Recharge+6.5%",
       0
     ],
     "sub2": [
-      "HP+5.2%",
-      2564
-    ],
-    "sub3": [
       "CRIT DMG+7.0%",
-      1533
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 2161
-  },
-  {
-    "sub1": [
-      "Energy Recharge+6.5%",
-      3
-    ],
-    "sub2": [
-      "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -1788,11 +1446,11 @@
   {
     "sub1": [
       "CRIT Rate+3.5%",
-      3
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -1811,7 +1469,7 @@
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      2295
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -1819,22 +1477,22 @@
     ],
     "sub4": [
       "Energy Recharge+11.0%",
-      5882
+      0
     ],
     "frameNumber": 2226
   },
   {
     "sub1": [
       "DEF+6.6%",
-      1
+      0
     ],
     "sub2": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -1845,15 +1503,15 @@
   {
     "sub1": [
       "DEF+6.6%",
-      2
+      0
     ],
     "sub2": [
-      "HP+5.2%",
-      2562
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -1864,7 +1522,7 @@
   {
     "sub1": [
       "HP+299",
-      7397
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -1872,7 +1530,7 @@
     ],
     "sub3": [
       "DEF+16",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -1883,7 +1541,7 @@
   {
     "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+23",
@@ -1902,7 +1560,7 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -1910,26 +1568,26 @@
     ],
     "sub3": [
       "HP+299",
-      0
+      3
     ],
     "sub4": [
       "HP+4.7%",
-      8163
+      0
     ],
     "frameNumber": 2333
   },
   {
     "sub1": [
       "ATK+19",
-      257
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2563
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "HP+209",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -1978,7 +1636,7 @@
   {
     "sub1": [
       "HP+299",
-      7397
+      0
     ],
     "sub2": [
       "DEF+21",
@@ -1990,22 +1648,22 @@
     ],
     "sub4": [
       "Elemental Mastery+16",
-      4591
+      0
     ],
     "frameNumber": 2419
   },
   {
     "sub1": [
       "HP+209",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      255
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
-      1532
+      0
     ],
     "sub4": [
       "",
@@ -2016,7 +1674,7 @@
   {
     "sub1": [
       "Energy Recharge+5.2%",
-      3
+      0
     ],
     "sub2": [
       "DEF+6.6%",
@@ -2024,7 +1682,7 @@
     ],
     "sub3": [
       "CRIT Rate+3.9%",
-      1532
+      0
     ],
     "sub4": [
       "",
@@ -2035,15 +1693,15 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "ATK+4.7%",
-      3
+      0
     ],
     "sub4": [
       "",
@@ -2054,15 +1712,15 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -2092,15 +1750,15 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "DEF+21",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -2111,15 +1769,15 @@
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -2130,26 +1788,26 @@
   {
     "sub1": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.8%",
-      2042
+      0
     ],
     "sub3": [
       "DEF+19",
-      1
+      0
     ],
     "sub4": [
       "ATK+18",
-      7396
+      0
     ],
     "frameNumber": 2603
   },
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -2157,7 +1815,7 @@
     ],
     "sub3": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -2168,7 +1826,7 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -2187,7 +1845,7 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "DEF+21",
@@ -2195,7 +1853,7 @@
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -2206,7 +1864,7 @@
   {
     "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "DEF+16",
@@ -2214,7 +1872,7 @@
     ],
     "sub3": [
       "ATK+4.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -2225,7 +1883,7 @@
   {
     "sub1": [
       "HP+4.7%",
-      2
+      0
     ],
     "sub2": [
       "ATK+16",
@@ -2237,22 +1895,22 @@
     ],
     "sub4": [
       "DEF+6.6%",
-      8671
+      0
     ],
     "frameNumber": 2706
   },
   {
     "sub1": [
       "DEF+5.8%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      255
+      0
     ],
     "sub3": [
       "ATK+19",
-      255
+      0
     ],
     "sub4": [
       "",
@@ -2263,7 +1921,7 @@
   {
     "sub1": [
       "DEF+5.8%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
@@ -2271,7 +1929,7 @@
     ],
     "sub3": [
       "ATK+19",
-      255
+      0
     ],
     "sub4": [
       "",
@@ -2282,7 +1940,7 @@
   {
     "sub1": [
       "HP+269",
-      6122
+      3
     ],
     "sub2": [
       "DEF+21",
@@ -2290,7 +1948,7 @@
     ],
     "sub3": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -2305,7 +1963,7 @@
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2042
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -2313,7 +1971,7 @@
     ],
     "sub4": [
       "Elemental Mastery+19",
-      4845
+      0
     ],
     "frameNumber": 2800
   },
@@ -2324,7 +1982,7 @@
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
@@ -2339,7 +1997,7 @@
   {
     "sub1": [
       "Elemental Mastery+16",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -2347,7 +2005,7 @@
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -2358,7 +2016,7 @@
   {
     "sub1": [
       "Elemental Mastery+16",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -2366,7 +2024,7 @@
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -2377,15 +2035,15 @@
   {
     "sub1": [
       "HP+239",
-      6886
+      0
     ],
     "sub2": [
       "ATK+18",
-      257
+      0
     ],
     "sub3": [
       "HP+5.8%",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -2395,12 +2053,12 @@
   },
   {
     "sub1": [
-      "HP+5.2%",
-      2561
+      "HP+5.3%",
+      0
     ],
     "sub2": [
       "ATK+18",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -2419,22 +2077,22 @@
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2297
+      0
     ],
     "sub3": [
       "HP+299",
-      0
+      3
     ],
     "sub4": [
       "Energy Recharge+4.5%",
-      7922
+      0
     ],
     "frameNumber": 3028
   },
   {
     "sub1": [
       "DEF+19",
-      9692
+      0
     ],
     "sub2": [
       "CRIT Rate+3.5%",
@@ -2452,27 +2110,8 @@
   },
   {
     "sub1": [
-      "HP+4.1%",
-      2
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3083
-  },
-  {
-    "sub1": [
       "CRIT DMG+5.4%",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -2484,14 +2123,14 @@
     ],
     "sub4": [
       "CRIT Rate+3.5%",
-      13005
+      0
     ],
     "frameNumber": 3110
   },
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -2503,18 +2142,18 @@
     ],
     "sub4": [
       "CRIT Rate+3.5%",
-      12240
+      0
     ],
     "frameNumber": 3121
   },
   {
     "sub1": [
       "DEF+19",
-      9692
+      0
     ],
     "sub2": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -2529,11 +2168,11 @@
   {
     "sub1": [
       "HP+4.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+23",
-      255
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -2547,12 +2186,12 @@
   },
   {
     "sub1": [
-      "HP+5.8%",
-      4085
+      "HP+5.3%",
+      0
     ],
     "sub2": [
       "ATK+18",
-      2
+      0
     ],
     "sub3": [
       "DEF+19",
@@ -2560,7 +2199,7 @@
     ],
     "sub4": [
       "ATK+5.8%",
-      10711
+      0
     ],
     "frameNumber": 3191
   },
@@ -2571,11 +2210,11 @@
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2552
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -2586,11 +2225,11 @@
   {
     "sub1": [
       "DEF+21",
-      1
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "DEF+7.3%",
@@ -2604,50 +2243,12 @@
   },
   {
     "sub1": [
-      "DEF+5.1%",
-      2
-    ],
-    "sub2": [
-      "HP+5.2%",
-      2561
-    ],
-    "sub3": [
-      "CRIT Rate+3.1%",
+      "HP+209",
       0
     ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3271
-  },
-  {
-    "sub1": [
-      "HP+5.2%",
-      2562
-    ],
-    "sub2": [
-      "DEF+19",
-      1
-    ],
-    "sub3": [
-      "ATK+18",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3300
-  },
-  {
-    "sub1": [
-      "HP+209",
-      3
-    ],
     "sub2": [
       "ATK+18",
-      1
+      0
     ],
     "sub3": [
       "CRIT DMG+7.0%",
@@ -2655,18 +2256,18 @@
     ],
     "sub4": [
       "CRIT Rate+2.7%",
-      13515
+      0
     ],
     "frameNumber": 3325
   },
   {
     "sub1": [
       "DEF+7.3%",
-      2
+      0
     ],
     "sub2": [
       "DEF+16",
-      512
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -2680,31 +2281,12 @@
   },
   {
     "sub1": [
-      "DEF+7.3%",
-      1
-    ],
-    "sub2": [
-      "DEF+16",
-      257
-    ],
-    "sub3": [
-      "Energy Recharge+4.5%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3361
-  },
-  {
-    "sub1": [
       "ATK+4.1%",
-      4
+      0
     ],
     "sub2": [
       "HP+269",
-      1
+      0
     ],
     "sub3": [
       "DEF+21",
@@ -2719,26 +2301,26 @@
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "HP+299",
-      1
+      0
     ],
     "sub3": [
       "ATK+16",
-      1
+      0
     ],
     "sub4": [
       "HP+5.8%",
-      7908
+      0
     ],
     "frameNumber": 3405
   },
   {
     "sub1": [
       "Energy Recharge+5.2%",
-      3
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -2757,15 +2339,15 @@
   {
     "sub1": [
       "DEF+19",
-      9692
+      0
     ],
     "sub2": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub3": [
       "ATK+4.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -2776,11 +2358,11 @@
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "DEF+6.6%",
@@ -2794,31 +2376,12 @@
   },
   {
     "sub1": [
-      "Elemental Mastery+16",
-      1
-    ],
-    "sub2": [
-      "DEF+5.1%",
-      2
-    ],
-    "sub3": [
-      "CRIT DMG+6.2%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3508
-  },
-  {
-    "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "DEF+21",
-      1
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -2832,27 +2395,8 @@
   },
   {
     "sub1": [
-      "HP+4.1%",
-      2
-    ],
-    "sub2": [
-      "CRIT Rate+2.7%",
-      2040
-    ],
-    "sub3": [
-      "Elemental Mastery+23",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3561
-  },
-  {
-    "sub1": [
       "CRIT Rate+3.9%",
-      2
+      0
     ],
     "sub2": [
       "HP+209",
@@ -2860,7 +2404,7 @@
     ],
     "sub3": [
       "HP+4.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -2870,31 +2414,12 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.9%",
-      3
-    ],
-    "sub2": [
-      "HP+209",
-      0
-    ],
-    "sub3": [
-      "HP+4.1%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3601
-  },
-  {
-    "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "DEF+16",
@@ -2909,7 +2434,7 @@
   {
     "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
       "HP+269",
@@ -2917,7 +2442,7 @@
     ],
     "sub3": [
       "HP+4.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -2928,7 +2453,7 @@
   {
     "sub1": [
       "HP+239",
-      6886
+      0
     ],
     "sub2": [
       "DEF+5.1%",
@@ -2946,46 +2471,8 @@
   },
   {
     "sub1": [
-      "DEF+5.1%",
-      3
-    ],
-    "sub2": [
-      "DEF+21",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+23",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3699
-  },
-  {
-    "sub1": [
-      "DEF+5.1%",
-      2
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "Elemental Mastery+23",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3721
-  },
-  {
-    "sub1": [
       "HP+239",
-      6886
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -2997,14 +2484,14 @@
     ],
     "sub4": [
       "DEF+5.1%",
-      8928
+      0
     ],
     "frameNumber": 3725
   },
   {
     "sub1": [
       "HP+269",
-      6377
+      3
     ],
     "sub2": [
       "DEF+6.6%",
@@ -3023,15 +2510,15 @@
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "ATK+18",
-      767
+      0
     ],
     "sub3": [
       "HP+299",
-      1
+      3
     ],
     "sub4": [
       "",
@@ -3042,11 +2529,11 @@
   {
     "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2562
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "Energy Recharge+6.5%",
@@ -3060,54 +2547,16 @@
   },
   {
     "sub1": [
-      "DEF+6.6%",
-      2
-    ],
-    "sub2": [
-      "ATK+4.7%",
-      257
-    ],
-    "sub3": [
-      "CRIT Rate+3.1%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3822
-  },
-  {
-    "sub1": [
-      "DEF+6.6%",
-      2
-    ],
-    "sub2": [
-      "ATK+4.7%",
-      2
-    ],
-    "sub3": [
-      "CRIT Rate+3.1%",
-      1531
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3841
-  },
-  {
-    "sub1": [
       "ATK+5.8%",
-      4
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "HP+4.7%",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -3117,50 +2566,12 @@
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      5
-    ],
-    "sub2": [
-      "Elemental Mastery+23",
-      255
-    ],
-    "sub3": [
-      "HP+4.7%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3961
-  },
-  {
-    "sub1": [
-      "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "ATK+16",
-      0
-    ],
-    "sub3": [
-      "HP+5.8%",
-      3060
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 3978
-  },
-  {
-    "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "ATK+19",
-      765
+      0
     ],
     "sub3": [
       "CRIT Rate+3.1%",
@@ -3175,11 +2586,11 @@
   {
     "sub1": [
       "HP+4.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+21",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -3194,11 +2605,11 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub3": [
       "CRIT DMG+5.4%",
@@ -3206,22 +2617,22 @@
     ],
     "sub4": [
       "HP+299",
-      5103
+      0
     ],
     "frameNumber": 4052
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      4087
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "Elemental Mastery+16",
-      256
+      0
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3231,8 +2642,8 @@
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      4087
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "Elemental Mastery+16",
@@ -3240,7 +2651,7 @@
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3251,11 +2662,11 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      1
+      0
     ],
     "sub2": [
       "HP+209",
-      255
+      0
     ],
     "sub3": [
       "DEF+19",
@@ -3269,35 +2680,16 @@
   },
   {
     "sub1": [
-      "CRIT DMG+5.4%",
-      3
-    ],
-    "sub2": [
-      "DEF+21",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+16",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4126
-  },
-  {
-    "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "Elemental Mastery+21",
       0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -3308,15 +2700,15 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "HP+269",
-      1
+      0
     ],
     "sub3": [
       "DEF+16",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3326,27 +2718,8 @@
   },
   {
     "sub1": [
-      "CRIT DMG+5.4%",
-      2
-    ],
-    "sub2": [
-      "HP+269",
-      1
-    ],
-    "sub3": [
-      "DEF+16",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4201
-  },
-  {
-    "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "ATK+4.1%",
@@ -3354,7 +2727,7 @@
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3364,27 +2737,8 @@
   },
   {
     "sub1": [
-      "DEF+21",
-      0
-    ],
-    "sub2": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub3": [
-      "HP+209",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4242
-  },
-  {
-    "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -3392,7 +2746,7 @@
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3403,11 +2757,11 @@
   {
     "sub1": [
       "DEF+23",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+6.2%",
-      2042
+      0
     ],
     "sub3": [
       "HP+269",
@@ -3422,15 +2776,15 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -3440,35 +2794,16 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.1%",
-      2
-    ],
-    "sub2": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub3": [
-      "ATK+14",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4321
-  },
-  {
-    "sub1": [
       "Energy Recharge+4.5%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+16",
-      256
+      0
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -3478,8 +2813,8 @@
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      4086
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "DEF+5.8%",
@@ -3498,7 +2833,7 @@
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "HP+209",
@@ -3517,15 +2852,15 @@
   {
     "sub1": [
       "Energy Recharge+5.2%",
-      3
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2042
+      0
     ],
     "sub3": [
       "ATK+18",
-      3
+      0
     ],
     "sub4": [
       "",
@@ -3535,27 +2870,8 @@
   },
   {
     "sub1": [
-      "Energy Recharge+5.2%",
-      3
-    ],
-    "sub2": [
-      "CRIT DMG+5.4%",
-      2041
-    ],
-    "sub3": [
-      "ATK+18",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4441
-  },
-  {
-    "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -3574,15 +2890,15 @@
   {
     "sub1": [
       "HP+239",
-      6886
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1788
+      0
     ],
     "sub3": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -3593,15 +2909,15 @@
   {
     "sub1": [
       "Elemental Mastery+23",
-      3
+      0
     ],
     "sub2": [
       "ATK+16",
       0
     ],
     "sub3": [
-      "HP+5.8%",
-      3570
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "",
@@ -3612,15 +2928,15 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2043
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -3630,46 +2946,8 @@
   },
   {
     "sub1": [
-      "CRIT DMG+6.2%",
-      3
-    ],
-    "sub2": [
-      "HP+239",
-      0
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4556
-  },
-  {
-    "sub1": [
-      "CRIT DMG+6.2%",
-      3
-    ],
-    "sub2": [
-      "HP+239",
-      0
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4561
-  },
-  {
-    "sub1": [
       "HP+269",
-      1
+      3
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -3688,11 +2966,11 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "HP+269",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
@@ -3707,11 +2985,11 @@
   {
     "sub1": [
       "DEF+23",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2042
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -3726,7 +3004,7 @@
   {
     "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "HP+239",
@@ -3744,27 +3022,8 @@
   },
   {
     "sub1": [
-      "DEF+7.3%",
-      1
-    ],
-    "sub2": [
-      "HP+239",
-      0
-    ],
-    "sub3": [
-      "DEF+23",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4681
-  },
-  {
-    "sub1": [
       "ATK+4.1%",
-      4
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -3783,11 +3042,11 @@
   {
     "sub1": [
       "HP+4.1%",
-      3
+      0
     ],
     "sub2": [
       "DEF+16",
-      1
+      0
     ],
     "sub3": [
       "DEF+5.1%",
@@ -3795,18 +3054,18 @@
     ],
     "sub4": [
       "CRIT DMG+7.8%",
-      16830
+      0
     ],
     "frameNumber": 4730
   },
   {
     "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "HP+269",
-      1
+      0
     ],
     "sub3": [
       "DEF+5.8%",
@@ -3820,46 +3079,8 @@
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      4
-    ],
-    "sub2": [
-      "HP+4.1%",
-      0
-    ],
-    "sub3": [
-      "DEF+6.6%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4783
-  },
-  {
-    "sub1": [
-      "ATK+5.8%",
-      5
-    ],
-    "sub2": [
-      "HP+4.1%",
-      0
-    ],
-    "sub3": [
-      "DEF+6.6%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 4801
-  },
-  {
-    "sub1": [
       "ATK+4.7%",
-      5
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -3878,53 +3099,34 @@
   {
     "sub1": [
       "DEF+19",
-      9692
+      0
     ],
     "sub2": [
       "HP+4.7%",
       0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "ATK+14",
-      1
+      0
     ],
     "frameNumber": 4913
   },
   {
     "sub1": [
-      "DEF+19",
-      1
-    ],
-    "sub2": [
-      "HP+4.7%",
-      1
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      3062
-    ],
-    "sub4": [
-      "ATK+14",
-      6886
-    ],
-    "frameNumber": 4921
-  },
-  {
-    "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub3": [
       "DEF+19",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3934,16 +3136,16 @@
   },
   {
     "sub1": [
-      "ATK+5.2%",
-      2816
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "ATK+19",
-      765
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3954,7 +3156,7 @@
   {
     "sub1": [
       "ATK+4.1%",
-      4
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -3962,7 +3164,7 @@
     ],
     "sub3": [
       "ATK+19",
-      256
+      0
     ],
     "sub4": [
       "",
@@ -3973,15 +3175,15 @@
   {
     "sub1": [
       "DEF+6.6%",
-      1
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -3991,27 +3193,8 @@
   },
   {
     "sub1": [
-      "DEF+6.6%",
-      2
-    ],
-    "sub2": [
-      "ATK+4.7%",
-      2
-    ],
-    "sub3": [
-      "Energy Recharge+6.5%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5041
-  },
-  {
-    "sub1": [
       "HP+269",
-      6377
+      3
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -4019,7 +3202,7 @@
     ],
     "sub3": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -4030,15 +3213,15 @@
   {
     "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -4049,15 +3232,15 @@
   {
     "sub1": [
       "ATK+4.7%",
-      5
+      0
     ],
     "sub2": [
-      "HP+5.2%",
-      2306
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "DEF+21",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -4068,7 +3251,7 @@
   {
     "sub1": [
       "Elemental Mastery+23",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -4091,26 +3274,7 @@
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      1785
-    ],
-    "sub3": [
-      "ATK+16",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5152
-  },
-  {
-    "sub1": [
-      "HP+4.7%",
-      3
-    ],
-    "sub2": [
-      "CRIT Rate+3.1%",
-      2040
+      0
     ],
     "sub3": [
       "ATK+16",
@@ -4120,16 +3284,16 @@
       "",
       -1
     ],
-    "frameNumber": 5161
+    "frameNumber": 5152
   },
   {
     "sub1": [
       "ATK+5.8%",
-      5
+      0
     ],
     "sub2": [
       "ATK+14",
-      257
+      0
     ],
     "sub3": [
       "CRIT DMG+7.0%",
@@ -4144,7 +3308,7 @@
   {
     "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "ATK+16",
@@ -4152,7 +3316,7 @@
     ],
     "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -4163,11 +3327,11 @@
   {
     "sub1": [
       "DEF+23",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -4182,7 +3346,7 @@
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "ATK+5.8%",
@@ -4200,65 +3364,27 @@
   },
   {
     "sub1": [
-      "CRIT Rate+2.7%",
-      3
-    ],
-    "sub2": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub3": [
-      "Elemental Mastery+16",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5281
-  },
-  {
-    "sub1": [
-      "CRIT Rate+3.1%",
-      3
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "HP+5.8%",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5293
-  },
-  {
-    "sub1": [
       "CRIT DMG+6.2%",
-      1
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2562
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "DEF+21",
-      1
+      0
     ],
     "sub4": [
       "ATK+18",
-      6886
+      0
     ],
     "frameNumber": 5319
   },
   {
     "sub1": [
       "Elemental Mastery+23",
-      3
+      0
     ],
     "sub2": [
       "HP+239",
@@ -4266,18 +3392,18 @@
     ],
     "sub3": [
       "DEF+19",
-      1
+      0
     ],
     "sub4": [
       "HP+5.8%",
-      7397
+      0
     ],
     "frameNumber": 5344
   },
   {
     "sub1": [
       "HP+5.8%",
-      4
+      3
     ],
     "sub2": [
       "Elemental Mastery+23",
@@ -4289,14 +3415,14 @@
     ],
     "sub4": [
       "HP+299",
-      4337
+      0
     ],
     "frameNumber": 5371
   },
   {
     "sub1": [
       "DEF+5.8%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -4315,7 +3441,7 @@
   {
     "sub1": [
       "DEF+5.8%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -4334,11 +3460,11 @@
   {
     "sub1": [
       "DEF+5.8%",
-      2
+      0
     ],
     "sub2": [
       "CRIT Rate+2.7%",
-      2040
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -4352,8 +3478,8 @@
   },
   {
     "sub1": [
-      "HP+5.2%",
-      3837
+      "HP+5.3%",
+      3
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -4372,11 +3498,11 @@
   {
     "sub1": [
       "HP+269",
-      6377
+      3
     ],
     "sub2": [
       "CRIT Rate+2.7%",
-      2550
+      0
     ],
     "sub3": [
       "DEF+7.3%",
@@ -4391,11 +3517,11 @@
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2042
+      0
     ],
     "sub3": [
       "DEF+5.8%",
@@ -4409,31 +3535,12 @@
   },
   {
     "sub1": [
-      "Energy Recharge+5.8%",
-      1
-    ],
-    "sub2": [
-      "CRIT DMG+5.4%",
-      2041
-    ],
-    "sub3": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5521
-  },
-  {
-    "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "ATK+18",
-      2
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -4447,31 +3554,12 @@
   },
   {
     "sub1": [
-      "HP+239",
-      6886
-    ],
-    "sub2": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub3": [
-      "Energy Recharge+5.8%",
+      "ATK+4.1%",
       0
     ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5569
-  },
-  {
-    "sub1": [
-      "ATK+4.1%",
-      3
-    ],
     "sub2": [
-      "HP+5.2%",
-      2309
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "CRIT DMG+7.8%",
@@ -4486,11 +3574,11 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "DEF+21",
-      1
+      0
     ],
     "sub3": [
       "DEF+7.3%",
@@ -4498,37 +3586,18 @@
     ],
     "sub4": [
       "HP+299",
-      4848
+      0
     ],
     "frameNumber": 5629
   },
   {
     "sub1": [
-      "CRIT DMG+7.0%",
-      2
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "DEF+7.3%",
-      0
-    ],
-    "sub4": [
-      "HP+299",
-      4847
-    ],
-    "frameNumber": 5641
-  },
-  {
-    "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "CRIT Rate+2.7%",
-      2040
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -4536,18 +3605,18 @@
     ],
     "sub4": [
       "HP+299",
-      4847
+      0
     ],
     "frameNumber": 5658
   },
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "DEF+7.3%",
-      255
+      0
     ],
     "sub3": [
       "DEF+23",
@@ -4561,31 +3630,12 @@
   },
   {
     "sub1": [
-      "HP+4.1%",
-      2
-    ],
-    "sub2": [
-      "CRIT Rate+3.5%",
-      0
-    ],
-    "sub3": [
-      "HP+299",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5710
-  },
-  {
-    "sub1": [
       "DEF+16",
-      1
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      257
+      0
     ],
     "sub3": [
       "Elemental Mastery+23",
@@ -4599,27 +3649,8 @@
   },
   {
     "sub1": [
-      "DEF+16",
-      0
-    ],
-    "sub2": [
       "ATK+4.7%",
-      2
-    ],
-    "sub3": [
-      "Elemental Mastery+23",
       0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5761
-  },
-  {
-    "sub1": [
-      "ATK+4.7%",
-      5
     ],
     "sub2": [
       "CRIT Rate+3.5%",
@@ -4627,7 +3658,7 @@
     ],
     "sub3": [
       "HP+299",
-      2
+      3
     ],
     "sub4": [
       "",
@@ -4637,54 +3668,16 @@
   },
   {
     "sub1": [
-      "ATK+18",
-      3
-    ],
-    "sub2": [
-      "HP+4.7%",
-      1
-    ],
-    "sub3": [
-      "HP+209",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5871
-  },
-  {
-    "sub1": [
-      "ATK+18",
-      3
-    ],
-    "sub2": [
-      "HP+4.7%",
-      1
-    ],
-    "sub3": [
-      "HP+209",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5881
-  },
-  {
-    "sub1": [
       "Elemental Mastery+19",
-      7142
+      3
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      2040
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -4694,35 +3687,16 @@
   },
   {
     "sub1": [
-      "Elemental Mastery+16",
-      1
+      "HP+269",
+      3
     ],
     "sub2": [
-      "HP+209",
-      255
-    ],
-    "sub3": [
-      "Energy Recharge+4.5%",
+      "ATK+5.3%",
       0
     ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 5960
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "ATK+5.2%",
-      2309
-    ],
     "sub3": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "",
@@ -4732,31 +3706,12 @@
   },
   {
     "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "ATK+5.2%",
-      2818
-    ],
-    "sub3": [
-      "HP+5.8%",
-      3060
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6001
-  },
-  {
-    "sub1": [
       "ATK+4.1%",
-      3
+      0
     ],
     "sub2": [
       "HP+4.7%",
-      1
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -4771,7 +3726,7 @@
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -4779,7 +3734,7 @@
     ],
     "sub3": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -4790,7 +3745,7 @@
   {
     "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "DEF+16",
@@ -4802,14 +3757,14 @@
     ],
     "sub4": [
       "Elemental Mastery+16",
-      5100
+      0
     ],
     "frameNumber": 6066
   },
   {
     "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+19",
@@ -4827,31 +3782,12 @@
   },
   {
     "sub1": [
-      "DEF+5.1%",
-      2
-    ],
-    "sub2": [
-      "DEF+19",
-      1
-    ],
-    "sub3": [
-      "Energy Recharge+6.5%",
+      "Energy Recharge+5.8%",
       0
     ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6121
-  },
-  {
-    "sub1": [
-      "Energy Recharge+5.8%",
-      1
-    ],
     "sub2": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
@@ -4866,11 +3802,11 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "HP+4.7%",
-      256
+      0
     ],
     "sub3": [
       "DEF+23",
@@ -4885,11 +3821,11 @@
   {
     "sub1": [
       "ATK+4.7%",
-      4
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      255
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -4904,11 +3840,11 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
@@ -4922,35 +3858,16 @@
   },
   {
     "sub1": [
-      "ATK+18",
-      3
-    ],
-    "sub2": [
-      "Elemental Mastery+23",
-      255
-    ],
-    "sub3": [
-      "CRIT Rate+3.9%",
-      1531
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6241
-  },
-  {
-    "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -4961,11 +3878,11 @@
   {
     "sub1": [
       "DEF+19",
-      9692
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "HP+5.8%",
@@ -4979,31 +3896,12 @@
   },
   {
     "sub1": [
-      "DEF+7.3%",
-      1
-    ],
-    "sub2": [
-      "Energy Recharge+5.8%",
-      0
-    ],
-    "sub3": [
-      "HP+269",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6298
-  },
-  {
-    "sub1": [
       "ATK+4.7%",
-      5
+      0
     ],
     "sub2": [
       "HP+209",
-      255
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
@@ -5018,7 +3916,7 @@
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -5036,27 +3934,8 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.9%",
-      3
-    ],
-    "sub2": [
-      "Energy Recharge+4.5%",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+16",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6361
-  },
-  {
-    "sub1": [
       "ATK+4.1%",
-      3
+      0
     ],
     "sub2": [
       "HP+4.7%",
@@ -5064,7 +3943,7 @@
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -5075,7 +3954,7 @@
   {
     "sub1": [
       "Elemental Mastery+19",
-      7142
+      3
     ],
     "sub2": [
       "DEF+5.8%",
@@ -5083,7 +3962,7 @@
     ],
     "sub3": [
       "DEF+19",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -5094,7 +3973,7 @@
   {
     "sub1": [
       "HP+209",
-      2
+      0
     ],
     "sub2": [
       "DEF+21",
@@ -5112,44 +3991,6 @@
   },
   {
     "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "HP+5.8%",
-      0
-    ],
-    "sub3": [
-      "Energy Recharge+5.2%",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6459
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "HP+5.8%",
-      1
-    ],
-    "sub3": [
-      "Energy Recharge+5.2%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6481
-  },
-  {
-    "sub1": [
       "DEF+21",
       0
     ],
@@ -5162,19 +4003,19 @@
       0
     ],
     "sub4": [
-      "HP+5.2%",
-      9446
+      "HP+5.3%",
+      0
     ],
     "frameNumber": 6483
   },
   {
     "sub1": [
       "Energy Recharge+5.2%",
-      3
+      0
     ],
     "sub2": [
       "HP+209",
-      510
+      0
     ],
     "sub3": [
       "DEF+19",
@@ -5188,35 +4029,16 @@
   },
   {
     "sub1": [
-      "ATK+19",
-      7651
-    ],
-    "sub2": [
-      "HP+239",
-      255
-    ],
-    "sub3": [
-      "DEF+21",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6553
-  },
-  {
-    "sub1": [
       "CRIT Rate+3.5%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.8%",
-      2297
+      0
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -5226,27 +4048,8 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.5%",
-      3
-    ],
-    "sub2": [
-      "CRIT DMG+7.8%",
-      2296
-    ],
-    "sub3": [
-      "HP+239",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6601
-  },
-  {
-    "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -5264,27 +4067,8 @@
   },
   {
     "sub1": [
-      "ATK+19",
-      257
-    ],
-    "sub2": [
-      "DEF+16",
-      0
-    ],
-    "sub3": [
-      "HP+239",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6635
-  },
-  {
-    "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+16",
@@ -5296,14 +4080,14 @@
     ],
     "sub4": [
       "HP+5.8%",
-      8163
+      0
     ],
     "frameNumber": 6664
   },
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "DEF+19",
@@ -5321,44 +4105,6 @@
   },
   {
     "sub1": [
-      "ATK+14",
-      3
-    ],
-    "sub2": [
-      "Energy Recharge+5.2%",
-      255
-    ],
-    "sub3": [
-      "DEF+6.6%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6720
-  },
-  {
-    "sub1": [
-      "ATK+14",
-      3
-    ],
-    "sub2": [
-      "Energy Recharge+5.2%",
-      0
-    ],
-    "sub3": [
-      "DEF+6.6%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6721
-  },
-  {
-    "sub1": [
       "DEF+16",
       0
     ],
@@ -5368,7 +4114,7 @@
     ],
     "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -5378,27 +4124,8 @@
   },
   {
     "sub1": [
-      "DEF+16",
-      0
-    ],
-    "sub2": [
-      "Elemental Mastery+16",
-      0
-    ],
-    "sub3": [
-      "Energy Recharge+6.5%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 6841
-  },
-  {
-    "sub1": [
       "HP+269",
-      6377
+      3
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -5406,7 +4133,7 @@
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -5417,7 +4144,7 @@
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "DEF+6.6%",
@@ -5436,7 +4163,7 @@
   {
     "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -5444,7 +4171,7 @@
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -5455,11 +4182,11 @@
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "HP+209",
-      255
+      0
     ],
     "sub3": [
       "CRIT Rate+3.1%",
@@ -5467,37 +4194,18 @@
     ],
     "sub4": [
       "Elemental Mastery+23",
-      6648
+      5
     ],
     "frameNumber": 6930
   },
   {
     "sub1": [
-      "Energy Recharge+5.8%",
-      1
-    ],
-    "sub2": [
-      "HP+209",
-      255
-    ],
-    "sub3": [
-      "CRIT Rate+3.1%",
+      "Elemental Mastery+23",
       0
-    ],
-    "sub4": [
-      "Elemental Mastery+23",
-      5865
-    ],
-    "frameNumber": 6931
-  },
-  {
-    "sub1": [
-      "Elemental Mastery+23",
-      1
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "CRIT Rate+3.5%",
@@ -5505,33 +4213,14 @@
     ],
     "sub4": [
       "CRIT DMG+6.2%",
-      13515
+      0
     ],
     "frameNumber": 6957
   },
   {
     "sub1": [
-      "Elemental Mastery+23",
-      2
-    ],
-    "sub2": [
-      "ATK+19",
-      510
-    ],
-    "sub3": [
-      "CRIT Rate+3.5%",
-      0
-    ],
-    "sub4": [
-      "CRIT DMG+6.2%",
-      13260
-    ],
-    "frameNumber": 6961
-  },
-  {
-    "sub1": [
       "HP+209",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+16",
@@ -5539,7 +4228,7 @@
     ],
     "sub3": [
       "HP+4.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -5569,11 +4258,11 @@
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2307
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "DEF+23",
@@ -5588,40 +4277,21 @@
   {
     "sub1": [
       "HP+5.8%",
-      2
+      3
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "ATK+19",
-      256
+      0
     ],
     "sub4": [
       "",
       -1
     ],
     "frameNumber": 7065
-  },
-  {
-    "sub1": [
-      "HP+5.8%",
-      3
-    ],
-    "sub2": [
-      "Elemental Mastery+23",
-      255
-    ],
-    "sub3": [
-      "ATK+19",
-      255
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7081
   },
   {
     "sub1": [
@@ -5645,15 +4315,15 @@
   {
     "sub1": [
       "Elemental Mastery+23",
-      3
+      0
     ],
     "sub2": [
       "HP+5.8%",
-      1
+      0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -5664,7 +4334,7 @@
   {
     "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -5682,54 +4352,16 @@
   },
   {
     "sub1": [
-      "HP+239",
-      6886
-    ],
-    "sub2": [
-      "DEF+21",
-      0
-    ],
-    "sub3": [
-      "ATK+4.1%",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7176
-  },
-  {
-    "sub1": [
-      "HP+239",
-      3
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "ATK+4.1%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7201
-  },
-  {
-    "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "HP+4.7%",
-      1
+      0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -5744,7 +4376,7 @@
     ],
     "sub2": [
       "HP+269",
-      1
+      0
     ],
     "sub3": [
       "HP+4.1%",
@@ -5758,44 +4390,6 @@
   },
   {
     "sub1": [
-      "ATK+16",
-      1
-    ],
-    "sub2": [
-      "DEF+23",
-      255
-    ],
-    "sub3": [
-      "ATK+4.7%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7255
-  },
-  {
-    "sub1": [
-      "ATK+19",
-      7141
-    ],
-    "sub2": [
-      "DEF+19",
-      1
-    ],
-    "sub3": [
-      "CRIT DMG+7.0%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7285
-  },
-  {
-    "sub1": [
       "DEF+23",
       0
     ],
@@ -5809,56 +4403,37 @@
     ],
     "sub4": [
       "ATK+19",
-      6375
+      4
     ],
     "frameNumber": 7314
   },
   {
     "sub1": [
-      "DEF+23",
-      0
-    ],
-    "sub2": [
-      "HP+239",
-      0
-    ],
-    "sub3": [
-      "Energy Recharge+4.5%",
-      0
-    ],
-    "sub4": [
-      "ATK+19",
-      6885
-    ],
-    "frameNumber": 7321
-  },
-  {
-    "sub1": [
       "DEF+16",
-      3
+      0
     ],
     "sub2": [
       "ATK+16",
-      255
+      0
     ],
     "sub3": [
       "HP+209",
       0
     ],
     "sub4": [
-      "HP+5.2%",
-      9956
+      "HP+5.3%",
+      0
     ],
     "frameNumber": 7342
   },
   {
     "sub1": [
       "CRIT Rate+3.5%",
-      2
+      0
     ],
     "sub2": [
       "ATK+14",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -5866,22 +4441,22 @@
     ],
     "sub4": [
       "DEF+16",
-      5103
+      0
     ],
     "frameNumber": 7381
   },
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub3": [
       "DEF+19",
-      13
+      0
     ],
     "sub4": [
       "",
@@ -5892,7 +4467,7 @@
   {
     "sub1": [
       "HP+209",
-      2
+      0
     ],
     "sub2": [
       "DEF+5.8%",
@@ -5910,27 +4485,8 @@
   },
   {
     "sub1": [
-      "HP+209",
-      2
-    ],
-    "sub2": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub3": [
-      "CRIT Rate+3.1%",
-      1531
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7441
-  },
-  {
-    "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -5938,7 +4494,7 @@
     ],
     "sub3": [
       "HP+4.7%",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -5953,11 +4509,11 @@
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
-      "HP+5.2%",
-      2818
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "",
@@ -5967,12 +4523,12 @@
   },
   {
     "sub1": [
-      "ATK+5.2%",
-      2817
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -5987,15 +4543,15 @@
   {
     "sub1": [
       "DEF+6.6%",
-      2
+      0
     ],
     "sub2": [
       "DEF+21",
-      1
+      0
     ],
     "sub3": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "",
@@ -6005,54 +4561,16 @@
   },
   {
     "sub1": [
-      "DEF+6.6%",
-      2
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "HP+5.8%",
-      3060
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7561
-  },
-  {
-    "sub1": [
-      "CRIT Rate+3.9%",
-      2
-    ],
-    "sub2": [
-      "ATK+16",
-      255
-    ],
-    "sub3": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7576
-  },
-  {
-    "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "CRIT DMG+6.2%",
-      2552
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -6062,27 +4580,8 @@
   },
   {
     "sub1": [
-      "DEF+7.3%",
-      1
-    ],
-    "sub2": [
-      "ATK+19",
-      510
-    ],
-    "sub3": [
-      "HP+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7628
-  },
-  {
-    "sub1": [
       "HP+299",
-      2
+      0
     ],
     "sub2": [
       "DEF+23",
@@ -6094,28 +4593,9 @@
     ],
     "sub4": [
       "ATK+14",
-      1
+      0
     ],
     "frameNumber": 7656
-  },
-  {
-    "sub1": [
-      "HP+299",
-      7397
-    ],
-    "sub2": [
-      "DEF+23",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+19",
-      0
-    ],
-    "sub4": [
-      "ATK+14",
-      6886
-    ],
-    "frameNumber": 7681
   },
   {
     "sub1": [
@@ -6124,26 +4604,26 @@
     ],
     "sub2": [
       "ATK+18",
-      512
+      0
     ],
     "sub3": [
       "HP+269",
-      1
+      3
     ],
     "sub4": [
       "DEF+21",
-      7652
+      0
     ],
     "frameNumber": 7685
   },
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "ATK+18",
-      512
+      0
     ],
     "sub3": [
       "Elemental Mastery+21",
@@ -6158,11 +4638,11 @@
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      3
+      0
     ],
     "sub2": [
       "ATK+18",
-      2
+      0
     ],
     "sub3": [
       "Elemental Mastery+21",
@@ -6184,8 +4664,8 @@
       0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -6196,11 +4676,11 @@
   {
     "sub1": [
       "DEF+23",
-      1
+      0
     ],
     "sub2": [
       "ATK+18",
-      2
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -6208,18 +4688,18 @@
     ],
     "sub4": [
       "CRIT Rate+3.5%",
-      12240
+      0
     ],
     "frameNumber": 7829
   },
   {
     "sub1": [
       "HP+269",
-      1
+      3
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "CRIT Rate+3.1%",
@@ -6227,18 +4707,18 @@
     ],
     "sub4": [
       "ATK+19",
-      6120
+      0
     ],
     "frameNumber": 7858
   },
   {
     "sub1": [
       "HP+209",
-      3
+      0
     ],
     "sub2": [
       "ATK+19",
-      255
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
@@ -6246,18 +4726,18 @@
     ],
     "sub4": [
       "CRIT DMG+6.2%",
-      13515
+      6
     ],
     "frameNumber": 7889
   },
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      3
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "DEF+21",
@@ -6271,44 +4751,6 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.9%",
-      3
-    ],
-    "sub2": [
-      "ATK+14",
-      2
-    ],
-    "sub3": [
-      "DEF+21",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7921
-  },
-  {
-    "sub1": [
-      "Energy Recharge+4.5%",
-      2
-    ],
-    "sub2": [
-      "HP+4.1%",
-      0
-    ],
-    "sub3": [
-      "DEF+19",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 7944
-  },
-  {
-    "sub1": [
       "DEF+16",
       0
     ],
@@ -6318,7 +4760,7 @@
     ],
     "sub3": [
       "HP+4.7%",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -6329,7 +4771,7 @@
   {
     "sub1": [
       "ATK+4.1%",
-      3
+      0
     ],
     "sub2": [
       "DEF+21",
@@ -6337,7 +4779,7 @@
     ],
     "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -6347,54 +4789,16 @@
   },
   {
     "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "DEF+23",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+19",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8026
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "DEF+23",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+19",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8041
-  },
-  {
-    "sub1": [
       "DEF+6.6%",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1787
+      0
     ],
     "sub3": [
       "ATK+16",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -6404,35 +4808,16 @@
   },
   {
     "sub1": [
-      "DEF+19",
-      1
+      "HP+269",
+      3
     ],
     "sub2": [
-      "Elemental Mastery+19",
+      "ATK+14",
       0
     ],
     "sub3": [
-      "ATK+14",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8084
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "ATK+14",
-      257
-    ],
-    "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -6455,41 +4840,22 @@
     ],
     "sub4": [
       "Energy Recharge+5.8%",
-      8177
+      0
     ],
     "frameNumber": 8142
   },
   {
     "sub1": [
-      "DEF+23",
-      0
-    ],
-    "sub2": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+19",
-      0
-    ],
-    "sub4": [
-      "Energy Recharge+5.8%",
-      8177
-    ],
-    "frameNumber": 8161
-  },
-  {
-    "sub1": [
       "ATK+19",
-      258
+      0
     ],
     "sub2": [
       "DEF+16",
-      1
+      0
     ],
     "sub3": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -6500,11 +4866,11 @@
   {
     "sub1": [
       "ATK+19",
-      258
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1787
+      0
     ],
     "sub3": [
       "Elemental Mastery+23",
@@ -6519,26 +4885,26 @@
   {
     "sub1": [
       "Energy Recharge+4.5%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1787
+      0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "DEF+7.3%",
-      11986
+      0
     ],
     "frameNumber": 8226
   },
   {
     "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -6576,7 +4942,7 @@
   {
     "sub1": [
       "Elemental Mastery+23",
-      3
+      0
     ],
     "sub2": [
       "DEF+6.6%",
@@ -6595,7 +4961,7 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -6614,7 +4980,7 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -6622,7 +4988,7 @@
     ],
     "sub3": [
       "DEF+5.1%",
-      4
+      0
     ],
     "sub4": [
       "",
@@ -6633,7 +4999,7 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "DEF+21",
@@ -6641,7 +5007,7 @@
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -6651,27 +5017,8 @@
   },
   {
     "sub1": [
-      "ATK+18",
-      3
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "Energy Recharge+5.2%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8401
-  },
-  {
-    "sub1": [
       "DEF+19",
-      9692
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
@@ -6690,7 +5037,7 @@
   {
     "sub1": [
       "HP+269",
-      6122
+      3
     ],
     "sub2": [
       "HP+5.8%",
@@ -6709,7 +5056,7 @@
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -6728,11 +5075,11 @@
   {
     "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "CRIT DMG+7.8%",
@@ -6746,31 +5093,12 @@
   },
   {
     "sub1": [
-      "Energy Recharge+4.5%",
-      1
-    ],
-    "sub2": [
-      "ATK+14",
-      2
-    ],
-    "sub3": [
-      "CRIT DMG+7.8%",
-      1533
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8521
-  },
-  {
-    "sub1": [
       "CRIT Rate+3.9%",
-      14026
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2297
+      0
     ],
     "sub3": [
       "DEF+7.3%",
@@ -6784,8 +5112,8 @@
   },
   {
     "sub1": [
-      "ATK+5.2%",
-      2817
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "DEF+5.1%",
@@ -6803,65 +5131,27 @@
   },
   {
     "sub1": [
-      "HP+269",
-      6377
-    ],
-    "sub2": [
-      "ATK+5.2%",
-      2563
-    ],
-    "sub3": [
-      "HP+4.7%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8591
-  },
-  {
-    "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "CRIT Rate+3.5%",
-      255
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "HP+209",
-      5356
+      0
     ],
     "frameNumber": 8617
   },
   {
     "sub1": [
-      "Energy Recharge+4.5%",
-      1
-    ],
-    "sub2": [
-      "CRIT Rate+3.5%",
-      0
-    ],
-    "sub3": [
-      "ATK+14",
-      2
-    ],
-    "sub4": [
-      "HP+209",
-      5866
-    ],
-    "frameNumber": 8641
-  },
-  {
-    "sub1": [
       "DEF+6.6%",
-      2
+      0
     ],
     "sub2": [
       "HP+239",
@@ -6880,7 +5170,7 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -6899,7 +5189,7 @@
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -6917,65 +5207,8 @@
   },
   {
     "sub1": [
-      "CRIT DMG+7.8%",
-      2
-    ],
-    "sub2": [
-      "HP+209",
-      255
-    ],
-    "sub3": [
-      "DEF+23",
+      "ATK+5.3%",
       0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8786
-  },
-  {
-    "sub1": [
-      "DEF+19",
-      9692
-    ],
-    "sub2": [
-      "DEF+5.1%",
-      1
-    ],
-    "sub3": [
-      "HP+209",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8812
-  },
-  {
-    "sub1": [
-      "Energy Recharge+6.5%",
-      3
-    ],
-    "sub2": [
-      "DEF+5.1%",
-      1
-    ],
-    "sub3": [
-      "HP+209",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8838
-  },
-  {
-    "sub1": [
-      "ATK+5.8%",
-      3832
     ],
     "sub2": [
       "ATK+16",
@@ -6993,27 +5226,8 @@
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      4087
-    ],
-    "sub2": [
       "ATK+16",
       0
-    ],
-    "sub3": [
-      "Energy Recharge+4.5%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8881
-  },
-  {
-    "sub1": [
-      "ATK+16",
-      1
     ],
     "sub2": [
       "HP+4.1%",
@@ -7032,11 +5246,11 @@
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "Elemental Mastery+21",
@@ -7050,31 +5264,12 @@
   },
   {
     "sub1": [
-      "ATK+5.2%",
-      3072
-    ],
-    "sub2": [
-      "DEF+16",
-      2
-    ],
-    "sub3": [
-      "Elemental Mastery+19",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 8962
-  },
-  {
-    "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
@@ -7085,25 +5280,6 @@
       -1
     ],
     "frameNumber": 8986
-  },
-  {
-    "sub1": [
-      "Energy Recharge+4.5%",
-      1
-    ],
-    "sub2": [
-      "ATK+19",
-      510
-    ],
-    "sub3": [
-      "CRIT Rate+3.9%",
-      1531
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9001
   },
   {
     "sub1": [
@@ -7120,37 +5296,37 @@
     ],
     "sub4": [
       "CRIT DMG+5.4%",
-      15810
+      0
     ],
     "frameNumber": 9013
   },
   {
     "sub1": [
       "ATK+5.8%",
-      4
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
-      1276
+      0
     ],
     "sub4": [
       "HP+5.8%",
-      8417
+      0
     ],
     "frameNumber": 9037
   },
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      3
+      0
     ],
     "sub2": [
       "DEF+16",
-      1
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -7169,7 +5345,7 @@
     ],
     "sub2": [
       "CRIT DMG+7.8%",
-      2297
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
@@ -7183,65 +5359,8 @@
   },
   {
     "sub1": [
-      "DEF+21",
-      1
-    ],
-    "sub2": [
-      "CRIT Rate+3.1%",
-      2040
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9119
-  },
-  {
-    "sub1": [
-      "DEF+21",
-      1
-    ],
-    "sub2": [
-      "CRIT Rate+3.1%",
-      2040
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9121
-  },
-  {
-    "sub1": [
-      "Elemental Mastery+23",
-      3
-    ],
-    "sub2": [
-      "CRIT Rate+3.9%",
-      2040
-    ],
-    "sub3": [
-      "DEF+5.1%",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9146
-  },
-  {
-    "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "DEF+16",
@@ -7249,7 +5368,7 @@
     ],
     "sub3": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -7260,7 +5379,7 @@
   {
     "sub1": [
       "HP+239",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -7272,18 +5391,18 @@
     ],
     "sub4": [
       "DEF+23",
-      8926
+      0
     ],
     "frameNumber": 9197
   },
   {
     "sub1": [
       "HP+209",
-      1
+      0
     ],
     "sub2": [
       "DEF+23",
-      255
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -7297,35 +5416,16 @@
   },
   {
     "sub1": [
-      "HP+209",
-      2
-    ],
-    "sub2": [
-      "DEF+23",
-      255
-    ],
-    "sub3": [
-      "Elemental Mastery+16",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9241
-  },
-  {
-    "sub1": [
       "DEF+16",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2042
+      0
     ],
     "sub3": [
       "HP+299",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -7336,11 +5436,11 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
       "Elemental Mastery+16",
@@ -7355,11 +5455,11 @@
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      2
+      0
     ],
     "sub2": [
       "HP+4.7%",
-      1
+      0
     ],
     "sub3": [
       "DEF+16",
@@ -7367,7 +5467,7 @@
     ],
     "sub4": [
       "ATK+4.7%",
-      10711
+      0
     ],
     "frameNumber": 9312
   },
@@ -7378,7 +5478,7 @@
     ],
     "sub2": [
       "CRIT DMG+7.8%",
-      2297
+      0
     ],
     "sub3": [
       "DEF+6.6%",
@@ -7392,27 +5492,8 @@
   },
   {
     "sub1": [
-      "DEF+21",
-      1
-    ],
-    "sub2": [
-      "CRIT DMG+7.8%",
-      2296
-    ],
-    "sub3": [
-      "DEF+6.6%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9361
-  },
-  {
-    "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "DEF+6.6%",
@@ -7431,11 +5512,11 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "DEF+21",
@@ -7450,7 +5531,7 @@
   {
     "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "HP+299",
@@ -7469,7 +5550,7 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "DEF+23",
@@ -7477,7 +5558,7 @@
     ],
     "sub3": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -7487,35 +5568,16 @@
   },
   {
     "sub1": [
-      "ATK+18",
-      3
-    ],
-    "sub2": [
-      "DEF+23",
-      255
-    ],
-    "sub3": [
-      "DEF+5.1%",
+      "Energy Recharge+4.5%",
       0
     ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9481
-  },
-  {
-    "sub1": [
-      "Energy Recharge+4.5%",
-      1
-    ],
     "sub2": [
-      "ATK+5.2%",
-      2564
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "DEF+16",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -7526,7 +5588,7 @@
   {
     "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -7544,27 +5606,8 @@
   },
   {
     "sub1": [
-      "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "Energy Recharge+5.2%",
-      0
-    ],
-    "sub3": [
-      "DEF+21",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9542
-  },
-  {
-    "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "DEF+5.8%",
@@ -7583,11 +5626,11 @@
   {
     "sub1": [
       "DEF+16",
-      2
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "DEF+7.3%",
@@ -7601,50 +5644,12 @@
   },
   {
     "sub1": [
-      "DEF+16",
-      0
-    ],
-    "sub2": [
-      "ATK+14",
-      2
-    ],
-    "sub3": [
-      "DEF+7.3%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9601
-  },
-  {
-    "sub1": [
-      "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "CRIT DMG+6.2%",
-      2297
-    ],
-    "sub3": [
-      "DEF+7.3%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 9623
-  },
-  {
-    "sub1": [
       "Energy Recharge+6.5%",
-      3
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2043
+      0
     ],
     "sub3": [
       "Elemental Mastery+23",
@@ -7659,7 +5664,7 @@
   {
     "sub1": [
       "HP+209",
-      1
+      0
     ],
     "sub2": [
       "DEF+5.1%",
@@ -7678,7 +5683,7 @@
   {
     "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "DEF+6.6%",
@@ -7686,41 +5691,41 @@
     ],
     "sub3": [
       "HP+4.1%",
-      1
+      0
     ],
     "sub4": [
       "HP+239",
-      5356
+      0
     ],
     "frameNumber": 9776
   },
   {
     "sub1": [
-      "HP+5.2%",
-      2818
+      "HP+5.3%",
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "DEF+6.6%",
-      8416
+      0
     ],
     "frameNumber": 9806
   },
   {
     "sub1": [
       "CRIT DMG+7.0%",
-      2
+      0
     ],
     "sub2": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
@@ -7728,37 +5733,18 @@
     ],
     "sub4": [
       "Energy Recharge+6.5%",
-      8415
+      0
     ],
     "frameNumber": 9834
   },
   {
     "sub1": [
-      "CRIT DMG+7.0%",
-      2
-    ],
-    "sub2": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub3": [
-      "CRIT Rate+2.7%",
-      1531
-    ],
-    "sub4": [
-      "Energy Recharge+6.5%",
-      8416
-    ],
-    "frameNumber": 9841
-  },
-  {
-    "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
       "DEF+6.6%",
@@ -7766,18 +5752,18 @@
     ],
     "sub4": [
       "HP+209",
-      5100
+      0
     ],
     "frameNumber": 9863
   },
   {
     "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "DEF+19",
@@ -7792,11 +5778,11 @@
   {
     "sub1": [
       "ATK+4.7%",
-      4
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "DEF+6.6%",
@@ -7811,7 +5797,7 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "HP+239",
@@ -7830,7 +5816,7 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "HP+239",
@@ -7849,11 +5835,11 @@
   {
     "sub1": [
       "DEF+6.6%",
-      2
+      0
     ],
     "sub2": [
       "DEF+19",
-      1
+      0
     ],
     "sub3": [
       "HP+209",
@@ -7867,25 +5853,6 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.5%",
-      2
-    ],
-    "sub2": [
-      "ATK+5.2%",
-      2817
-    ],
-    "sub3": [
-      "DEF+21",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10000
-  },
-  {
-    "sub1": [
       "DEF+19",
       0
     ],
@@ -7895,18 +5862,18 @@
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "CRIT DMG+5.4%",
-      16065
+      0
     ],
     "frameNumber": 10027
   },
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "DEF+6.6%",
@@ -7914,18 +5881,18 @@
     ],
     "sub3": [
       "HP+209",
-      1
+      0
     ],
     "sub4": [
       "CRIT Rate+3.1%",
-      9945
+      0
     ],
     "frameNumber": 10053
   },
   {
     "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -7933,32 +5900,13 @@
     ],
     "sub3": [
       "HP+299",
-      0
+      3
     ],
     "sub4": [
       "ATK+4.1%",
-      7395
+      0
     ],
     "frameNumber": 10079
-  },
-  {
-    "sub1": [
-      "Energy Recharge+4.5%",
-      1
-    ],
-    "sub2": [
-      "HP+4.1%",
-      0
-    ],
-    "sub3": [
-      "HP+299",
-      0
-    ],
-    "sub4": [
-      "ATK+4.1%",
-      8415
-    ],
-    "frameNumber": 10081
   },
   {
     "sub1": [
@@ -7967,22 +5915,22 @@
     ],
     "sub2": [
       "ATK+14",
-      255
+      0
     ],
     "sub3": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub4": [
       "HP+269",
-      4593
+      0
     ],
     "frameNumber": 10109
   },
   {
     "sub1": [
       "HP+239",
-      6887
+      0
     ],
     "sub2": [
       "Elemental Mastery+16",
@@ -7990,18 +5938,18 @@
     ],
     "sub3": [
       "DEF+16",
-      1
+      0
     ],
     "sub4": [
       "Energy Recharge+5.2%",
-      7395
+      0
     ],
     "frameNumber": 10138
   },
   {
     "sub1": [
       "HP+4.1%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -8020,15 +5968,15 @@
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "DEF+19",
-      1
+      0
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -8039,15 +5987,15 @@
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "DEF+19",
-      1
+      0
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -8058,15 +6006,15 @@
   {
     "sub1": [
       "DEF+23",
-      1
+      0
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      1530
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -8076,65 +6024,8 @@
   },
   {
     "sub1": [
-      "DEF+21",
-      0
-    ],
-    "sub2": [
-      "HP+209",
-      0
-    ],
-    "sub3": [
       "ATK+16",
       0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10275
-  },
-  {
-    "sub1": [
-      "DEF+16",
-      0
-    ],
-    "sub2": [
-      "Elemental Mastery+23",
-      255
-    ],
-    "sub3": [
-      "HP+299",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10301
-  },
-  {
-    "sub1": [
-      "DEF+16",
-      0
-    ],
-    "sub2": [
-      "Elemental Mastery+23",
-      255
-    ],
-    "sub3": [
-      "HP+299",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10321
-  },
-  {
-    "sub1": [
-      "ATK+16",
-      1
     ],
     "sub2": [
       "DEF+5.8%",
@@ -8142,7 +6033,7 @@
     ],
     "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -8153,7 +6044,7 @@
   {
     "sub1": [
       "HP+239",
-      6887
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -8161,18 +6052,18 @@
     ],
     "sub3": [
       "ATK+19",
-      256
+      0
     ],
     "sub4": [
       "Elemental Mastery+19",
-      5101
+      0
     ],
     "frameNumber": 10355
   },
   {
     "sub1": [
       "DEF+21",
-      1
+      0
     ],
     "sub2": [
       "HP+299",
@@ -8190,103 +6081,8 @@
   },
   {
     "sub1": [
-      "ATK+19",
-      7650
-    ],
-    "sub2": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub3": [
-      "ATK+4.1%",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10406
-  },
-  {
-    "sub1": [
-      "HP+5.8%",
-      3574
-    ],
-    "sub2": [
-      "ATK+18",
-      2
-    ],
-    "sub3": [
       "CRIT Rate+3.9%",
       0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10430
-  },
-  {
-    "sub1": [
-      "HP+5.8%",
-      4085
-    ],
-    "sub2": [
-      "ATK+18",
-      2
-    ],
-    "sub3": [
-      "CRIT Rate+3.9%",
-      1531
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10441
-  },
-  {
-    "sub1": [
-      "ATK+4.1%",
-      4
-    ],
-    "sub2": [
-      "DEF+16",
-      1
-    ],
-    "sub3": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10458
-  },
-  {
-    "sub1": [
-      "HP+239",
-      6886
-    ],
-    "sub2": [
-      "DEF+23",
-      255
-    ],
-    "sub3": [
-      "ATK+14",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10484
-  },
-  {
-    "sub1": [
-      "CRIT Rate+3.9%",
-      2
     ],
     "sub2": [
       "HP+269",
@@ -8298,14 +6094,14 @@
     ],
     "sub4": [
       "ATK+16",
-      6375
+      0
     ],
     "frameNumber": 10511
   },
   {
     "sub1": [
       "ATK+19",
-      7141
+      0
     ],
     "sub2": [
       "ATK+4.7%",
@@ -8313,37 +6109,18 @@
     ],
     "sub3": [
       "HP+239",
-      1
+      0
     ],
     "sub4": [
       "Energy Recharge+4.5%",
-      8177
+      0
     ],
     "frameNumber": 10537
   },
   {
     "sub1": [
-      "ATK+19",
-      257
-    ],
-    "sub2": [
-      "ATK+4.7%",
-      2
-    ],
-    "sub3": [
-      "HP+239",
-      1
-    ],
-    "sub4": [
-      "Energy Recharge+4.5%",
-      8177
-    ],
-    "frameNumber": 10561
-  },
-  {
-    "sub1": [
       "DEF+6.6%",
-      1
+      0
     ],
     "sub2": [
       "HP+239",
@@ -8351,26 +6128,26 @@
     ],
     "sub3": [
       "ATK+19",
-      255
+      0
     ],
     "sub4": [
       "CRIT Rate+3.9%",
-      10710
+      0
     ],
     "frameNumber": 10563
   },
   {
     "sub1": [
       "HP+5.8%",
-      2
+      3
     ],
     "sub2": [
       "DEF+16",
-      2
+      0
     ],
     "sub3": [
       "ATK+19",
-      255
+      0
     ],
     "sub4": [
       "",
@@ -8380,88 +6157,12 @@
   },
   {
     "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "ATK+14",
-      2
-    ],
-    "sub3": [
-      "CRIT DMG+7.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10677
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "ATK+14",
-      2
-    ],
-    "sub3": [
-      "CRIT DMG+7.8%",
-      1533
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10681
-  },
-  {
-    "sub1": [
-      "DEF+23",
-      0
-    ],
-    "sub2": [
-      "CRIT Rate+2.7%",
-      2550
-    ],
-    "sub3": [
-      "CRIT DMG+7.8%",
-      1533
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10702
-  },
-  {
-    "sub1": [
-      "ATK+5.8%",
-      4
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "CRIT DMG+7.8%",
-      1533
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10730
-  },
-  {
-    "sub1": [
       "ATK+19",
-      257
+      0
     ],
     "sub2": [
       "HP+299",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -8475,50 +6176,12 @@
   },
   {
     "sub1": [
-      "HP+299",
-      7397
-    ],
-    "sub2": [
-      "ATK+14",
-      2
-    ],
-    "sub3": [
-      "Energy Recharge+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10801
-  },
-  {
-    "sub1": [
-      "HP+5.2%",
-      2562
-    ],
-    "sub2": [
-      "ATK+5.2%",
-      2563
-    ],
-    "sub3": [
-      "DEF+7.3%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10810
-  },
-  {
-    "sub1": [
       "DEF+6.6%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2552
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
@@ -8526,18 +6189,18 @@
     ],
     "sub4": [
       "DEF+21",
-      6378
+      0
     ],
     "frameNumber": 10840
   },
   {
     "sub1": [
-      "HP+5.2%",
-      2560
+      "HP+5.3%",
+      0
     ],
     "sub2": [
       "ATK+19",
-      255
+      0
     ],
     "sub3": [
       "DEF+16",
@@ -8551,35 +6214,16 @@
   },
   {
     "sub1": [
-      "HP+4.7%",
-      3
-    ],
-    "sub2": [
-      "Energy Recharge+6.5%",
-      0
-    ],
-    "sub3": [
-      "ATK+14",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10891
-  },
-  {
-    "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      1532
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -8590,11 +6234,11 @@
   {
     "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      1786
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
@@ -8609,7 +6253,7 @@
   {
     "sub1": [
       "DEF+7.3%",
-      1
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -8617,7 +6261,7 @@
     ],
     "sub3": [
       "ATK+19",
-      256
+      0
     ],
     "sub4": [
       "",
@@ -8627,69 +6271,12 @@
   },
   {
     "sub1": [
-      "DEF+16",
-      3
-    ],
-    "sub2": [
-      "CRIT DMG+7.8%",
-      2297
-    ],
-    "sub3": [
-      "HP+239",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 10993
-  },
-  {
-    "sub1": [
-      "DEF+6.6%",
-      1
-    ],
-    "sub2": [
-      "HP+4.7%",
-      1
-    ],
-    "sub3": [
-      "HP+239",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11019
-  },
-  {
-    "sub1": [
-      "DEF+6.6%",
-      2
-    ],
-    "sub2": [
-      "HP+4.7%",
-      1
-    ],
-    "sub3": [
-      "HP+239",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11041
-  },
-  {
-    "sub1": [
       "DEF+5.8%",
-      2
+      0
     ],
     "sub2": [
       "DEF+23",
-      255
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -8704,11 +6291,11 @@
   {
     "sub1": [
       "DEF+6.6%",
-      2
+      0
     ],
     "sub2": [
       "DEF+16",
-      511
+      0
     ],
     "sub3": [
       "CRIT DMG+6.2%",
@@ -8716,41 +6303,41 @@
     ],
     "sub4": [
       "HP+209",
-      5356
+      0
     ],
     "frameNumber": 11075
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      4085
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "Elemental Mastery+16",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "DEF+16",
-      5357
+      0
     ],
     "frameNumber": 11100
   },
   {
     "sub1": [
       "DEF+16",
-      3
+      0
     ],
     "sub2": [
       "HP+4.7%",
-      1
+      0
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -8760,12 +6347,12 @@
   },
   {
     "sub1": [
-      "HP+5.2%",
-      2562
+      "HP+5.3%",
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -8779,12 +6366,12 @@
   },
   {
     "sub1": [
-      "HP+5.8%",
-      4085
+      "HP+5.3%",
+      3
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -8799,15 +6386,15 @@
   {
     "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      255
+      0
     ],
     "sub3": [
       "DEF+16",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -8818,7 +6405,7 @@
   {
     "sub1": [
       "HP+269",
-      1
+      3
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -8836,65 +6423,8 @@
   },
   {
     "sub1": [
-      "DEF+5.8%",
-      1
-    ],
-    "sub2": [
-      "Energy Recharge+4.5%",
-      0
-    ],
-    "sub3": [
       "DEF+19",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11235
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "DEF+7.3%",
       0
-    ],
-    "sub3": [
-      "DEF+23",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11269
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
-    ],
-    "sub2": [
-      "DEF+7.3%",
-      0
-    ],
-    "sub3": [
-      "DEF+23",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11281
-  },
-  {
-    "sub1": [
-      "DEF+19",
-      1
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -8913,7 +6443,7 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -8921,7 +6451,7 @@
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -8932,15 +6462,15 @@
   {
     "sub1": [
       "Elemental Mastery+16",
-      6
+      0
     ],
     "sub2": [
       "DEF+5.8%",
-      255
+      0
     ],
     "sub3": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -8951,11 +6481,11 @@
   {
     "sub1": [
       "DEF+5.8%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1788
+      0
     ],
     "sub3": [
       "DEF+23",
@@ -8963,28 +6493,9 @@
     ],
     "sub4": [
       "HP+4.1%",
-      5866
+      0
     ],
     "frameNumber": 11375
-  },
-  {
-    "sub1": [
-      "DEF+5.8%",
-      2
-    ],
-    "sub2": [
-      "CRIT DMG+5.4%",
-      2041
-    ],
-    "sub3": [
-      "DEF+23",
-      0
-    ],
-    "sub4": [
-      "HP+4.1%",
-      5866
-    ],
-    "frameNumber": 11401
   },
   {
     "sub1": [
@@ -8993,7 +6504,7 @@
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "Energy Recharge+4.5%",
@@ -9001,52 +6512,33 @@
     ],
     "sub4": [
       "ATK+19",
-      6375
+      4
     ],
     "frameNumber": 11406
   },
   {
     "sub1": [
       "DEF+6.6%",
-      1
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "DEF+16",
-      1
+      0
     ],
     "sub4": [
       "CRIT DMG+7.8%",
-      17085
+      0
     ],
     "frameNumber": 11435
   },
   {
     "sub1": [
-      "DEF+23",
-      0
-    ],
-    "sub2": [
-      "ATK+14",
-      2
-    ],
-    "sub3": [
-      "ATK+4.7%",
-      2
-    ],
-    "sub4": [
-      "HP+5.8%",
-      8418
-    ],
-    "frameNumber": 11462
-  },
-  {
-    "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -9065,15 +6557,15 @@
   {
     "sub1": [
       "ATK+4.1%",
-      4
+      0
     ],
     "sub2": [
       "ATK+18",
-      2
+      0
     ],
     "sub3": [
       "HP+5.8%",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -9083,27 +6575,8 @@
   },
   {
     "sub1": [
-      "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "ATK+18",
-      2
-    ],
-    "sub3": [
-      "HP+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11521
-  },
-  {
-    "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "DEF+5.8%",
@@ -9122,7 +6595,7 @@
   {
     "sub1": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -9140,25 +6613,6 @@
   },
   {
     "sub1": [
-      "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "HP+4.1%",
-      0
-    ],
-    "sub3": [
-      "HP+299",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11641
-  },
-  {
-    "sub1": [
       "DEF+16",
       0
     ],
@@ -9168,7 +6622,7 @@
     ],
     "sub3": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -9178,27 +6632,8 @@
   },
   {
     "sub1": [
-      "Energy Recharge+5.8%",
-      1
-    ],
-    "sub2": [
-      "Elemental Mastery+21",
-      0
-    ],
-    "sub3": [
-      "ATK+4.1%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11703
-  },
-  {
-    "sub1": [
       "HP+4.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+19",
@@ -9206,60 +6641,41 @@
     ],
     "sub3": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub4": [
       "HP+299",
-      4338
+      0
     ],
     "frameNumber": 11734
   },
   {
     "sub1": [
-      "HP+4.1%",
-      2
-    ],
-    "sub2": [
-      "DEF+19",
-      1
-    ],
-    "sub3": [
-      "DEF+5.1%",
-      0
-    ],
-    "sub4": [
-      "HP+299",
-      4592
-    ],
-    "frameNumber": 11761
-  },
-  {
-    "sub1": [
       "DEF+5.8%",
-      1
+      0
     ],
     "sub2": [
       "HP+209",
-      255
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
       0
     ],
     "sub4": [
-      "HP+5.2%",
-      10467
+      "HP+5.3%",
+      0
     ],
     "frameNumber": 11762
   },
   {
     "sub1": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1787
+      0
     ],
     "sub3": [
       "DEF+21",
@@ -9267,7 +6683,7 @@
     ],
     "sub4": [
       "Energy Recharge+6.5%",
-      9437
+      0
     ],
     "frameNumber": 11788
   },
@@ -9277,12 +6693,12 @@
       0
     ],
     "sub2": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -9292,27 +6708,8 @@
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      5
-    ],
-    "sub2": [
-      "CRIT DMG+7.8%",
-      2297
-    ],
-    "sub3": [
-      "HP+4.7%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11841
-  },
-  {
-    "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -9320,7 +6717,7 @@
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -9331,7 +6728,7 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -9339,7 +6736,7 @@
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -9349,50 +6746,31 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.5%",
-      3
-    ],
-    "sub2": [
-      "Elemental Mastery+21",
-      0
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      3062
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 11895
-  },
-  {
-    "sub1": [
       "HP+239",
-      6887
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "DEF+6.6%",
-      8161
+      0
     ],
     "frameNumber": 11923
   },
   {
     "sub1": [
       "HP+299",
-      7397
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2307
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
@@ -9400,18 +6778,18 @@
     ],
     "sub4": [
       "CRIT Rate+3.1%",
-      9180
+      0
     ],
     "frameNumber": 11950
   },
   {
     "sub1": [
       "HP+239",
-      6887
+      0
     ],
     "sub2": [
       "HP+5.8%",
-      1
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -9419,33 +6797,14 @@
     ],
     "sub4": [
       "ATK+14",
-      1
+      0
     ],
     "frameNumber": 11976
   },
   {
     "sub1": [
-      "HP+239",
-      3
-    ],
-    "sub2": [
-      "HP+5.8%",
-      1
-    ],
-    "sub3": [
-      "Elemental Mastery+19",
-      0
-    ],
-    "sub4": [
-      "ATK+14",
-      6886
-    ],
-    "frameNumber": 12001
-  },
-  {
-    "sub1": [
       "ATK+19",
-      257
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -9457,14 +6816,14 @@
     ],
     "sub4": [
       "HP+269",
-      5102
+      0
     ],
     "frameNumber": 12003
   },
   {
     "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "CRIT Rate+3.5%",
@@ -9483,30 +6842,30 @@
   {
     "sub1": [
       "DEF+5.1%",
-      4
+      0
     ],
     "sub2": [
       "HP+299",
-      1
+      0
     ],
     "sub3": [
       "HP+4.1%",
-      1
+      0
     ],
     "sub4": [
       "Energy Recharge+5.2%",
-      7650
+      0
     ],
     "frameNumber": 12054
   },
   {
     "sub1": [
       "HP+299",
-      6887
+      0
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      2042
+      0
     ],
     "sub3": [
       "HP+4.7%",
@@ -9514,14 +6873,14 @@
     ],
     "sub4": [
       "ATK+5.8%",
-      9946
+      0
     ],
     "frameNumber": 12081
   },
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+5.8%",
@@ -9529,45 +6888,26 @@
     ],
     "sub3": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub4": [
       "HP+209",
-      5356
+      0
     ],
     "frameNumber": 12108
   },
   {
     "sub1": [
-      "CRIT Rate+3.1%",
-      2
-    ],
-    "sub2": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "HP+209",
-      5866
-    ],
-    "frameNumber": 12121
-  },
-  {
-    "sub1": [
       "HP+269",
-      1
+      3
     ],
     "sub2": [
       "CRIT Rate+3.9%",
-      1785
+      0
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -9578,7 +6918,7 @@
   {
     "sub1": [
       "ATK+5.8%",
-      4
+      0
     ],
     "sub2": [
       "Energy Recharge+6.5%",
@@ -9596,31 +6936,12 @@
   },
   {
     "sub1": [
-      "ATK+19",
-      257
-    ],
-    "sub2": [
-      "CRIT Rate+2.7%",
-      2295
-    ],
-    "sub3": [
-      "DEF+19",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12196
-  },
-  {
-    "sub1": [
       "ATK+4.1%",
-      3
+      0
     ],
     "sub2": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub3": [
       "CRIT Rate+3.9%",
@@ -9634,31 +6955,12 @@
   },
   {
     "sub1": [
-      "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "DEF+5.1%",
-      1
-    ],
-    "sub3": [
-      "CRIT Rate+3.9%",
-      1531
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12241
-  },
-  {
-    "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "DEF+16",
-      256
+      0
     ],
     "sub3": [
       "Energy Recharge+6.5%",
@@ -9673,11 +6975,11 @@
   {
     "sub1": [
       "DEF+19",
-      9692
+      0
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      1785
+      0
     ],
     "sub3": [
       "DEF+6.6%",
@@ -9692,15 +6994,15 @@
   {
     "sub1": [
       "ATK+4.7%",
-      4
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      255
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -9711,7 +7013,7 @@
   {
     "sub1": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+5.1%",
@@ -9719,7 +7021,7 @@
     ],
     "sub3": [
       "Energy Recharge+6.5%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -9729,27 +7031,8 @@
   },
   {
     "sub1": [
-      "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "DEF+5.1%",
-      1
-    ],
-    "sub3": [
-      "Energy Recharge+6.5%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12361
-  },
-  {
-    "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -9767,46 +7050,8 @@
   },
   {
     "sub1": [
-      "ATK+18",
+      "HP+269",
       3
-    ],
-    "sub2": [
-      "HP+269",
-      1
-    ],
-    "sub3": [
-      "CRIT Rate+3.9%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12390
-  },
-  {
-    "sub1": [
-      "DEF+21",
-      0
-    ],
-    "sub2": [
-      "ATK+19",
-      510
-    ],
-    "sub3": [
-      "Energy Recharge+5.2%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12419
-  },
-  {
-    "sub1": [
-      "HP+269",
-      1
     ],
     "sub2": [
       "DEF+6.6%",
@@ -9824,27 +7069,8 @@
   },
   {
     "sub1": [
-      "ATK+14",
-      3
-    ],
-    "sub2": [
-      "DEF+6.6%",
-      0
-    ],
-    "sub3": [
-      "ATK+4.1%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12481
-  },
-  {
-    "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "HP+299",
@@ -9852,7 +7078,7 @@
     ],
     "sub3": [
       "ATK+19",
-      255
+      0
     ],
     "sub4": [
       "",
@@ -9863,15 +7089,15 @@
   {
     "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "DEF+19",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -9881,50 +7107,31 @@
   },
   {
     "sub1": [
-      "ATK+14",
-      3
-    ],
-    "sub2": [
-      "DEF+19",
-      1
-    ],
-    "sub3": [
-      "Energy Recharge+5.2%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12601
-  },
-  {
-    "sub1": [
       "ATK+4.7%",
-      4
+      0
     ],
     "sub2": [
       "CRIT DMG+7.8%",
-      2042
+      0
     ],
     "sub3": [
       "DEF+21",
-      1
+      0
     ],
     "sub4": [
       "ATK+14",
-      1
+      0
     ],
     "frameNumber": 12609
   },
   {
     "sub1": [
       "HP+269",
-      1
+      3
     ],
     "sub2": [
       "CRIT DMG+5.4%",
-      1787
+      0
     ],
     "sub3": [
       "DEF+16",
@@ -9932,90 +7139,71 @@
     ],
     "sub4": [
       "Energy Recharge+5.8%",
-      9436
+      0
     ],
     "frameNumber": 12637
   },
   {
     "sub1": [
       "HP+4.1%",
-      2
+      0
     ],
     "sub2": [
       "DEF+23",
-      255
+      0
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "DEF+5.1%",
-      10457
+      0
     ],
     "frameNumber": 12662
   },
   {
     "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "CRIT Rate+3.1%",
-      9945
+      0
     ],
     "frameNumber": 12688
   },
   {
     "sub1": [
       "ATK+4.1%",
-      3
-    ],
-    "sub2": [
-      "Energy Recharge+5.2%",
-      255
-    ],
-    "sub3": [
-      "HP+5.2%",
-      2817
-    ],
-    "sub4": [
-      "HP+269",
-      4847
-    ],
-    "frameNumber": 12711
-  },
-  {
-    "sub1": [
-      "ATK+4.1%",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
       0
     ],
     "sub3": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "HP+269",
-      4592
+      0
     ],
-    "frameNumber": 12721
+    "frameNumber": 12711
   },
   {
     "sub1": [
       "ATK+5.8%",
-      4
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -10027,22 +7215,22 @@
     ],
     "sub4": [
       "DEF+23",
-      8671
+      0
     ],
     "frameNumber": 12739
   },
   {
     "sub1": [
       "DEF+16",
-      3
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "",
@@ -10053,7 +7241,7 @@
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -10072,7 +7260,7 @@
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
@@ -10091,7 +7279,7 @@
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
@@ -10110,7 +7298,7 @@
   {
     "sub1": [
       "HP+299",
-      6887
+      0
     ],
     "sub2": [
       "DEF+5.1%",
@@ -10118,7 +7306,7 @@
     ],
     "sub3": [
       "Energy Recharge+5.2%",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -10129,7 +7317,7 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -10137,7 +7325,7 @@
     ],
     "sub3": [
       "ATK+18",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -10148,7 +7336,7 @@
   {
     "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "DEF+7.3%",
@@ -10167,7 +7355,7 @@
   {
     "sub1": [
       "ATK+14",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -10185,31 +7373,12 @@
   },
   {
     "sub1": [
-      "ATK+14",
-      3
-    ],
-    "sub2": [
-      "Energy Recharge+4.5%",
-      0
-    ],
-    "sub3": [
-      "DEF+23",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 12961
-  },
-  {
-    "sub1": [
       "ATK+4.1%",
-      3
+      0
     ],
     "sub2": [
       "HP+209",
-      255
+      0
     ],
     "sub3": [
       "HP+5.8%",
@@ -10224,11 +7393,11 @@
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -10243,11 +7412,11 @@
   {
     "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "CRIT Rate+3.5%",
@@ -10262,15 +7431,15 @@
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "CRIT Rate+3.9%",
-      1785
+      0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3063
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -10281,7 +7450,7 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -10289,18 +7458,18 @@
     ],
     "sub3": [
       "HP+4.7%",
-      0
+      3
     ],
     "sub4": [
       "Energy Recharge+6.5%",
-      8160
+      0
     ],
     "frameNumber": 13072
   },
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -10312,7 +7481,7 @@
     ],
     "sub4": [
       "Energy Recharge+6.5%",
-      8416
+      0
     ],
     "frameNumber": 13081
   },
@@ -10323,11 +7492,11 @@
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      2040
+      0
     ],
     "sub3": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -10338,11 +7507,11 @@
   {
     "sub1": [
       "HP+4.1%",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      255
+      0
     ],
     "sub3": [
       "DEF+19",
@@ -10357,7 +7526,7 @@
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      2
+      0
     ],
     "sub2": [
       "HP+5.8%",
@@ -10376,7 +7545,7 @@
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      2
+      0
     ],
     "sub2": [
       "DEF+16",
@@ -10384,7 +7553,7 @@
     ],
     "sub3": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -10394,50 +7563,12 @@
   },
   {
     "sub1": [
-      "CRIT DMG+7.8%",
-      2
-    ],
-    "sub2": [
-      "HP+209",
-      0
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13200
-  },
-  {
-    "sub1": [
-      "CRIT DMG+7.8%",
-      2
-    ],
-    "sub2": [
-      "HP+209",
-      0
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13201
-  },
-  {
-    "sub1": [
       "HP+269",
-      1
+      3
     ],
     "sub2": [
       "DEF+21",
-      1
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -10445,18 +7576,18 @@
     ],
     "sub4": [
       "CRIT Rate+3.9%",
-      9945
+      0
     ],
     "frameNumber": 13226
   },
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
       "DEF+6.6%",
@@ -10471,7 +7602,7 @@
   {
     "sub1": [
       "HP+4.7%",
-      2
+      3
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -10489,54 +7620,16 @@
   },
   {
     "sub1": [
-      "DEF+7.3%",
-      1
-    ],
-    "sub2": [
-      "Elemental Mastery+23",
-      0
-    ],
-    "sub3": [
-      "DEF+21",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13308
-  },
-  {
-    "sub1": [
-      "DEF+7.3%",
-      1
-    ],
-    "sub2": [
-      "Elemental Mastery+23",
-      255
-    ],
-    "sub3": [
-      "DEF+21",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13321
-  },
-  {
-    "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "ATK+4.7%",
-      2
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -10546,50 +7639,12 @@
   },
   {
     "sub1": [
-      "HP+299",
-      6887
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "CRIT DMG+7.0%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13360
-  },
-  {
-    "sub1": [
-      "HP+299",
-      7397
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "CRIT DMG+7.0%",
-      1533
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13441
-  },
-  {
-    "sub1": [
       "Elemental Mastery+16",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+6.2%",
-      1787
+      0
     ],
     "sub3": [
       "DEF+16",
@@ -10604,7 +7659,7 @@
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -10623,15 +7678,15 @@
   {
     "sub1": [
       "Energy Recharge+6.5%",
-      3
+      0
     ],
     "sub2": [
       "CRIT DMG+7.8%",
-      2042
+      0
     ],
     "sub3": [
-      "ATK+5.2%",
-      2820
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -10642,30 +7697,11 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      3
+      0
     ],
     "sub2": [
       "DEF+16",
-      1
-    ],
-    "sub3": [
-      "Energy Recharge+5.2%",
-      1
-    ],
-    "sub4": [
-      "DEF+5.1%",
-      9438
-    ],
-    "frameNumber": 13535
-  },
-  {
-    "sub1": [
-      "CRIT DMG+5.4%",
-      2
-    ],
-    "sub2": [
-      "DEF+16",
-      257
+      0
     ],
     "sub3": [
       "Energy Recharge+5.2%",
@@ -10673,14 +7709,14 @@
     ],
     "sub4": [
       "DEF+5.1%",
-      10712
+      0
     ],
-    "frameNumber": 13561
+    "frameNumber": 13535
   },
   {
     "sub1": [
       "HP+299",
-      7397
+      0
     ],
     "sub2": [
       "DEF+6.6%",
@@ -10699,7 +7735,7 @@
   {
     "sub1": [
       "ATK+19",
-      7651
+      0
     ],
     "sub2": [
       "Elemental Mastery+21",
@@ -10707,7 +7743,7 @@
     ],
     "sub3": [
       "HP+5.8%",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -10717,54 +7753,16 @@
   },
   {
     "sub1": [
-      "HP+4.1%",
-      2
-    ],
-    "sub2": [
-      "Energy Recharge+6.5%",
-      0
-    ],
-    "sub3": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13618
-  },
-  {
-    "sub1": [
-      "HP+239",
-      6886
-    ],
-    "sub2": [
-      "DEF+5.8%",
-      0
-    ],
-    "sub3": [
-      "DEF+19",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13646
-  },
-  {
-    "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "DEF+19",
-      1
+      0
     ],
     "sub3": [
       "ATK+4.1%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -10775,11 +7773,11 @@
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "DEF+19",
-      1
+      0
     ],
     "sub3": [
       "ATK+4.1%",
@@ -10794,11 +7792,11 @@
   {
     "sub1": [
       "DEF+23",
-      1
+      0
     ],
     "sub2": [
       "Elemental Mastery+23",
-      255
+      0
     ],
     "sub3": [
       "CRIT DMG+6.2%",
@@ -10813,7 +7811,7 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "HP+299",
@@ -10821,7 +7819,7 @@
     ],
     "sub3": [
       "ATK+5.8%",
-      3
+      0
     ],
     "sub4": [
       "",
@@ -10832,11 +7830,11 @@
   {
     "sub1": [
       "HP+239",
-      2
+      0
     ],
     "sub2": [
       "DEF+16",
-      1
+      0
     ],
     "sub3": [
       "Elemental Mastery+23",
@@ -10844,14 +7842,14 @@
     ],
     "sub4": [
       "Energy Recharge+5.8%",
-      9453
+      0
     ],
     "frameNumber": 13752
   },
   {
     "sub1": [
       "CRIT Rate+3.5%",
-      2
+      0
     ],
     "sub2": [
       "HP+239",
@@ -10869,35 +7867,16 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.5%",
-      3
-    ],
-    "sub2": [
-      "HP+239",
-      0
-    ],
-    "sub3": [
-      "CRIT DMG+5.4%",
-      1533
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 13801
-  },
-  {
-    "sub1": [
       "CRIT DMG+7.8%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.2%",
-      255
+      0
     ],
     "sub3": [
-      "HP+5.8%",
-      3060
+      "HP+5.3%",
+      3
     ],
     "sub4": [
       "",
@@ -10908,7 +7887,7 @@
   {
     "sub1": [
       "Elemental Mastery+23",
-      3
+      0
     ],
     "sub2": [
       "DEF+7.3%",
@@ -10916,11 +7895,11 @@
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "ATK+16",
-      6630
+      0
     ],
     "frameNumber": 13834
   },
@@ -10931,11 +7910,11 @@
     ],
     "sub2": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -10946,11 +7925,11 @@
   {
     "sub1": [
       "Elemental Mastery+16",
-      1
+      0
     ],
     "sub2": [
       "HP+5.8%",
-      1
+      0
     ],
     "sub3": [
       "DEF+21",
@@ -10965,7 +7944,7 @@
   {
     "sub1": [
       "CRIT DMG+6.2%",
-      2
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -10984,7 +7963,7 @@
   {
     "sub1": [
       "CRIT DMG+6.2%",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -11003,15 +7982,15 @@
   {
     "sub1": [
       "DEF+5.8%",
-      1
+      0
     ],
     "sub2": [
       "CRIT Rate+3.9%",
-      2040
+      0
     ],
     "sub3": [
       "ATK+14",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -11022,11 +8001,11 @@
   {
     "sub1": [
       "CRIT Rate+3.9%",
-      3
+      0
     ],
     "sub2": [
       "DEF+16",
-      255
+      0
     ],
     "sub3": [
       "Elemental Mastery+19",
@@ -11041,11 +8020,11 @@
   {
     "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "CRIT DMG+7.0%",
-      2297
+      0
     ],
     "sub3": [
       "DEF+16",
@@ -11060,15 +8039,15 @@
   {
     "sub1": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub2": [
       "CRIT Rate+3.5%",
       0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -11078,31 +8057,12 @@
   },
   {
     "sub1": [
-      "Elemental Mastery+21",
-      1
-    ],
-    "sub2": [
-      "CRIT Rate+3.5%",
+      "HP+5.3%",
       0
     ],
-    "sub3": [
-      "ATK+5.8%",
-      3062
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 14041
-  },
-  {
-    "sub1": [
-      "HP+5.8%",
-      4084
-    ],
     "sub2": [
       "Elemental Mastery+21",
-      1
+      0
     ],
     "sub3": [
       "Energy Recharge+5.8%",
@@ -11117,7 +8077,7 @@
   {
     "sub1": [
       "Energy Recharge+4.5%",
-      1
+      0
     ],
     "sub2": [
       "DEF+7.3%",
@@ -11125,7 +8085,7 @@
     ],
     "sub3": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -11136,15 +8096,15 @@
   {
     "sub1": [
       "DEF+21",
-      1
+      0
     ],
     "sub2": [
       "CRIT Rate+3.1%",
-      1785
+      0
     ],
     "sub3": [
-      "ATK+5.8%",
-      3062
+      "ATK+5.3%",
+      0
     ],
     "sub4": [
       "",
@@ -11155,7 +8115,7 @@
   {
     "sub1": [
       "CRIT Rate+2.7%",
-      2
+      0
     ],
     "sub2": [
       "DEF+7.3%",
@@ -11163,41 +8123,22 @@
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "Energy Recharge+6.5%",
-      7395
+      0
     ],
     "frameNumber": 14143
   },
   {
     "sub1": [
-      "CRIT Rate+2.7%",
-      3
-    ],
-    "sub2": [
-      "DEF+7.3%",
-      0
-    ],
-    "sub3": [
-      "HP+269",
-      0
-    ],
-    "sub4": [
-      "Energy Recharge+6.5%",
-      8416
-    ],
-    "frameNumber": 14161
-  },
-  {
-    "sub1": [
       "DEF+5.1%",
-      2
+      0
     ],
     "sub2": [
       "CRIT Rate+2.7%",
-      2040
+      0
     ],
     "sub3": [
       "HP+4.7%",
@@ -11211,12 +8152,12 @@
   },
   {
     "sub1": [
-      "ATK+5.2%",
-      2817
+      "ATK+5.3%",
+      0
     ],
     "sub2": [
       "DEF+21",
-      256
+      0
     ],
     "sub3": [
       "CRIT Rate+3.1%",
@@ -11231,11 +8172,11 @@
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "CRIT DMG+7.0%",
@@ -11250,11 +8191,11 @@
   {
     "sub1": [
       "Energy Recharge+5.8%",
-      1
+      0
     ],
     "sub2": [
       "ATK+19",
-      255
+      0
     ],
     "sub3": [
       "DEF+21",
@@ -11262,37 +8203,18 @@
     ],
     "sub4": [
       "HP+209",
-      5356
+      0
     ],
     "frameNumber": 14256
   },
   {
     "sub1": [
-      "Energy Recharge+5.8%",
-      1
-    ],
-    "sub2": [
-      "ATK+19",
-      510
-    ],
-    "sub3": [
-      "DEF+21",
-      0
-    ],
-    "sub4": [
-      "HP+209",
-      5866
-    ],
-    "frameNumber": 14281
-  },
-  {
-    "sub1": [
       "CRIT DMG+5.4%",
-      2
+      0
     ],
     "sub2": [
       "DEF+16",
-      1
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
@@ -11300,22 +8222,22 @@
     ],
     "sub4": [
       "HP+239",
-      5356
+      0
     ],
     "frameNumber": 14284
   },
   {
     "sub1": [
       "Energy Recharge+6.5%",
-      3
+      0
     ],
     "sub2": [
       "DEF+21",
-      1
+      0
     ],
     "sub3": [
       "ATK+5.8%",
-      2
+      0
     ],
     "sub4": [
       "",
@@ -11325,35 +8247,16 @@
   },
   {
     "sub1": [
-      "Energy Recharge+6.5%",
-      3
-    ],
-    "sub2": [
-      "DEF+21",
-      1
-    ],
-    "sub3": [
-      "ATK+5.8%",
-      2
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 14401
-  },
-  {
-    "sub1": [
       "ATK+16",
-      1
+      0
     ],
     "sub2": [
       "HP+4.7%",
-      1
+      0
     ],
     "sub3": [
       "DEF+19",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -11364,15 +8267,15 @@
   {
     "sub1": [
       "Energy Recharge+6.5%",
-      3
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "HP+269",
-      0
+      3
     ],
     "sub4": [
       "",
@@ -11383,7 +8286,7 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      3
+      0
     ],
     "sub2": [
       "Energy Recharge+4.5%",
@@ -11402,7 +8305,7 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      3
+      0
     ],
     "sub2": [
       "HP+4.1%",
@@ -11420,35 +8323,16 @@
   },
   {
     "sub1": [
-      "CRIT Rate+3.1%",
-      2
-    ],
-    "sub2": [
-      "HP+4.1%",
-      0
-    ],
-    "sub3": [
-      "Elemental Mastery+21",
-      0
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 14521
-  },
-  {
-    "sub1": [
       "Elemental Mastery+19",
-      7142
+      3
     ],
     "sub2": [
       "DEF+21",
-      1
+      0
     ],
     "sub3": [
       "HP+299",
-      1
+      0
     ],
     "sub4": [
       "",
@@ -11459,11 +8343,11 @@
   {
     "sub1": [
       "CRIT DMG+5.4%",
-      3
+      0
     ],
     "sub2": [
       "ATK+14",
-      2
+      0
     ],
     "sub3": [
       "CRIT Rate+3.5%",
@@ -11478,7 +8362,7 @@
   {
     "sub1": [
       "CRIT Rate+3.1%",
-      2
+      0
     ],
     "sub2": [
       "Elemental Mastery+19",
@@ -11486,7 +8370,7 @@
     ],
     "sub3": [
       "CRIT DMG+7.8%",
-      1533
+      0
     ],
     "sub4": [
       "",
@@ -11497,15 +8381,15 @@
   {
     "sub1": [
       "CRIT DMG+7.8%",
-      3
+      0
     ],
     "sub2": [
-      "ATK+5.2%",
-      2562
+      "ATK+5.3%",
+      0
     ],
     "sub3": [
       "CRIT Rate+2.7%",
-      1532
+      0
     ],
     "sub4": [
       "",
@@ -11515,31 +8399,12 @@
   },
   {
     "sub1": [
-      "CRIT DMG+7.8%",
-      2
-    ],
-    "sub2": [
-      "ATK+5.2%",
-      2818
-    ],
-    "sub3": [
-      "CRIT Rate+2.7%",
-      1531
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 14641
-  },
-  {
-    "sub1": [
       "DEF+5.1%",
-      1
+      0
     ],
     "sub2": [
       "ATK+19",
-      510
+      0
     ],
     "sub3": [
       "DEF+16",
@@ -11554,7 +8419,7 @@
   {
     "sub1": [
       "ATK+18",
-      3
+      0
     ],
     "sub2": [
       "HP+239",
@@ -11572,27 +8437,8 @@
   },
   {
     "sub1": [
-      "ATK+5.8%",
-      4086
-    ],
-    "sub2": [
-      "HP+4.7%",
-      1
-    ],
-    "sub3": [
-      "HP+209",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 14710
-  },
-  {
-    "sub1": [
       "HP+299",
-      7142
+      0
     ],
     "sub2": [
       "Energy Recharge+5.8%",
@@ -11600,31 +8446,12 @@
     ],
     "sub3": [
       "DEF+16",
-      6
+      0
     ],
     "sub4": [
       "",
       -1
     ],
     "frameNumber": 14741
-  },
-  {
-    "sub1": [
-      "HP+299",
-      7397
-    ],
-    "sub2": [
-      "Energy Recharge+5.8%",
-      0
-    ],
-    "sub3": [
-      "DEF+16",
-      1
-    ],
-    "sub4": [
-      "",
-      -1
-    ],
-    "frameNumber": 14761
   }
 ]

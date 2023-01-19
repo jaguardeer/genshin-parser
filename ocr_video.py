@@ -8,27 +8,12 @@ from util import *
 ## other fields (mainStatKey, level, slot, set)
 ## set might be easier by item name?
 ## cv pyramids?
+## generate images here instead of template dir
 ## log stuff:
 ## -- log images
 ## -- errors
 ## -- corrections
 ## -- dupes
-
-## for debug
-def moveWindows():
-	positions = {
-		"name": (1000, 500),
-		"level": (1000, 600),
-		"mainstat_name": (1450, 500),
-		"slot": (1150, 600),
-		"substats": (1000, 700),
-		"sub1": (1400, 600),
-		"sub2": (1400, 700),
-		"sub3": (1400, 800),
-		"sub4": (1400, 900)
-	}
-	for name in positions:
-		cv.moveWindow(name,*positions[name])
 
 def getVideoShape(video):
 	width = int(video.get(cv.CAP_PROP_FRAME_WIDTH))
@@ -48,12 +33,17 @@ def iterateVideo(video, regions):
 	while video.read(frameBuffer)[0]:
 		frameCount += 1
 		substatRegion = frameBuffer[473:632, 1357:1665]
-		diff = np.sum(cv.erode(np.abs(substatRegion - prevFrame), np.ones((2, 2), np.uint8)))
-		#print(f"{i}: {diff}")
-		if diff > 1_500_000:
-			#print(f"frame {i}")
-			cv.imwrite(f"./frames2/{str(frameCount)}.png", frameBuffer)
-			yield cv.cvtColor(frameBuffer, cv.COLOR_RGB2GRAY), frameCount
+		#diff = np.sum(cv.erode(np.abs(substatRegion - prevFrame), np.ones((2, 2), np.uint8)))
+		diffImg = cv.cvtColor(substatRegion - prevFrame, cv.COLOR_BGR2GRAY)
+		thresh = 8
+		_, diffImg = cv.threshold(diffImg, thresh, None, cv.THRESH_TOZERO)
+		_, diffImg = cv.threshold(diffImg, 255 - thresh, None, cv.THRESH_TOZERO_INV)
+		diff = cv.countNonZero(cv.erode(diffImg, np.ones((2, 2), np.uint8)))
+		#print(f"{frameCount}: {diff}")
+		if diff > 9_000:
+			#print(f"frame {frameCount} diff {diff}")
+			#cv.imwrite(f"./frames2/{str(frameCount)}.png", frameBuffer)
+			yield cv.cvtColor(frameBuffer, cv.COLOR_BGR2GRAY), frameCount
 		np.copyto(prevFrame, substatRegion)
 
 def parseVideo(video, regions):
@@ -70,6 +60,7 @@ def parseFrame(frameInfo, regions):
 	frameResult = map(parseImg, regionImages, regions.keys())
 	finalResult = dict(frameResult)
 	finalResult["frameNumber"] = frameNum
+	#print(finalResult)
 	return finalResult
 
 ## process image for template matching
@@ -77,15 +68,16 @@ def processImage(img):
 	## binarize and crop to bounding box
 	_, binImg = cv.threshold(img, 128 ,255, cv.THRESH_BINARY_INV)
 	binRect = cv.boundingRect(binImg)
-	binImg = crop(binImg, binRect)
-	return binImg
+	finalImg = crop(img, binRect)
+	return finalImg
 
 ## new parsing using simple image matching
 from template_match import *
 templateDir = "./templates"
 templateFiles = os.listdir(templateDir)
 templateImages = [(file, cv.imread(f"{templateDir}/{file}", 0)) for file in templateFiles]
-warnCount = 0
+worstAbs = 100_000_000
+worstRel = 0
 ## todo: return confidence = 1 - best / second best
 def parseImg(img, regionKey):
 	binImg = processImage(img)
@@ -98,17 +90,34 @@ def parseImg(img, regionKey):
 	results.sort(key = lambda x: x["score"])
 	best = results[0]
 	secondBest = results[1]
-	#print(best, secondBDEF+27.0%.pngest)
-	if best["score"] > 10:
-		print(best, secondBest)
-		global warnCount
-		warnCount += 1
+	#print(best, secondBest)
+	#if secondBest["score"] - best["score"] < 100:
+		#print(best, secondBest)
+	confRel = best['score'] / secondBest['score']
+	confAbs = secondBest['score'] - best['score']
+	global worstAbs
+	global worstRel
+	if(confAbs < worstAbs):
+		print(f'new worst: {confAbs} for {best["fn"]} vs {secondBest["fn"]}, rel was {confRel}')
+		worstAbs = confAbs
+		#cv.imshow(results[0]['fn'], img)
+		cv.imwrite(f'./worst/{results[0]["fn"]}', img)
+		cv.waitKey()
+		cv.destroyAllWindows()
+	if(confRel > worstRel):
+		print(f'new worst: {confRel} for {best["fn"]} vs {secondBest["fn"]}, abs was {confAbs}')
+		worstRel = confRel
+		#cv.imshow(results[0]['fn'], img)
+		cv.imwrite(f'./worst/{results[0]["fn"]}', img)
+		cv.waitKey()
+		cv.destroyAllWindows()
 	textRaw = results[0]["fn"].rstrip(".png")
-	return regionKey, (textRaw, int(best["score"]))
+	return regionKey, (textRaw, int(best["score"]))#, confRel, confAbs
 
 def main():
 	start = time.time()
-	videoPath = "./stream.mkv"
+	#videoPath = "./stream.mkv"
+	videoPath = './stream.mkv'
 	regionsPath = "./regions.json"
 
 	video = cv.VideoCapture(videoPath)
@@ -118,8 +127,6 @@ def main():
 	outFile = open("artifacts.json", "w")
 	json.dump(results, outFile, indent = 2, skipkeys = True)
 	outFile.close()
-	global warnCount
-	print(warnCount)
 	print(f"took {time.time() - start} seconds")
 
 ## Only run main if not in -i and not imported

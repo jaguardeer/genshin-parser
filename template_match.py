@@ -7,13 +7,26 @@ import os
 def getMatchCoeff(img, template):
 	## resize to match template size
 	h, w, *channels = template.shape
-	resized = cv.resize(img, (w, h), interpolation = cv.INTER_NEAREST)
-	# take sum of diff
-	diffImg = np.abs(template - resized)
-	erodeKernel = np.ones((2, 2), np.uint8)
-	diffImg = cv.erode(diffImg, erodeKernel)
-	diff = np.sum(diffImg)
-	#show(diffImg)
+	resized = cv.resize(img, (w, h), interpolation = cv.INTER_LINEAR)
+	# take sum of diff (threshold both sides for uint overflow)
+	diffImg = resized - template
+	thresh = 52
+	_, diffImg = cv.threshold(diffImg, thresh, None, cv.THRESH_TOZERO)
+	_, binImg = cv.threshold(diffImg, 255 - thresh, None, cv.THRESH_TOZERO_INV)
+	#kernel = np.ones((1, 3), np.uint8)
+	kernel = cv.getStructuringElement(cv.MORPH_ELLIPSE, (3, 3))
+	erodeImg = cv.morphologyEx(binImg, cv.MORPH_OPEN, kernel, iterations = 1)
+	diff = cv.countNonZero(erodeImg)
+	"""
+	cv.imshow('orig', img)
+	cv.imshow('diffImg', diffImg)
+	cv.imshow('template', template)
+	cv.imshow('diff', erodeImg)
+	print(diff)
+	cv.waitKey() 
+	cv.destroyAllWindows()
+	"""
+	
 	return diff
 
 def binarize(img):
@@ -36,7 +49,7 @@ def main():
 	print(rect2slices(roi))
 	cropImg = crop(sourceImg, roi)
 	#show(cropImg)
-	binimg = binarize(cropImg)
+	binImg = binarize(cropImg)
 
 	start = time.time()
 	def calcDiff(file):
