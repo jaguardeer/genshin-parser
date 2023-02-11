@@ -1,61 +1,43 @@
-from util import *
-
-# values ending in 5 might be rounded differently in python than in game
-def genUniqueSums(numbers, maxDepth, roundFunc):
-	sums = [{0}] * (maxDepth + 1)
-	for i in range(1, maxDepth + 1):
-		sums[i] = {x + y for x in sums[i-1] for y in numbers}
-	roundSums = map(lambda row: {roundFunc(x) for x in row}, sums)
-	return roundSums
-
-def mapFunc(key):
-	return set().union(*list(genUniqueSums(substats[key], 6, getRoundFunc(key))))
-
-def getRoundFunc(statKey):
-	return (lambda x: round(x * 100, 1)) if statKey.endswith("_") else (lambda x: round(x))
+import cv2 as cv
+import numpy as np
+import matplotlib.pyplot as plt
+import math
 
 
-substats = loadJsonFile("./artifact-stats.json")[0]["substats"]
 
-numberSets = set().union(*map(lambda k: set.union(*genUniqueSums(substats[k], 6, getRoundFunc(k))), substats.keys()))
-
-
-## MAJOR TODO: ROUNDING HERE IS DIFFERENT FROM INGAME. SEE 5.2% vs 5.3% FOR ATK% AND HP%
-SUBSTAT_KEY_STRINGS = {
-	"hp": ("HP", ""),
-	"hp_": ("HP", "%"),
-	"atk": ("ATK", ""),
-	"atk_": ("ATK", "%"),
-	"def": ("DEF", ""),
-	"def_": ("DEF", "%"),
-	"critRate_": ("CRIT Rate", "%"),
-	"critDMG_": ("CRIT DMG", "%"),
-	"enerRech_": ("Energy Recharge", "%"),
-	"eleMas": ("Elemental Mastery", ""),
-}
+def processFullFrame(img):
+	img = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
+	edges = cv.Canny(img, 100, 200, L2gradient = True)
+	return edges
 
 
-from gen_font_image import *
 
-## text config
-# 24 seems to be a good value
-fontSize = 24
-fontPath = "./zh-cn.ttf"
-font = ImageFont.truetype(fontPath, fontSize)
-gray = (76, 76, 76)
-cream = (228, 228, 228)
 
-for item in SUBSTAT_KEY_STRINGS.items():
-	key = item[0]
-	depth = 6
-	values = set().union(*list(genUniqueSums(substats[key], depth, getRoundFunc(key)))[1:])
-	prefix = item[1][0]
-	suffix = item[1][1]
+## load test images
+testImageFiles = ['artifact-page.png', 'controller-view.png']
+preImgs = [cv.imread(file) for file in testImageFiles]
 
-	print(prefix, suffix)
-	print(values)
+## run preprocessing
+postImgs = [processFullFrame(img) for img in preImgs]
 
-	for v in values:
-		string = f"{prefix}+{v:,}{suffix}"
-		img = createTemplate(string, font, gray, cream)
-		cv.imwrite(f"templates/{string}.png", img)
+
+
+## driver code
+def drawImg(axis, img):
+	## convert color if needed
+	isGray = len(img.shape) < 3
+	cmap = 'gray' if isGray else None
+	img = img if isGray else cv.cvtColor(img, cv.COLOR_BGR2RGB)
+	axis.imshow(img, cmap = cmap)
+	axis.axis('off')
+
+## show images
+numImages = len(preImgs)
+_, axes = plt.subplots(2, numImages)
+for i in range(numImages):
+	drawImg(axes[0][i], preImgs[i])
+	drawImg(axes[1][i], postImgs[i])
+plt.tight_layout()
+figManager = plt.get_current_fig_manager()
+figManager.window.state('zoomed')
+plt.show()
