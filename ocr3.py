@@ -3,10 +3,11 @@ import numpy as np
 import pytesseract
 from common import *
 
-# TODO: need different preprocessing for different fields
 # TODO: skip Sanctifying Essence & the other one
 # TODO: binarize by distance from font color?
 # TODO: change frame culling, look at more than substat area
+# TODO: save cache to disk
+# TODO: 
 ## if generating my own templates
 ## 20pt font for substats
 ## 18pt for mainstatkey
@@ -66,7 +67,7 @@ def parseIcon(frame):
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in cacheMatches:
+	for extraMatch in []:#cacheMatches:
 		diff = calcImageDiff(iconImg, extraMatch['img'])
 		print(f'extra match for {strResult}, diff was {diff}')
 		print(len(iconImgCache))
@@ -93,7 +94,7 @@ def parseLevel(frame):
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in cacheMatches:
+	for extraMatch in []:#cacheMatches:
 		diff = calcImageDiff(img, extraMatch['img'])
 		print(f'extra match for {strResult}, diff was {diff}')
 		print(len(levelImgCache))
@@ -145,7 +146,7 @@ def parseMainStat(frame):
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in cacheMatches:
+	for extraMatch in []:#cacheMatches:
 		print(f'extra match for {strResult}')
 		cv.imshow('orig', img)
 		cv.imshow('cached', extraMatch['img'])
@@ -213,7 +214,7 @@ def parseSubstatImg(img):
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in cacheMatches:
+	for extraMatch in []:#cacheMatches:
 		print(f'extra match for {strResult}')
 		cv.imshow('extra', extraMatch['img'])
 		cv.imshow('orig', img)
