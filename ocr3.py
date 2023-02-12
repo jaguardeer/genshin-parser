@@ -7,7 +7,7 @@ from common import *
 # TODO: binarize by distance from font color?
 # TODO: change frame culling, look at more than substat area
 # TODO: save cache to disk
-# TODO: 
+# TODO: write caching functions (as object?)
 ## if generating my own templates
 ## 20pt font for substats
 ## 18pt for mainstatkey
