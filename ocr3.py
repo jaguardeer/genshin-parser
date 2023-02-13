@@ -32,7 +32,7 @@ def parseFrame(frame):
 	## See artifactEntryFields
 	parseFuncs = [
 		#parseIcon,		# -> setKey, slotKey
-		parseIcon,		# -> name
+		parseIcon,		# -> name TODO: just do name -> name?
 		parseLevel,		# -> level
 		parseRarity,	# -> rarity
 		parseMainStat,	# -> mainStatKey
@@ -47,7 +47,6 @@ def parseFrame(frame):
 ###### ICON, LEVEL, MAINSTAT PARSING
 
 ## takes frame, returns name
-iconImgCache = []
 def parseIcon(frame):
 	iconRegion = (1585, 205, 137, 135)
 	#nameRegion = (1364, 133, 365, 44)
@@ -80,7 +79,6 @@ def levelImgToString(img):
 	return strResult
 
 ## parseLevel takes whole frame, returns {level}
-levelImgCache = []
 def parseLevel(frame):
 	levelRegion = (1368, 390, 44, 22)
 	img = crop(frame, levelRegion)
@@ -129,7 +127,6 @@ def mainStatImgToString(img):
 
 
 ## takes frame, returns {mainStatKey}
-mainStatImgCache = []
 def parseMainStat(frame):
 	#mainStatRegion = (1360, 257, 199, 26)
 	mainStatRegion = (1366, 253, 199, 30)
@@ -202,7 +199,6 @@ def parseSubstats(frame):
 
 ## parseSubstatImg takes img of just the substat line, returns string
 ## substatImgCache is list of (img, strResult) pairs for previously OCR'd images
-substatImgCache = []
 def parseSubstatImg(img):
 	## Check cache, parse and add new entry if no match
 	global substatImgCache
@@ -270,6 +266,25 @@ def countSubstatLines(frame):
 
 
 
+###### IMAGE CACHING
+## TODO: make this not be global state
+mainStatImgCache = []
+levelImgCache = []
+substatImgCache = []
+iconImgCache = []
+
+def loadImgCache(cacheJsonFilename):
+	cacheData = loadJsonFile(cacheJsonFilename)
+	imgCache = [{
+		'strResult': x['strResult'],
+		'img': cv.imread(x['imgFilename'])
+		} for x in cacheData]
+
+def loadImgCaches():
+
+
+def writeImgCache(imgCache):
+	outData = [{'strResult': x['strResult'], 'imgFilename': cacheDir}]
 
 
 ######  DRIVER CODE
