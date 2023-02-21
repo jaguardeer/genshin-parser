@@ -11,6 +11,7 @@ from common import *
 ## if generating my own templates
 ## 20pt font for substats
 ## 18pt for mainstatkey
+# TODO: countSubstatLines gives nonzero for sanctifying essence?
 
 ######  HIGH LEVEL LOGIC
 
@@ -59,14 +60,14 @@ def parseIcon(frame):
 		nameImg = crop(frame, nameRegion)
 		nameImg = cv.copyMakeBorder(nameImg, 5, 5, 5, 5, cv.BORDER_CONSTANT, value = nameImg[-1, -1].tolist())
 		strResult = imageToString(nameImg)
-		#print(strResult)
-		#cv.imshow('test', nameImg)
-		#cv.waitKey(1)
-		iconImgCache.append({'strResult': strResult, 'img': np.copy(iconImg)})
+		## TODO: appendCache func, also make dirs if needed
+		imgFilename = f'./cache/icons/{len(iconImgCache)}.png'
+		cv.imwrite(imgFilename, iconImg)
+		iconImgCache.append({'strResult': strResult, 'img': np.copy(iconImg), 'filename': imgFilename})
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in []:#cacheMatches:
+	for extraMatch in cacheMatches:
 		diff = calcImageDiff(iconImg, extraMatch['img'])
 		print(f'extra match for {strResult}, diff was {diff}')
 		print(len(iconImgCache))
@@ -88,11 +89,14 @@ def parseLevel(frame):
 	cacheResult = next(cacheMatches, None)
 	if not cacheResult:
 		strResult = levelImgToString(img)
-		levelImgCache.append({'strResult': strResult, 'img': np.copy(img)})
+		## TODO: appendCache func, also make dirs if needed
+		imgFilename = f'./cache/levels/{len(levelImgCache)}.png'
+		cv.imwrite(imgFilename, img)
+		levelImgCache.append({'strResult': strResult, 'img': np.copy(img), 'filename': imgFilename})
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in []:#cacheMatches:
+	for extraMatch in cacheMatches:
 		diff = calcImageDiff(img, extraMatch['img'])
 		print(f'extra match for {strResult}, diff was {diff}')
 		print(len(levelImgCache))
@@ -139,11 +143,14 @@ def parseMainStat(frame):
 	cacheResult = next(cacheMatches, None)
 	if not cacheResult:
 		strResult = mainStatImgToString(img)
-		mainStatImgCache.append({'strResult': strResult, 'img': np.copy(img)}) ## does img need copy?
+		## TODO: appendCache func, also make dirs if needed
+		imgFilename = f'./cache/mainstats/{len(mainStatImgCache)}.png'
+		cv.imwrite(imgFilename, img)
+		mainStatImgCache.append({'strResult': strResult, 'img': np.copy(img), 'filename': imgFilename})
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in []:#cacheMatches:
+	for extraMatch in cacheMatches:
 		print(f'extra match for {strResult}')
 		cv.imshow('orig', img)
 		cv.imshow('cached', extraMatch['img'])
@@ -206,11 +213,14 @@ def parseSubstatImg(img):
 	cacheResult = next(cacheMatches, None)
 	if not cacheResult:
 		strResult = imageToString(img)
-		substatImgCache.append({'strResult': strResult, 'img': np.copy(img)})
+		## TODO: appendCache func, also make dirs if needed
+		imgFilename = f'./cache/substats/{len(substatImgCache)}.png'
+		cv.imwrite(imgFilename, img)
+		substatImgCache.append({'strResult': strResult, 'img': np.copy(img), 'filename': imgFilename})
 	else:
 		strResult = cacheResult['strResult']
 	## (optional) Check if extra matches just to be safe
-	for extraMatch in []:#cacheMatches:
+	for extraMatch in cacheMatches:
 		print(f'extra match for {strResult}')
 		cv.imshow('extra', extraMatch['img'])
 		cv.imshow('orig', img)
@@ -251,6 +261,7 @@ def isSameImg(imgA, imgB):
 	return diff < 10
 
 def frameSkipTest(curFrame, prevFrame):
+	#return False ## TODO: TEMP
 	substatRegion = (1382, 428, 260, 131)
 	curr = crop(curFrame, substatRegion)
 	prev = crop(prevFrame, substatRegion)
@@ -268,23 +279,29 @@ def countSubstatLines(frame):
 
 ###### IMAGE CACHING
 ## TODO: make this not be global state
+cacheDir = './cache'
 mainStatImgCache = []
 levelImgCache = []
 substatImgCache = []
 iconImgCache = []
 
+
+import os
 def loadImgCache(cacheJsonFilename):
-	cacheData = loadJsonFile(cacheJsonFilename)
-	imgCache = [{
-		'strResult': x['strResult'],
-		'img': cv.imread(x['imgFilename'])
-		} for x in cacheData]
+	try:
+		cacheData = loadJsonFile(cacheJsonFilename)
+		imgCache = [x | {'img': cv.imread(x['filename'])} for x in cacheData]
+		return imgCache
+	except:
+		print(f"Couldn't load cache: {cacheJsonFilename}")
+		return []
 
-def loadImgCaches():
 
-
-def writeImgCache(imgCache):
-	outData = [{'strResult': x['strResult'], 'imgFilename': cacheDir}]
+def saveImgCache(imgCache, filename):
+	outData = [{'strResult': x['strResult'], 'filename':str(x['filename'])}  for x in imgCache]
+	f = open(filename, 'w')
+	json.dump(outData, f)
+	f.close()
 
 
 ######  DRIVER CODE
@@ -299,10 +316,24 @@ if __name__ == '__main__':
 	video = cv.VideoCapture(videoFilename)
 	#print(videoFilename)
 
+	## load caches from disk
+	mainStatImgCache = loadImgCache(Path(cacheDir) / 'mainStatImgCache.json')
+	levelImgCache = loadImgCache(Path(cacheDir) / 'levelImgCache.json')
+	substatImgCache = loadImgCache(Path(cacheDir) / 'substatImgCache.json')
+	iconImgCache = loadImgCache(Path(cacheDir) / 'iconImgCache.json')
+
+	## parse video
 	vidParseResults = [parseFrame(frameObj['img']) | {'frameIndex': frameObj['index']} for frameObj in iterateVideo(video, frameSkipTest = frameSkipTest)]
 
+	## save caches to disk
+	saveImgCache(mainStatImgCache, Path(cacheDir) / 'mainStatImgCache.json')
+	saveImgCache(levelImgCache, Path(cacheDir) / 'levelImgCache.json')
+	saveImgCache(substatImgCache, Path(cacheDir) / 'substatImgCache.json')
+	saveImgCache(iconImgCache, Path(cacheDir) / 'iconImgCache.json')
+
+	## convert to good format and write results to disk
 	## todo: deduplicate (frameIndex makes same artis look unique)
-	goodFormatArtifacts = [cvtGOOD(x) for x in vidParseResults]
+	goodFormatArtifacts = [cvtGOOD(x) for x in vidParseResults if x['name'] != 'Sanctifying Essence']
 	outData = {
 		'format': 'GOOD',
 		'source': Path(__file__).stem,
