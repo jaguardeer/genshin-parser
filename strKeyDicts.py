@@ -52,6 +52,7 @@ SET_KEY_STRINGS = {
 	"Maiden Beloved": "MaidenBeloved",
 	"Martial Artist": "MartialArtist",
 	"Noblesse Oblige": "NoblesseOblige",
+	"Nymph's Dream": "NymphsDream",
 	"Ocean-Hued Clam": "OceanHuedClam",
 	"Pale Flame": "PaleFlame",
 	"Prayers for Destiny": "PrayersForDestiny",
@@ -70,6 +71,7 @@ SET_KEY_STRINGS = {
 	"Traveling Doctor": "TravelingDoctor",
 	"Vermillion Hereafter": "VermillionHereafter",
 	"Viridescent Venerer": "ViridescentVenerer",
+	"Vourukasha's Glow": "VourukashasGlow",
 	"Wanderer's Troupe": "WanderersTroupe",
 }
 
@@ -273,203 +275,15 @@ NAME_SET_SLOT_KEY_STRINGS = {
 	'TimepieceoftheLostPath': {'setKey': 'DesertPavilionChronicle', 'slotKey': 'sands'},
 	'DefenderoftheEnchantingDream': {'setKey': 'DesertPavilionChronicle', 'slotKey': 'goblet'},
 	'LegacyoftheDesertHighBorn': {'setKey': 'DesertPavilionChronicle', 'slotKey': 'circlet'},
+	"OdysseanFlower": {'setKey': 'NymphsDream', 'slotKey': 'flower'},
+	"WickedMagesPlumule": {'setKey': 'NymphsDream', 'slotKey': 'plume'},
+	"NymphsConstancy": {'setKey': 'NymphsDream', 'slotKey': 'sands'},
+	"HeroesTeaParty": {'setKey': 'NymphsDream', 'slotKey': 'goblet'},
+	"FellDragonsMonocle": {'setKey': 'NymphsDream', 'slotKey': 'circlet'},
+	"StamenofKhvarenasOrigin": {'setKey': 'VourukashasGlow', 'slotKey': 'flower'},
+	"VibrantPinion": {'setKey': 'VourukashasGlow', 'slotKey': 'plume'},
+	"AncientAbscission": {'setKey': 'VourukashasGlow', 'slotKey': 'sands'},
+	"FeastofBoundlessJoy": {'setKey': 'VourukashasGlow', 'slotKey': 'goblet'},
+	"HeartofKhvarenasBrilliance": {'setKey': 'VourukashasGlow', 'slotKey': 'circlet'},
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
