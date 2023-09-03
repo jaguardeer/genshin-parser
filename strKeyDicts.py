@@ -73,6 +73,8 @@ SET_KEY_STRINGS = {
 	"Viridescent Venerer": "ViridescentVenerer",
 	"Vourukasha's Glow": "VourukashasGlow",
 	"Wanderer's Troupe": "WanderersTroupe",
+	"Golden Troupe": "GoldenTroupe",
+	"Marechaussee Hunter" :"MarechausseeHunter",
 }
 
 NAME_SET_SLOT_KEY_STRINGS = {
@@ -285,5 +287,15 @@ NAME_SET_SLOT_KEY_STRINGS = {
 	"AncientAbscission": {'setKey': 'VourukashasGlow', 'slotKey': 'sands'},
 	"FeastofBoundlessJoy": {'setKey': 'VourukashasGlow', 'slotKey': 'goblet'},
 	"HeartofKhvarenasBrilliance": {'setKey': 'VourukashasGlow', 'slotKey': 'circlet'},
+	"GoldenSongsVariation": {'setKey': 'GoldenTroupe', 'slotKey': 'flower'},
+	"GoldenBirdsShedding": {'setKey': 'GoldenTroupe', 'slotKey': 'plume'},
+	"GoldenErasPrelude": {'setKey': 'GoldenTroupe', 'slotKey': 'sands'},
+	"GoldenNightsBustle": {'setKey': 'GoldenTroupe', 'slotKey': 'goblet'},
+	"GoldenTroupesReward": {'setKey': 'GoldenTroupe', 'slotKey': 'circlet'},
+	"HuntersBrooch": {'setKey': 'MarechausseeHunter', 'slotKey': 'flower'},
+	"MasterpiecesOverture": {'setKey': 'MarechausseeHunter', 'slotKey': 'plume'},
+	"MomentofJudgment": {'setKey': 'MarechausseeHunter', 'slotKey': 'sands'},
+	"ForgottenVessel": {'setKey': 'MarechausseeHunter', 'slotKey': 'goblet'},
+	"VeteransVisage": {'setKey': 'MarechausseeHunter', 'slotKey': 'circlet'},
 }
 
