@@ -49,9 +49,9 @@ def parseFrame(frame):
 
 ## takes frame, returns name
 def parseIcon(frame):
-	iconRegion = (1585, 205, 137, 135)
+	iconRegion = (1595, 205, 137, 135)
 	#nameRegion = (1364, 133, 365, 44)
-	nameRegion = (1365, 136, 361, 40)
+	nameRegion = (1375, 136, 361, 40)
 	iconImg = crop(frame, iconRegion)
 	global iconImgCache
 	cacheMatches = (x for x in iconImgCache if isSameImg(iconImg, x['img']))
@@ -81,7 +81,7 @@ def levelImgToString(img):
 
 ## parseLevel takes whole frame, returns {level}
 def parseLevel(frame):
-	levelRegion = (1368, 390, 44, 22)
+	levelRegion = (1376, 390, 44, 22)
 	img = crop(frame, levelRegion)
 	## Check cache, parse and add new entry if no match
 	global levelImgCache
@@ -133,7 +133,7 @@ def mainStatImgToString(img):
 ## takes frame, returns {mainStatKey}
 def parseMainStat(frame):
 	#mainStatRegion = (1360, 257, 199, 26)
-	mainStatRegion = (1366, 253, 199, 30)
+	mainStatRegion = (1376, 253, 199, 30)
 	img = crop(frame, mainStatRegion)
 	#img = cv.medianBlur(img, 3)
 	img = cv.dilate(img, np.ones((2, 2), np.uint8))
@@ -175,7 +175,7 @@ def parseLock(frame):
 
 ## takes frame, returns {rarity}
 def parseRarity(frame):
-	cols = [1377, 1405, 1433, 1462, 1489]
+	cols = [1387, 1415, 1443, 1472, 1499]
 	row = 342
 	numLines = next((i for i, x in enumerate(cols) if frame[row, x, 1] < 170), len(cols))
 	return {'rarity': numLines}
@@ -185,16 +185,17 @@ def parseRarity(frame):
 
 ## takes frame, returns # of substat lines
 def countSubstatLines(frame):
-	col = 1376
-	rows = range(443, 540, 32)
+	col = 1383
+	rows = range(442, 540, 32)
 	numLines = next((i for i, x in enumerate(rows) if frame[x, col, 1] >= 128), len(rows))
+	#print(numLines)
 	return numLines
 
 ## takes frame, returns {substats[]}
 def parseSubstats(frame):
 	numSubstatLines = countSubstatLines(frame)
 	## these values found through experimentation
-	left, top = 1386, 435
+	left, top = 1396, 435
 	width, height = 245, 21
 	extraSpace, heightSpacing = 3, 32
 	substatRegions = [(left - extraSpace, top - extraSpace + offset * heightSpacing,
@@ -262,18 +263,11 @@ def isSameImg(imgA, imgB):
 
 def frameSkipTest(curFrame, prevFrame):
 	#return False ## TODO: TEMP
-	substatRegion = (1382, 428, 260, 131)
+	substatRegion = (1392, 428, 260, 131)
 	curr = crop(curFrame, substatRegion)
 	prev = crop(prevFrame, substatRegion)
 	diff = calcImageDiff(curr, prev)
 	return diff == 0
-
-
-## takes frame of artifact screen, returns number of substat lines
-def countSubstatLines(frame):
-	col = 1376
-	rows = range(443, 540, 32)
-	return len([x for x in rows if frame[x, col, 1] < 128])
 
 
 
