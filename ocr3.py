@@ -228,6 +228,13 @@ def parseSubstatImg(img):
 		cv.waitKey()
 	return strResult
 
+def handleExtraMatch(message, cachedImg, extraMatchImg):
+	extraDir = './extraMatches'
+	os.makedirs(extraDir, exist_ok = True)
+	print(message)
+	cv.imwrite()
+
+
 
 
 ######  IMAGE PROCESSING / MATCHING FUNCS
@@ -297,6 +304,11 @@ def saveImgCache(imgCache, filename):
 	json.dump(outData, f)
 	f.close()
 
+def makeCacheDirs():
+	caches = ['icons', 'levels', 'mainstats', 'substats']
+	for cache in caches:
+		os.makedirs(Path(cacheDir) / cache, exist_ok = True)
+
 
 ######  DRIVER CODE
 
@@ -311,6 +323,7 @@ if __name__ == '__main__':
 	#print(videoFilename)
 
 	## load caches from disk
+	makeCacheDirs()
 	mainStatImgCache = loadImgCache(Path(cacheDir) / 'mainStatImgCache.json')
 	levelImgCache = loadImgCache(Path(cacheDir) / 'levelImgCache.json')
 	substatImgCache = loadImgCache(Path(cacheDir) / 'substatImgCache.json')
