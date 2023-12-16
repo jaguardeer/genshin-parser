@@ -51,7 +51,8 @@ class frameResult:
 
 
 def stripNonAlphaNum(string):
-	return ''.join([c for c in string if c.isalnum()])
+	allowedSymbol='+.%'
+	return ''.join([c for c in string if c.isalnum() or c in allowedSymbol])
 
 outDir = Path('./results')
 
