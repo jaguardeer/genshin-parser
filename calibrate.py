@@ -49,6 +49,10 @@ class frameResult:
 	def write(self):
 		pass
 
+
+def stripNonAlphaNum(string):
+	return ''.join([c for c in string if c.isalnum()])
+
 outDir = Path('./results')
 
 for frameObj in iterateVideo(video):
@@ -58,8 +62,15 @@ for frameObj in iterateVideo(video):
 
 	for roi in textRegions:
 		img = crop(frameImg, roi.rect)
-		txt = pytesseract.image_to_string(img).strip()
+		txt = stripNonAlphaNum(pytesseract.image_to_string(img).strip())
 		print(f'{frameIndex}: {roi.name} = {txt}')
 		filename = outDir / roi.name / txt / f'{frameIndex}.png'
-		os.makedirs(filename.parent, exist_ok = True)
-		cv.imwrite(str(filename), img)
+		try:
+			os.makedirs(filename.parent, exist_ok = True)
+			write_success = cv.imwrite(str(filename), img)
+		except:
+			write_success = False
+		if not write_success:
+			f = open('results/failed_writes.txt', mode='a')
+			f.write(f'{filename}\n')
+			f.close()
