@@ -54,3 +54,7 @@ item2setslot = {
 	for name, rarity, pieces, bonuses in table_rows
 	for piece, slotKey in zip({to_pascal(p.get('alt')) for p in pieces.find_all('img')}, slotKeys)
 }
+
+# export
+import json
+print(json.dumps(item2setslot, indent=2))
