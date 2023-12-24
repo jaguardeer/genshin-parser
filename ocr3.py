@@ -154,7 +154,7 @@ def parseMainStat(frame):
 		print(f'extra match for {strResult}')
 		cv.imshow('orig', img)
 		cv.imshow('cached', extraMatch['img'])
-		cv.waitKey()
+		#cv.waitKey()
 	return {'mainStatKey': strResult}
 
 
@@ -225,7 +225,7 @@ def parseSubstatImg(img):
 		print(f'extra match for {strResult}')
 		cv.imshow('extra', extraMatch['img'])
 		cv.imshow('orig', img)
-		cv.waitKey()
+		#cv.waitKey()
 	return strResult
 
 def handleExtraMatch(message, cachedImg, extraMatchImg):
