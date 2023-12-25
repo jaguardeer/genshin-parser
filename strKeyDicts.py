@@ -75,6 +75,8 @@ SET_KEY_STRINGS = {
 	"Wanderer's Troupe": "WanderersTroupe",
 	"Golden Troupe": "GoldenTroupe",
 	"Marechaussee Hunter" :"MarechausseeHunter",
+	"Song of Days Past": "SongOfDaysPast",
+	"Nighttime Whispers in the Echoing Woods": "NighttimeWhispersInTheEchoingWoods"
 }
 
 NAME_SET_SLOT_KEY_STRINGS = {
@@ -297,5 +299,14 @@ NAME_SET_SLOT_KEY_STRINGS = {
 	"MomentofJudgment": {'setKey': 'MarechausseeHunter', 'slotKey': 'sands'},
 	"ForgottenVessel": {'setKey': 'MarechausseeHunter', 'slotKey': 'goblet'},
 	"VeteransVisage": {'setKey': 'MarechausseeHunter', 'slotKey': 'circlet'},
+	"ForgottenOathofDaysPast": {'setKey': 'SongOfDaysPast', 'slotKey': 'flower'},
+	"RecollectionofDaysPast": {'setKey': 'SongOfDaysPast', 'slotKey': 'plume'},
+	"EchoingSoundFromDaysPast": {'setKey': 'SongOfDaysPast', 'slotKey': 'sands'},
+	"PromisedDreamofDaysPast": {'setKey': 'SongOfDaysPast', 'slotKey': 'goblet'},
+	"PoetryofDaysPast": {'setKey': 'SongOfDaysPast', 'slotKey': 'circlet'},
+	"SelflessFloralAccessory": {'setKey': 'NighttimeWhispersInTheEchoingWoods', 'slotKey': 'flower'},
+	"HonestQuill": {'setKey': 'NighttimeWhispersInTheEchoingWoods', 'slotKey': 'plume'},
+	"FaithfulHourglass": {'setKey': 'NighttimeWhispersInTheEchoingWoods', 'slotKey': 'sands'},
+	"MagnanimousInkBottle": {'setKey': 'NighttimeWhispersInTheEchoingWoods', 'slotKey': 'goblet'},
+	"CompassionateLadiesHat": {'setKey': 'NighttimeWhispersInTheEchoingWoods', 'slotKey': 'circlet'},
 }
-
