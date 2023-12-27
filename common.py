@@ -117,6 +117,11 @@ def raw2goodSubstat(rawStr):
 
 def stripNonAlpha(string):
 	return ''.join([c for c in string if c.isalpha()])
+	
+def to_pascal(name):
+	return ''.join(c for c in ''.join(word.capitalize()
+		for word in name.split(' '))
+		if c.isalnum())
 
 def rawName2SetSlot(rawName):
 	# To derive the PascalKey from a specific name, remove all symbols from the name, and Capitalize each word:
