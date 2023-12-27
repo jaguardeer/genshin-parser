@@ -17,6 +17,7 @@ def write_img(path, img):
 	if not success:
 		print(f'Failed to write {str(path)}')
 
+
 for d in dirs:
 	dirname = data_dir / d
 	if not dirname.is_dir():
